@@ -1,0 +1,1154 @@
+,TypeName,make,ModelText,BodyTypeText,Ccm,City,Co2EmissionText,ConditionTypeText,ConsumptionRatingText,ConsumptionTotalText,Doors,DriveTypeText,FirstRegMonth,FirstRegYear,FuelTypeText,Hp,InteriorColorText,Km,Properties,Seats,TransmissionTypeText,color
+0,E 320 Elégance 4-Matic,Mercedes-Benz,E 320,Limousine,3199,Zuzwil,275 g/km,Occasion,null,11.5 l/100km,4,Allrad,1,1999,Benzin,224,grau,31900,Ab MFK,5,Automat,Anthracite
+1,Espada GT 400 Serie 3,Lamborghini,null,Coupé,3929,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,4,1973,Benzin,350,schwarz,48000,Ab MFK,4,Schaltgetriebe,Anthracite
+2,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,2,2004,Benzin,400,beige,42600,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+3,null,Alfa Romeo,8C,Cabriolet,4691,Porrentruy,null,Occasion,null,null,2,Hinterradantrieb,4,2011,Benzin,450,schwarz,23900,Ab MFK,0,Automatik-Getriebe,Silver
+4,Turbo,BMW,2002,Limousine,1977,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1974,Benzin,170,schwarz,97100,Ab MFK,4,Schaltgetriebe,Silver
+5,SPORTS 2000,Datsun,null,Cabriolet,2000,Zuzwil,null,Occasion,null,null,2,null,7,1969,Benzin,143,schwarz,23300,Ab MFK,2,null,Silver
+6,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,322 g/km,Occasion,null,13.5 l/100km,4,Allrad,1,1997,Benzin,300,schwarz,66300,Ab MFK,5,Automat,Silver
+7,Gallardo 5.0 V10 Coupé SE,Lamborghini,GALLARDO,Coupé,4961,Zuzwil,400 g/km,Occasion,G,17.0 l/100km,2,Allrad,1,2006,Benzin,520,schwarz,20000,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+8,3.5 V8 Cabrio,Mercedes-Benz,280,Cabriolet,3499,Sursee,null,Occasion,null,null,2,null,2,1971,Benzin,200,beige,500,null,4,null,Silver
+9,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,297 g/km,Occasion,null,12.5 l/100km,2,Hinterradantrieb,7,1996,Benzin,231,schwarz,156800,Ab MFK,2,Automat,Silver
+10,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,4,2004,Benzin,450,schwarz,91600,Ab MFK,5,Automat,Silver
+11,745i,BMW,745,Limousine,4398,Zuzwil,276 g/km,Occasion,G,11.4 l/100km,4,Hinterradantrieb,12,2004,Benzin,333,schwarz,27600,Ab MFK,5,Automat sequentiell,Silver
+12,911 Carrera 2 RS,Porsche,911,Coupé,3598,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1992,Benzin,260,schwarz,123000,Ab MFK,2,Schaltgetriebe manuell,Silver
+13,911 Carrera 4 Cabrio TECHART,Porsche,911,Cabriolet,3387,Zuzwil,304 g/km,Occasion,null,12.0 l/100km,2,Allrad,5,1999,Benzin,300,schwarz,80400,Ab MFK,4,Automat,Blue
+14,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,310 g/km,Occasion,G,12.9 l/100km,4,Hinterradantrieb,11,2002,Benzin,476,schwarz,53800,Ab MFK,5,Automat sequentiell,Silver
+15,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,12,2002,Benzin,450,schwarz,47400,Ab MFK,5,Automat sequentiell,Silver
+16,Diablo 5.7 VT,Lamborghini,DIABLO,Coupé,5707,Zuzwil,null,Occasion,null,null,2,Allrad,8,1993,Benzin,492,schwarz,14990,Ab MFK,2,Schaltgetriebe manuell,Silver
+17,300SL Roadster,Mercedes-Benz,null,Cabriolet,2995,Sursee,null,Occasion,null,null,2,null,3,1960,Benzin,215,braun,1000,null,2,null,Silver
+18,Coupé,Alfa Romeo,8C,Coupé,4691,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,2008,null,450,schwarz,37000,null,0,Automatik-Getriebe,Silver
+19,ML 400 CDI,Mercedes-Benz,ML 400,SUV / Geländewagen,3996,Zuzwil,288 g/km,Occasion,G,10.9 l/100km,5,Allrad,11,2002,Diesel,250,schwarz,87800,Ab MFK,5,Automat,Silver
+20,Golf 2.0 TFSI GTI,VW,GOLF,Limousine,1984,Zuzwil,194 g/km,Occasion,G,8.1 l/100km,5,Vorderradantrieb,2,2007,Benzin,200,grau,87000,Ab MFK,5,Schaltgetriebe manuell,Silver
+21,Jetta 2.0 TDI Comfort,VW,JETTA,Limousine,1968,Zuzwil,154 g/km,Occasion,E,5.8 l/100km,4,Vorderradantrieb,3,2009,Diesel,140,grau,33500,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+22,190 E 2.5-16 ABS,Mercedes-Benz,190,Limousine,2497,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,1,1989,Benzin,195,schwarz,198000,Ab MFK,5,Automat,Silver
+23,GT MF5,Wiesmann,COUPE,Coupé,4999,Zuzwil,null,Occasion,G,14.1 l/100km,2,Hinterradantrieb,7,2008,Benzin,507,schwarz,34600,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+24,911 Turbo Cabrio,Porsche,911,Cabriolet,3800,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,2,Allrad,12,2009,Benzin,500,mehrfarbig,52000,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Blue
+25,Z4 M Coupé,BMW,Z4,Coupé,3246,Zuzwil,292 g/km,Vorführmodell,G,12.1 l/100km,2,Hinterradantrieb,8,2011,Benzin,343,schwarz,10900,"Ab MFK, Tuning",2,Schaltgetriebe manuell,Silver
+26,1300S,Renault,Alpine A110,Coupé,1296,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1969,Benzin,0,schwarz,9999,Ab MFK,0,Schaltgetriebe,Silver
+27,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,6,2002,Benzin,390,braun,62300,Ab MFK,4,Automatik-Getriebe,Silver
+28,1600 VF,Renault,ALPINE,Coupé,1605,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,8,1976,Benzin,140,schwarz,42940,Ab MFK,4,Schaltgetriebe,Silver
+29,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,8,2002,Benzin,335,grau,35100,Ab MFK,5,Automat sequentiell,Silver
+30,Corvette Z06,Chevrolet,CORVETTE,Coupé,7011,Zuzwil,350 g/km,Occasion,G,14.7 l/100km,2,Hinterradantrieb,3,2010,Benzin,512,schwarz,24000,Ab MFK,2,Schaltgetriebe manuell,Silver
+31,Corolla 1600 GTi TC16,Toyota,COROLLA,Coupé,1587,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,12,1986,Benzin,116,schwarz,101400,Ab MFK,4,Schaltgetriebe manuell,Silver
+32,CLK 55 AMG Avantgarde,Mercedes-Benz,CLK 55 AMG,Coupé,5439,Zuzwil,281 g/km,Occasion,G,11.7 l/100km,2,Hinterradantrieb,6,2000,Benzin,347,schwarz,79500,Ab MFK,4,Automat,Silver
+33,S7 Sportback 4.0 TFSI V8 quattro,Audi,S7,Limousine,3993,Zuzwil,225 g/km,Occasion,G,9.6 l/100km,5,Allrad,3,2014,Benzin,420,schwarz,3600,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Silver
+34,Arnage T,Bentley,ARNAGE,Limousine,6761,Basel,495 g/km,Occasion,G,20.6 l/100km,4,Hinterradantrieb,3,2006,Benzin,457,schwarz,15600,null,5,Automat,Silver
+35,RS4 4.2 V8 quattro,Audi,RS4,Limousine,4163,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,4,Allrad,5,2006,Benzin,420,mehrfarbig,108200,Ab MFK,5,Schaltgetriebe manuell,Blue
+36,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,310 g/km,Occasion,G,12.9 l/100km,4,Hinterradantrieb,10,2002,Benzin,476,schwarz,52400,Ab MFK,5,Automat sequentiell,Silver
+37,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,5,2001,Benzin,420,blau,60800,Ab MFK,4,Schaltgetriebe manuell,Silver
+38,645i,BMW,645,Coupé,4398,Zuzwil,283 g/km,Occasion,null,11.7 l/100km,2,Hinterradantrieb,1,2004,Benzin,333,schwarz,79100,Ab MFK,4,Automatik-Getriebe,Silver
+39,911 GT3,Porsche,911,Coupé,3600,Zuzwil,320 g/km,Occasion,null,12.9 l/100km,2,Hinterradantrieb,1,2000,Benzin,360,schwarz,77000,Ab MFK,4,Schaltgetriebe manuell,Silver
+40,E 420 Avantgarde,Mercedes-Benz,E 420,Limousine,4196,Zuzwil,326 g/km,Occasion,null,14.3 l/100km,4,Hinterradantrieb,11,1996,Benzin,279,schwarz,87800,Ab MFK,5,Automat,Silver
+41,911 Carrera 4 S,Porsche,911,Coupé,3596,Zuzwil,277 g/km,Occasion,G,11.4 l/100km,2,Allrad,3,2002,Benzin,320,blau,68100,Ab MFK,4,Schaltgetriebe manuell,Silver
+42,DB9 Volante,Aston Martin,DB9,Cabriolet,5935,Zuzwil,333 g/km,Occasion,G,14.3 l/100km,2,Hinterradantrieb,5,2013,Benzin,518,schwarz,17000,Ab MFK,4,Automat sequentiell,Silver
+43,Sprint,Triumph,Dolomite,Limousine,1997,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1977,Benzin,128,schwarz,12800,Ab MFK,5,Schaltgetriebe manuell,Silver
+44,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,340 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,6,1996,Benzin,320,beige,74400,Ab MFK,0,Automat,Silver
+45,M6,BMW,M6,Cabriolet,4999,Zuzwil,366 g/km,Occasion,G,15.2 l/100km,2,Hinterradantrieb,2,2007,Benzin,507,weiss,32000,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+46,RS4 Avant quattro,Audi,RS4,Kombi,2671,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,5,Allrad,7,2001,Benzin,380,schwarz,57500,Ab MFK,5,Schaltgetriebe manuell,Blue
+47,911 GT2,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Hinterradantrieb,11,2001,Benzin,462,schwarz,49900,null,4,Schaltgetriebe manuell,Silver
+48,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1983,Benzin,150,beige,69000,Ab MFK,4,Schaltgetriebe manuell,Silver
+49,1600 GT DOHC,Toyota,CELICA,Coupé,1588,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,10,1981,Benzin,107,beige,79300,Ab MFK,5,Schaltgetriebe,Silver
+50,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,11,2002,Benzin,420,grau,31300,Ab MFK,4,Automat sequentiell,Silver
+51,F430 Scuderia,Ferrari,F430,Coupé,4308,Zuzwil,360 g/km,Occasion,G,15.7 l/100km,2,Hinterradantrieb,3,2008,Benzin,506,schwarz,19999,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+52,190 E 2.5-16 ABS,Mercedes-Benz,190,Limousine,2497,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,4,1992,Benzin,195,null,152000,Ab MFK,5,Schaltgetriebe manuell,Silver
+53,750i,BMW,750,Limousine,5379,Zuzwil,327 g/km,Occasion,null,14.2 l/100km,4,Hinterradantrieb,3,1997,Benzin,327,schwarz,69600,Ab MFK,5,Automat sequentiell,Silver
+54,911 Carrera S,Porsche,911,Coupé,3824,Zuzwil,277 g/km,Occasion,G,11.5 l/100km,2,Hinterradantrieb,8,2005,Benzin,355,schwarz,39400,Ab MFK,4,Schaltgetriebe manuell,Silver
+55,Mondial 3.4 T,Ferrari,MONDIAL,Coupé,3402,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1992,Benzin,286,null,16500,Ab MFK,4,Schaltgetriebe manuell,Silver
+56,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,3,2002,Benzin,286,beige,60100,Ab MFK,5,Automat sequentiell,Silver
+57,F12 Berlinetta,Ferrari,F12,Coupé,6262,Zuzwil,350 g/km,Occasion,G,15.0 l/100km,3,Hinterradantrieb,1,2013,Benzin,736,braun,12000,Direkt-/Parallelimport,2,Automatisiertes Schaltgetriebe,Blue
+58,RS 2000,Ford,ESCORT,Coupé,1993,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,3,1978,Benzin,110,schwarz,96600,null,5,Schaltgetriebe,Silver
+59,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,274 g/km,Occasion,G,11.5 l/100km,2,Hinterradantrieb,8,1999,Benzin,224,null,83600,Ab MFK,2,Automat,Silver
+60,911 Carrera 4S,Porsche,911,Coupé,3824,Zuzwil,285 g/km,Occasion,G,11.8 l/100km,2,Allrad,2,2006,Benzin,355,schwarz,101200,Ab MFK,4,Schaltgetriebe manuell,Silver
+61,FJ 40,Toyota,LAND CRUISER,SUV / Geländewagen,4228,Zuzwil,null,Occasion,null,null,3,Allrad,2,1982,Benzin,135,grau,5000,Ab MFK,2,Schaltgetriebe manuell,Silver
+62,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,10,1996,Benzin,320,schwarz,27600,Ab MFK,0,Automat,Silver
+63,1600S,Renault,Alpine A110,Coupé,1564,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1970,Benzin,124,beige,57700,Ab MFK,2,Schaltgetriebe,Silver
+64,ZX,Datsun,280,Coupé,2753,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,3,1981,Benzin,140,rot,50300,Ab MFK,2,Schaltgetriebe,Silver
+65,911 GT2,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Hinterradantrieb,9,2001,Benzin,462,schwarz,53400,Ab MFK,4,Schaltgetriebe manuell,Silver
+66,Murciélago 6.2 Coupé,Lamborghini,MURCIÉLAGO,Coupé,6192,Porrentruy,500 g/km,Occasion,G,21.5 l/100km,2,Allrad,2,2003,Benzin,580,null,9000,Ab MFK,2,Schaltgetriebe manuell,Silver
+67,ML 350 Inspiration,Mercedes-Benz,ML 350,SUV / Geländewagen,3724,Zuzwil,305 g/km,Occasion,G,12.7 l/100km,5,Allrad,10,2003,Benzin,235,schwarz,126300,Ab MFK,5,Automat,Silver
+68,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,11,2003,Benzin,335,schwarz,26300,Ab MFK,5,Automat sequentiell,Blue
+69,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,3,2003,Benzin,420,schwarz,94500,Ab MFK,4,Automatik-Getriebe,Silver
+70,M3 CSL,BMW,M3,Coupé,3246,Zuzwil,287 g/km,Occasion,G,11.9 l/100km,2,Hinterradantrieb,11,2003,Benzin,360,null,35000,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+71,EVO V,Mitsubishi,LANCER,Limousine,1997,Zuzwil,null,Occasion,null,null,4,Allrad,1,1999,Benzin,280,schwarz,120800,Ab MFK,5,Schaltgetriebe manuell,Silver
+72,6.7 BRABUS,Mercedes-Benz,null,Coupé,6700,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,2000,Benzin,450,schwarz,75300,Ab MFK,4,Automatik-Getriebe,Silver
+73,911 Carrera 4,Porsche,911,Coupé,3387,Zuzwil,295 g/km,Occasion,G,12.0 l/100km,2,Allrad,11,2000,Benzin,300,schwarz,38200,Ab MFK,4,Schaltgetriebe manuell,Silver
+74,TT Roadster 1.8 T,Audi,TT,Cabriolet,1781,Zuzwil,199 g/km,Occasion,G,8.3 l/100km,2,Vorderradantrieb,3,2005,Benzin,180,schwarz,49900,Ab MFK,2,Schaltgetriebe manuell,Silver
+75,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,314 g/km,Occasion,G,13.1 l/100km,4,Allrad,10,1999,Benzin,310,beige,101800,Ab MFK,5,Automat sequentiell,Silver
+76,1300,Renault,Alpine A110,Coupé,1288,Zuzwil,null,Occasion,null,null,2,null,0,1973,Benzin,0,schwarz,75700,Ab MFK,2,Schaltgetriebe,Silver
+77,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,10,2005,Benzin,400,braun,33500,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+78,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1995,Benzin,320,null,96600,Ab MFK,0,Automat,Silver
+79,Arnage Red Label,Bentley,ARNAGE,Limousine,6761,Zuzwil,456 g/km,Occasion,G,19.2 l/100km,4,Hinterradantrieb,5,2000,Benzin,405,grau,19300,Ab MFK,5,Automat,Blue
+80,Continental GT Speed 6.0,Bentley,CONTINENTAL,Coupé,5998,St. Gallen,338 g/km,Occasion,G,14.5 l/100km,2,Allrad,9,2015,Benzin,635,schwarz,5000,Ab MFK,4,Automat,Silver
+81,D-Type XKD525,Jaguar,null,Coupé,3442,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1956,Benzin,256,beige,5300,null,2,Schaltgetriebe,Violet
+82,C2,Chevrolet,CORVETTE,Coupé,5351,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1967,Benzin,0,schwarz,21300,Ab MFK,2,Schaltgetriebe,Violet
+83,R5 1400 Alpine Turbo,Renault,R5,Kleinwagen,1397,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,3,1982,Benzin,108,beige,77900,Ab MFK,4,Schaltgetriebe manuell,Violet
+84,E 50 AMG Avantgarde,Mercedes-Benz,E 50 AMG,Limousine,4973,Zuzwil,315 g/km,Occasion,null,13.5 l/100km,4,Hinterradantrieb,3,1997,Benzin,347,schwarz,67400,Ab MFK,5,Automat,Violet
+85,Diablo 5.7 SV,Lamborghini,DIABLO,Coupé,5707,Porrentruy,575 g/km,Occasion,null,24.9 l/100km,2,Hinterradantrieb,1,1999,Benzin,530,bordeaux,44500,null,2,Schaltgetriebe manuell,Violet
+86,S 500,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,4,Hinterradantrieb,10,1999,Benzin,306,schwarz,32000,Ab MFK,5,Automat,Violet
+87,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,7,2002,Benzin,390,beige,95300,Ab MFK,4,Automatik-Getriebe,White
+88,V8 Vantage 4.7,Aston Martin,V8 Vantage,Cabriolet,4735,Zuzwil,312 g/km,Vorführmodell,G,13.2 l/100km,2,Hinterradantrieb,7,2010,Benzin,426,schwarz,9000,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+89,ML 400 CDI,Mercedes-Benz,ML 400,SUV / Geländewagen,3996,Zuzwil,288 g/km,Occasion,G,10.9 l/100km,5,Allrad,2,2002,Diesel,250,schwarz,148300,Ab MFK,5,Automat,White
+90,RS6 Avant 4.0 TFSI V8 qu,Audi,RS6,Kombi,3993,Zuzwil,229 g/km,Neu,G,9.8 l/100km,5,Allrad,4,2014,Benzin,560,schwarz,100,"Ab MFK, Tuning",5,Automat sequentiell,Blue
+91,Sprint,Triumph,Dolomite,Limousine,1997,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,6,1977,Benzin,128,mehrfarbig,10800,Ab MFK,5,Schaltgetriebe manuell,White
+92,Cayenne S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,380 g/km,Occasion,null,15.8 l/100km,5,Allrad,3,2003,Benzin,340,schwarz,115000,Ab MFK,5,Automatik-Getriebe,White
+93,Spyder GT,Maserati,SPYDER GT,Cabriolet,4244,Zuzwil,430 g/km,Occasion,G,18.6 l/100km,2,Hinterradantrieb,5,2003,Benzin,390,braun,78300,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+94,A4 3.0 V6,Audi,A4,Limousine,2976,Zuzwil,233 g/km,Occasion,null,9.7 l/100km,4,Vorderradantrieb,2,2004,Benzin,220,schwarz,95300,Ab MFK,5,Automatik-Getriebe,White
+95,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,9,2003,Benzin,335,beige,101300,Ab MFK,5,Automat sequentiell,White
+96,A310 2700 VA,Renault,ALPINE,Coupé,2663,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,11,1979,Benzin,150,blau,11200,Ab MFK,0,Schaltgetriebe,White
+97,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,5,2007,Benzin,517,schwarz,26000,Ab MFK,2,Schaltgetriebe manuell,White
+98,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,1,2003,Benzin,500,anthrazit,43000,Ab MFK,2,Automat,White
+99,CLK 55 AMG Avantgarde,Mercedes-Benz,CLK 55 AMG,Coupé,5439,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,11,2001,Benzin,347,null,47500,Ab MFK,4,Automat,White
+100,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Neu,G,15.7 l/100km,5,Allrad,1,2007,Benzin,450,schwarz,10,Ab MFK,5,Automat sequentiell,White
+101,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,8,2003,Benzin,390,blau,61400,Ab MFK,4,Automatik-Getriebe,Blue
+102,330i,BMW,330,Limousine,2979,Zuzwil,238 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,9,2000,Benzin,231,schwarz,49700,Ab MFK,5,Automat,White
+103,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,333 g/km,Occasion,G,13.9 l/100km,2,Hinterradantrieb,11,2000,Benzin,367,grau,94000,Ab MFK,4,Automat,White
+104,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,322 g/km,Occasion,null,13.5 l/100km,4,Allrad,3,1997,Benzin,300,schwarz,94700,null,5,Automat,White
+105,911 Turbo S Cabrio,Porsche,911,Cabriolet,3800,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,2,Allrad,7,2011,Benzin,530,mehrfarbig,14000,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+106,MP4-12C Coupé 3.8 V8,Mclaren,12C,Coupé,3798,Zuzwil,279 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,3,2012,Benzin,626,schwarz,23000,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+107,458 Spider Italia 4.5 V8,Ferrari,458,Cabriolet,4497,Zuzwil,275 g/km,Occasion,G,11.8 l/100km,2,Hinterradantrieb,1,2012,Benzin,566,schwarz,11700,null,2,Automatisiertes Schaltgetriebe,White
+108,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,7,2008,Benzin,580,schwarz,120000,Ab MFK,5,Automat sequentiell,White
+109,599 GTB,Ferrari,599,Coupé,5999,Zuzwil,490 g/km,Occasion,G,21.3 l/100km,2,Hinterradantrieb,4,2007,Benzin,620,beige,22000,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+110,S 63 AMG L,Mercedes-Benz,S 63 AMG,Limousine,6209,Zuzwil,355 g/km,Occasion,G,14.9 l/100km,4,Hinterradantrieb,4,2008,Benzin,525,schwarz,46000,Ab MFK,5,Automat sequentiell,White
+111,C1,Chevrolet,CORVETTE,Cabriolet,5351,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1961,Benzin,327,schwarz,67000,Ab MFK,2,Schaltgetriebe manuell,White
+112,RT 12,RUF,null,Coupé,3800,Zuzwil,null,Occasion,null,null,2,null,6,2007,Benzin,650,schwarz,36000,Ab MFK,0,null,Anthracite
+113,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,10,2002,Benzin,450,schwarz,81000,"Ab MFK, Tuning",5,Automat,Blue
+114,S 500 4Matic,Mercedes-Benz,S 500,Limousine,5461,Zuzwil,296 g/km,Occasion,G,12.6 l/100km,4,Allrad,11,2006,Benzin,388,schwarz,62300,Ab MFK,5,Automat sequentiell,White
+115,Arnage Green Label,Bentley,ARNAGE,Limousine,4398,Zuzwil,390 g/km,Occasion,G,19.9 l/100km,4,Hinterradantrieb,7,2000,Benzin,354,grau,34900,Ab MFK,4,Automat,White
+116,740i,BMW,740,Limousine,4398,Zuzwil,329 g/km,Occasion,null,13.8 l/100km,4,Hinterradantrieb,4,1998,Benzin,286,grau,85400,Ab MFK,5,Automat,White
+117,null,De Tomaso,PANTERA,Limousine,5752,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,9,1974,Benzin,0,schwarz,68100,null,2,Schaltgetriebe,White
+118,XJR 4.0 Supercharged,Jaguar,XJ,Limousine,3980,Zuzwil,null,Occasion,null,13.3 l/100km,4,Hinterradantrieb,1,1996,Benzin,320,beige,99900,Ab MFK,5,Automat,White
+119,ML 500 4Matic,Mercedes-Benz,ML 500,SUV / Geländewagen,4966,Zuzwil,319 g/km,Occasion,G,13.4 l/100km,5,Allrad,12,2005,Benzin,306,schwarz,37500,Ab MFK,5,Automat sequentiell,White
+120,De Lorean DMC-12,Delorean,null,Coupé,2849,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1981,Benzin,132,grau,15000,null,0,Schaltgetriebe,White
+121,Panamera Turbo 4.8,Porsche,PANAMERA,Limousine,4806,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,5,Allrad,9,2009,Benzin,500,mehrfarbig,30300,Ab MFK,4,Automatisiertes Schaltgetriebe,White
+122,Abarth Serie II,Autobianchi,A112,Kleinwagen,981,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,6,1974,Benzin,57,mehrfarbig,9999,null,2,Schaltgetriebe,White
+123,1300 Junior,Alfa Romeo,SPIDER,Cabriolet,1290,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,3,1970,Benzin,88,schwarz,106000,Ab MFK,3,Schaltgetriebe,White
+124,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,1,2003,Benzin,420,anthrazit,37800,Ab MFK,5,Automat sequentiell,Blue
+125,2500HD 6.6l V8,Chevrolet,Silverado,Pick-up,0,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,2,2007,null,0,mehrfarbig,34500,Ab MFK,5,Automatik-Getriebe,White
+126,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,333 g/km,Occasion,G,13.9 l/100km,2,Hinterradantrieb,1,2001,Benzin,367,grau,73400,Ab MFK,4,Automat,White
+127,Red Label,Bentley,ARNAGE,Limousine,6750,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,10,2000,Benzin,405,beige,85700,Ab MFK,5,Automatik-Getriebe,White
+128,CL 600,Mercedes-Benz,CL 600,Coupé,5513,Zuzwil,353 g/km,Occasion,G,14.7 l/100km,2,Hinterradantrieb,9,2003,Benzin,500,beige,12200,"Ab MFK, Tuning",4,Automat,White
+129,Alpine V6 Turbo,Renault,ALPINE,Coupé,2457,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1988,Benzin,185,grau,98600,Ab MFK,4,Schaltgetriebe manuell,White
+130,CLS 500,Mercedes-Benz,CLS 500,Kombi,4663,Zuzwil,214 g/km,Occasion,G,9.2 l/100km,5,Hinterradantrieb,5,2013,Benzin,408,schwarz,10400,Ab MFK,5,Automat sequentiell,White
+131,CLS 63 AMG,Mercedes-Benz,CLS 63 AMG,Limousine,6209,Zuzwil,345 g/km,Occasion,G,14.5 l/100km,4,Hinterradantrieb,9,2007,Benzin,515,grau,15800,Ab MFK,4,Automat sequentiell,White
+132,H3 3.7 Adventure,Hummer,H3,SUV / Geländewagen,3653,Zuzwil,327 g/km,Vorführmodell,G,13.8 l/100km,5,Allrad,11,2008,Benzin,245,schwarz,150,Ab MFK,5,Schaltgetriebe manuell,White
+133,Phantom 6.7 V12,Rolls-Royce,PHANTOM,Limousine,6749,Zuzwil,385 g/km,Occasion,G,15.9 l/100km,4,Hinterradantrieb,11,2004,Benzin,460,beige,54000,Ab MFK,5,Automat,White
+134,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,326 g/km,Occasion,G,13.6 l/100km,2,Allrad,2,2008,Benzin,480,schwarz,73500,Ab MFK,4,Automat,White
+135,Explorer 4.0 Ltd. Edition,Ford ,EXPLORER,SUV / Geländewagen,4011,Zuzwil,350 g/km,Occasion,null,13.7 l/100km,5,Allrad,9,1999,Benzin,197,beige,50100,Ab MFK,5,Automat,Blue
+136,1300 VC Gordini,Renault,Alpine A110,Coupé,1255,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1971,Benzin,0,schwarz,31800,Ab MFK,2,Schaltgetriebe,White
+137,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,10,2001,Benzin,420,beige,30100,Ab MFK,4,Automatik-Getriebe,White
+138,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,1,2010,Benzin,700,schwarz,15000,Ab MFK,5,Automat sequentiell,White
+139,Continental GT 6.0,Bentley,CONTINENTAL,Coupé,5998,Zuzwil,410 g/km,Occasion,G,17.1 l/100km,2,Allrad,7,2004,Benzin,560,mehrfarbig,79700,Ab MFK,4,Automat,White
+140,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,4,2003,Benzin,517,schwarz,39000,Ab MFK,2,Automatik-Getriebe,White
+141,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1991,Benzin,320,grau,197800,Ab MFK,2,Automat,White
+142,MX-5 1.8i 16V Confort,Mazda,MX-5,Cabriolet,1798,Zuzwil,174 g/km,Occasion,G,7.3 l/100km,2,Hinterradantrieb,3,2007,Benzin,126,schwarz,6900,Ab MFK,2,Schaltgetriebe manuell,White
+143,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,1,2009,Benzin,580,null,31500,Ab MFK,5,Automat sequentiell,White
+144,Turbo 16V,Peugeot,205,Coupé,1775,Zuzwil,null,Occasion,null,null,3,Allrad,11,1984,Benzin,200,schwarz,58950,Ab MFK,2,Schaltgetriebe,White
+145,A8 4.2 quattro,Audi,A8,Limousine,4170,Zuzwil,322 g/km,Occasion,null,13.4 l/100km,4,Allrad,3,1996,Benzin,300,blau,143700,Ab MFK,5,Automat sequentiell,White
+146,500 SE,Mercedes-Benz,500,Limousine,4971,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,8,1991,Benzin,320,null,91600,Ab MFK,5,Automat,Blue
+147,320d xDrive M-Sportpaket,BMW,320,Limousine,1995,Zuzwil,143 g/km,Occasion,D,5.4 l/100km,4,Allrad,2,2009,Diesel,177,schwarz,110600,Ab MFK,5,Schaltgetriebe manuell,White
+148,728i,BMW,728,Limousine,2793,Zuzwil,241 g/km,Occasion,null,10.0 l/100km,4,Hinterradantrieb,11,1998,Benzin,193,schwarz,34400,Ab MFK,5,Automatik-Getriebe,White
+149,null,Jaguar,XJ 220,Coupé,3497,Zuzwil,null,Occasion,null,null,0,null,5,1996,null,550,grau,25000,Ab MFK,2,Schaltgetriebe,White
+150,Cayenne S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,380 g/km,Occasion,null,15.8 l/100km,5,Allrad,6,2012,Benzin,340,schwarz,1000,Ab MFK,5,Automatik-Getriebe,White
+151,Phantom 6.7 V12,Rolls-Royce,PHANTOM,Limousine,6749,Zuzwil,385 g/km,Occasion,G,15.9 l/100km,4,Hinterradantrieb,1,2004,Benzin,460,beige,56000,Ab MFK,5,Automat,White
+152,Continental FlyingSpur6.0,Bentley,CONTINENTAL,Limousine,5998,Zuzwil,423 g/km,Occasion,G,17.7 l/100km,4,Allrad,1,2006,Benzin,560,schwarz,43000,Ab MFK,4,Automat,White
+153,CLS 63 AMG,Mercedes-Benz,CLS 63 AMG,Limousine,6209,Zuzwil,345 g/km,Occasion,G,14.5 l/100km,4,Hinterradantrieb,8,2010,Benzin,515,beige,37500,Ab MFK,4,Automat sequentiell,White
+154,Espace 2.0 T Privilège,Renault,ESPACE,Kompaktvan / Minivan,1998,Zuzwil,232 g/km,Occasion,null,9.7 l/100km,5,Vorderradantrieb,3,2004,Benzin,163,null,145000,Ab MFK,5,Automatik-Getriebe,White
+155,XKR S/C,Jaguar,XK,Coupé,3996,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,11,1999,Benzin,363,beige,103000,Ab MFK,4,Automat,White
+156,1000,Mini,MINI,Limousine,998,Safenwil,null,Oldtimer,null,null,2,Vorderradantrieb,7,1976,Benzin,40,braun,44300,Ab MFK,4,Schaltgetriebe manuell,White
+157,ML 500,Mercedes-Benz,ML 500,SUV / Geländewagen,4966,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,1,2002,Benzin,292,schwarz,20800,Ab MFK,5,Automat,Blue
+158,MP4-12C Cabriolet 3.8 V8,Mclaren,12C,Cabriolet,3798,Zuzwil,279 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,3,2013,Benzin,625,schwarz,12000,Ab MFK,2,Automatisiertes Schaltgetriebe,White
+159,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,317 g/km,Occasion,null,13.4 l/100km,2,Hinterradantrieb,2,1997,Benzin,231,beige,70600,Ab MFK,2,Automat,White
+160,WLR,AGM,null,Cabriolet,3499,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,1,2004,Benzin,250,weiss,1,Rennwagen,2,Schaltgetriebe,White
+161,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,1,2003,Benzin,500,rot,81000,Ab MFK,2,Automat,White
+162,911 Carrera S Cabrio,Porsche,911,Cabriolet,3824,Zuzwil,280 g/km,Occasion,null,11.6 l/100km,2,Hinterradantrieb,8,2006,Benzin,355,rot,29800,Ab MFK,2,Automatik-Getriebe,White
+163,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,11,2001,Benzin,306,anthrazit,15600,Ab MFK,2,Automat,White
+164,S 600,Mercedes-Benz,S 600,Coupé,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1993,Benzin,394,null,26800,Ab MFK,4,Automat,White
+165,Phaeton 3.0 TDi V6 4M,VW,PHAETON,Limousine,2967,Zuzwil,259 g/km,Occasion,G,9.6 l/100km,4,Allrad,6,2005,Diesel,225,grau,48300,Ab MFK,5,Automat sequentiell,White
+166,456M GT,Ferrari,456,Coupé,5474,Zuzwil,495 g/km,Occasion,G,22.0 l/100km,2,Hinterradantrieb,3,2000,Benzin,442,schwarz,36000,Ab MFK,4,Schaltgetriebe manuell,White
+167,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,3,2007,Benzin,612,schwarz,102000,Ab MFK,5,Automat sequentiell,White
+168,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,2,Hinterradantrieb,12,2008,Benzin,517,schwarz,41000,Ab MFK,2,Automat sequentiell,Blue
+169,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,null,13.9 l/100km,4,Hinterradantrieb,10,1998,Benzin,400,schwarz,39700,Ab MFK,5,Schaltgetriebe manuell,White
+170,A 150 Classic,Mercedes-Benz,A 150,Limousine,1498,Zuzwil,159 g/km,Occasion,F,6.7 l/100km,3,Vorderradantrieb,10,2005,Benzin,95,anthrazit,99000,Ab MFK,5,Schaltgetriebe manuell,White
+171,Reventon Coupé,Lamborghini,null,Coupé,6496,Porrentruy,null,Occasion,G,null,2,Allrad,4,2008,Benzin,650,grau,5900,Ab MFK,2,Automatik-Getriebe,White
+172,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,3,2004,Benzin,450,schwarz,55000,Ab MFK,5,Automat sequentiell,White
+173,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,10,2008,Benzin,580,schwarz,79700,Ab MFK,5,Automat,Blue
+174,E 320 Avantgarde,Mercedes-Benz,E 320,Kombi,3199,Zuzwil,259 g/km,Occasion,G,10.8 l/100km,5,Hinterradantrieb,5,2001,Benzin,224,grau,83000,Ab MFK,5,Automat,Blue
+175,CLK DTM AMG,Mercedes-Benz,null,Cabriolet,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,2008,Benzin,582,schwarz,32500,Ab MFK,4,Automatik-Getriebe,Blue
+176,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,307 g/km,Occasion,G,12.8 l/100km,2,Allrad,3,2009,Benzin,480,beige,33000,Ab MFK,4,Schaltgetriebe manuell,Blue
+177,X5 4.6is,BMW,X5,SUV / Geländewagen,4619,Zuzwil,356 g/km,Occasion,G,14.9 l/100km,5,Allrad,11,2002,Benzin,347,schwarz,26500,Ab MFK,5,Automat sequentiell,Anthracite
+178,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,4,2004,Benzin,500,anthrazit,14500,Ab MFK,2,Automat,Blue
+179,Brooklands,Bentley,BROOKLANDS,Limousine,6749,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,3,1995,Benzin,245,null,39100,Ab MFK,5,Automat,Blue
+180,C 320 Elégance,Mercedes-Benz,C 320,Limousine,3199,Zuzwil,260 g/km,Occasion,G,10.8 l/100km,4,Hinterradantrieb,5,2002,Benzin,218,schwarz,145100,Ab MFK,5,Automat,Blue
+181,B7 TURBO,Bmw-Alpina,5 SERIES,Limousine,3428,Zuzwil,null,Occasion,null,null,4,null,5,1986,Benzin,300,schwarz,199300,Ab MFK,0,null,Blue
+182,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Porrentruy,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,11,2003,Benzin,400,bordeaux,42500,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+183,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,7,2008,Benzin,580,mehrfarbig,114200,"Ab MFK, Direkt-/Parallelimport",5,Automat,Blue
+184,728i,BMW,728,Limousine,2793,Zuzwil,241 g/km,Occasion,null,10.3 l/100km,4,Hinterradantrieb,5,1998,Benzin,193,schwarz,26200,Ab MFK,5,Automatik-Getriebe,Blue
+185,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,5,2003,Benzin,450,schwarz,64500,Ab MFK,5,Automat sequentiell,Blue
+186,E 63 AMG S 4Matic,Mercedes-Benz,E 63 AMG,Limousine,5461,Zuzwil,242 g/km,Occasion,G,10.3 l/100km,4,Allrad,7,2013,Benzin,585,schwarz,23900,Ab MFK,5,Automatisiertes Schaltgetriebe,Blue
+187,Murciélago LP640-4 Cpé,Lamborghini,MURCIÉLAGO,Coupé,6496,Zuzwil,495 g/km,Occasion,G,21.3 l/100km,2,Allrad,7,2007,Benzin,641,mehrfarbig,38000,"Ab MFK, Direkt-/Parallelimport",2,Automatisiertes Schaltgetriebe,Blue
+188,Turbo,Porsche,924,Coupé,1984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1980,Benzin,170,mehrfarbig,54000,Ab MFK,4,Schaltgetriebe manuell,Anthracite
+189,Roadster,MG,null,Coupé,1489,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,1,1957,Benzin,68,schwarz,37000,Ab MFK,2,Schaltgetriebe,Blue
+190,S 55 AMG,Mercedes-Benz,S 55 AMG,Limousine,5439,Zuzwil,310 g/km,Occasion,G,13.0 l/100km,4,Hinterradantrieb,2,1999,Benzin,360,schwarz,96500,Ab MFK,5,Automat,Blue
+191,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,10,2003,Benzin,500,grau,49900,Ab MFK,2,Automat,Blue
+192,E 240 Avantgarde,Mercedes-Benz,E 240,Limousine,2597,Zuzwil,252 g/km,Occasion,null,10.5 l/100km,4,Hinterradantrieb,3,2003,Benzin,177,schwarz,106000,Ab MFK,5,Automatik-Getriebe,Blue
+193,null,BMW,Z1,Cabriolet,2494,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1990,Benzin,170,mehrfarbig,27700,null,2,Schaltgetriebe manuell,Blue
+194,Legend V6 3.5i,Honda,LEGEND,Limousine,3474,Zuzwil,291 g/km,Occasion,G,12.3 l/100km,4,Vorderradantrieb,3,2001,Benzin,208,beige,111500,Ab MFK,5,Automat,Blue
+195,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,3,2002,Benzin,420,blau,132600,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Blue
+196,CLS 63 AMG,Mercedes-Benz,CLS 63 AMG,Limousine,5461,Zuzwil,231 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,5,2011,Benzin,525,schwarz,31400,Ab MFK,4,Automat sequentiell,Blue
+197,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,274 g/km,Occasion,G,11.5 l/100km,2,Hinterradantrieb,4,2000,Benzin,224,schwarz,25100,Ab MFK,2,Automat,Blue
+198,750i,BMW,750,Limousine,5377,Zuzwil,338 g/km,Occasion,null,14.2 l/100km,4,Hinterradantrieb,7,1995,Benzin,327,grau,119600,Ab MFK,5,Automat,Blue
+199,Cabriolet 2.8 E,Audi,Cabriolet,Cabriolet,2771,Zuzwil,254 g/km,Occasion,null,11.4 l/100km,2,Vorderradantrieb,7,1996,Benzin,174,mehrfarbig,120200,Ab MFK,4,Automat,Anthracite
+200,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,10,2008,Benzin,580,silber,49800,Ab MFK,5,Automat sequentiell,Blue
+201,C 230 Elégance,Mercedes-Benz,C 230,Limousine,2295,Zuzwil,223 g/km,Occasion,null,9.4 l/100km,4,Hinterradantrieb,2,1997,Benzin,150,beige,123400,Ab MFK,5,Automatik-Getriebe,Blue
+202,Gallardo LP570-4 Coupé SL,Lamborghini,GALLARDO,Coupé,5204,Zuzwil,319 g/km,Occasion,G,13.5 l/100km,2,Allrad,3,2011,Benzin,570,schwarz,18000,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+203,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,8,2006,Benzin,612,schwarz,68800,Ab MFK,5,Automat sequentiell,Blue
+204,A5 Motor,Renault,Alpine A110,Coupé,1397,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1977,Benzin,93,schwarz,39267,Ab MFK,2,Schaltgetriebe,Blue
+205,190 E 2.5-16 ABS,Mercedes-Benz,190,Limousine,2497,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,10,1990,Benzin,195,schwarz,162000,null,5,Schaltgetriebe manuell,Blue
+206,Turbo,BMW,2002,Limousine,1990,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1974,Benzin,180,schwarz,7990,Ab MFK,4,Schaltgetriebe,Blue
+207,5.0 GT Premium 50 Years,Ford ,MUSTANG,Coupé,4951,Zuzwil,281 g/km,Occasion,null,12.0 l/100km,2,Hinterradantrieb,4,2015,Benzin,425,schwarz,4300,Ab MFK,4,Automatik-Getriebe,Blue
+208,Gallardo LP550-2 Cpé V.B.,Lamborghini,GALLARDO,Coupé,5204,Zuzwil,315 g/km,Occasion,G,13.3 l/100km,2,Hinterradantrieb,9,2009,Benzin,551,null,7300,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+209,F430 Spider,Ferrari,F430,Cabriolet,4308,Porrentruy,420 g/km,Occasion,G,18.3 l/100km,2,Hinterradantrieb,6,2007,Benzin,486,rot,53500,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+210,Range Rover 3.6 d HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,3628,Zuzwil,299 g/km,Occasion,G,11.3 l/100km,5,Allrad,2,2007,Diesel,272,grau,99900,Ab MFK,5,Automat,Anthracite
+211,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,299 g/km,Occasion,G,12.4 l/100km,2,Hinterradantrieb,12,2001,Benzin,306,schwarz,116100,Ab MFK,4,Automat,Blue
+212,Quattroporte 4.7 S,Maserati,QUATTROPORTE,Limousine,4691,Zuzwil,365 g/km,Occasion,G,15.7 l/100km,4,Hinterradantrieb,2,2009,Benzin,431,beige,96000,"Ab MFK, Direkt-/Parallelimport",5,Automat sequentiell,Blue
+213,530d Touring,BMW,530,Kombi,2993,Zuzwil,192 g/km,Occasion,null,7.2 l/100km,5,Hinterradantrieb,11,2004,Diesel,218,schwarz,108500,Ab MFK,5,Automatik-Getriebe,Blue
+214,Eos 2.0 FSI T,VW,EOS,Cabriolet,1984,Zuzwil,202 g/km,Occasion,G,8.4 l/100km,2,Vorderradantrieb,9,2007,Benzin,200,rot,27000,Ab MFK,4,Schaltgetriebe manuell,Blue
+215,A6 4.2 V8 quattro,Audi,A6,Limousine,4163,Zuzwil,278 g/km,Occasion,G,11.6 l/100km,4,Allrad,3,2004,Benzin,335,beige,62000,Ab MFK,5,Automat sequentiell,Blue
+216,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,2,1998,Benzin,354,schwarz,86900,Ab MFK,5,Automat,Blue
+217,911 Carrera Cabrio,Porsche,911,Cabriolet,3387,Zuzwil,295 g/km,Occasion,null,12.0 l/100km,2,Hinterradantrieb,1,1999,Benzin,300,schwarz,34400,Ab MFK,4,Schaltgetriebe manuell,Blue
+218,X3 3.0i,BMW,X3,SUV / Geländewagen,2979,Zuzwil,276 g/km,Occasion,null,11.4 l/100km,5,Allrad,10,2004,Benzin,231,beige,86200,Ab MFK,5,Automatik-Getriebe,Blue
+219,B6 4.4 V8 Cabrio,Bmw-Alpina,6 SERIES,Cabriolet,4398,Zuzwil,306 g/km,Occasion,G,12.8 l/100km,2,Hinterradantrieb,4,2007,Benzin,500,beige,66800,Ab MFK,4,Automat,Blue
+220,540i,BMW,540,Limousine,4398,Zuzwil,298 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,11,1998,Benzin,286,grau,78700,Ab MFK,5,Automat,Blue
+221,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,6,2002,Benzin,476,grau,16500,Ab MFK,2,Automat,Anthracite
+222,Boxster S 3.2,Porsche,BOXSTER,Cabriolet,3179,Zuzwil,281 g/km,Occasion,G,11.3 l/100km,2,Hinterradantrieb,4,2000,Benzin,252,rot,43400,Ab MFK,2,Automat,Blue
+223,458 Italia 4.5 V8 Speciale,Ferrari,458,Coupé,4497,Zuzwil,275 g/km,Neu,G,11.8 l/100km,2,Hinterradantrieb,1,2015,Benzin,619,schwarz,200,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+224,E 420 Elégance,Mercedes-Benz,E 420,Limousine,4196,Zuzwil,326 g/km,Occasion,null,14.3 l/100km,4,Hinterradantrieb,6,1996,Benzin,279,beige,26800,Ab MFK,5,Automat,Blue
+225,ML 63 AMG 4Matic,Mercedes-Benz,ML 63 AMG,SUV / Geländewagen,5461,Zuzwil,276 g/km,Occasion,G,11.8 l/100km,5,Allrad,1,2013,Benzin,525,schwarz,25100,Ab MFK,5,Automat sequentiell,Blue
+226,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,10,1998,Benzin,354,schwarz,35000,Ab MFK,5,Automat,Blue
+227,S 600,Mercedes-Benz,S 600,Coupé,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1993,Benzin,394,schwarz,111000,Ab MFK,4,Automat,Blue
+228,SLK 230 Kompressor,Mercedes-Benz,SLK 230,Cabriolet,2295,Zuzwil,225 g/km,Occasion,null,9.5 l/100km,2,Hinterradantrieb,7,1998,Benzin,193,mehrfarbig,166550,Ab MFK,2,Automat,Blue
+229,Esprit 3.5 V8 SE,Lotus,ESPRIT,Coupé,3506,Zuzwil,366 g/km,Occasion,G,15.7 l/100km,2,Hinterradantrieb,7,2002,Benzin,354,schwarz,36700,Ab MFK,2,Schaltgetriebe manuell,Blue
+230,Impreza 2.5T WRX,Subaru,IMPREZA,Limousine,2457,Zuzwil,244 g/km,Occasion,G,10.3 l/100km,4,Allrad,4,2006,Benzin,230,schwarz,161500,Ab MFK,5,Schaltgetriebe manuell,Blue
+231,DB7,Aston Martin,DB7,Coupé,3239,Zuzwil,null,Occasion,null,15.7 l/100km,2,Hinterradantrieb,4,1998,Benzin,332,beige,97200,Ab MFK,4,Automatik-Getriebe,Blue
+232,Range Rover 4.4TD Vogue,Land Rover,RANGE ROVER,SUV / Geländewagen,4367,Zuzwil,253 g/km,Occasion,G,9.4 l/100km,5,Allrad,1,2012,Diesel,312,beige,63200,"Ab MFK, Direkt-/Parallelimport",5,Automat sequentiell,Anthracite
+233,S 500,Mercedes-Benz,S 500,Limousine,5461,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,4,Hinterradantrieb,6,2006,Benzin,388,schwarz,48000,Ab MFK,5,Automat sequentiell,Blue
+234,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1981,Benzin,150,schwarz,68900,Ab MFK,4,Schaltgetriebe manuell,Blue
+235,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,7,2002,Benzin,450,beige,47600,Ab MFK,5,Automat sequentiell,Blue
+236,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,443 g/km,Occasion,G,18.9 l/100km,4,Hinterradantrieb,6,2004,Benzin,400,null,62700,Ab MFK,5,Automatisiertes Schaltgetriebe,Blue
+237,A310 1600 VG,Renault,ALPINE,Limousine,1647,Zuzwil,null,Oldtimer,null,null,0,Hinterradantrieb,6,1976,Benzin,0,anthrazit,59800,Ab MFK,0,Schaltgetriebe,Blue
+238,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,8,2002,Benzin,450,schwarz,39300,Ab MFK,5,Automat,Blue
+239,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,null,19.3 l/100km,2,Hinterradantrieb,3,2005,Benzin,400,braun,8000,Ab MFK,2,Automatik-Getriebe,Blue
+240,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,9,2000,Benzin,306,grau,75100,Ab MFK,4,Automat,Blue
+241,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,7,2002,Benzin,517,bordeaux,51200,Ab MFK,2,Automatik-Getriebe,Blue
+242,C70 T5,Volvo,C70,Coupé,2319,Zuzwil,234 g/km,Occasion,null,9.8 l/100km,2,Vorderradantrieb,2,2001,Benzin,240,anthrazit,27900,Ab MFK,4,Schaltgetriebe manuell,Blue
+243,BLACK SERIES (Coupé),Mercedes-Benz,C 63 AMG,Coupé,6208,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,2012,Benzin,517,schwarz,12100,Ab MFK,2,Automatik-Getriebe,Anthracite
+244,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,5,1998,Benzin,226,schwarz,49700,Ab MFK,5,Automat,Blue
+245,1600 GT,Toyota,CELICA,Coupé,1570,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1971,Benzin,107,mehrfarbig,53100,Ab MFK,5,Schaltgetriebe manuell,Blue
+246,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,8,1999,Benzin,400,schwarz,20700,Ab MFK,2,Automatik-Getriebe,Blue
+247,B7 Turbo Coupé,Bmw-Alpina,7 SERIES,Coupé,2986,Zuzwil,null,Occasion,null,null,2,null,4,1984,Benzin,300,schwarz,150200,null,4,Schaltgetriebe,Blue
+248,McLaren Roadster,Mercedes-Benz,SLR,Cabriolet,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,2008,Benzin,626,schwarz,2400,Ab MFK,2,Automatik-Getriebe,Blue
+249,924,Porsche,924,Coupé,1984,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,5,1985,Benzin,125,null,47000,null,4,Schaltgetriebe manuell,Blue
+250,A8  6.0 quattro,Audi,A8,Limousine,5998,Zuzwil,334 g/km,Occasion,G,13.9 l/100km,4,Allrad,7,2004,Benzin,450,schwarz,49000,Ab MFK,5,Automat sequentiell,Blue
+251,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,7,2008,Benzin,700,schwarz,46000,Ab MFK,5,Automat sequentiell,Blue
+252,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,6,1978,Benzin,150,blau,77300,Ab MFK,4,Schaltgetriebe manuell,Blue
+253,M3,BMW,M3,Cabriolet,3246,Zuzwil,328 g/km,Occasion,G,13.6 l/100km,2,Hinterradantrieb,3,2002,Benzin,343,schwarz,142000,Ab MFK,4,Automatisiertes Schaltgetriebe,Blue
+254,B8,Bmw-Alpina,3 SERIES,Limousine,4617,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,1,1999,Benzin,333,mehrfarbig,146500,Ab MFK,5,Schaltgetriebe,Anthracite
+255,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,5,2003,Benzin,500,anthrazit,32500,"Ab MFK, Tuning",2,Automat,Blue
+256,RS4 Avant quattro,Audi,RS4,Kombi,2671,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,5,Allrad,2,2001,Benzin,380,null,37800,Ab MFK,5,Schaltgetriebe manuell,Blue
+257,CLK 55 AMG Avantgarde,Mercedes-Benz,CLK 55 AMG,Coupé,5439,Zuzwil,281 g/km,Occasion,null,11.7 l/100km,2,Hinterradantrieb,6,2002,Benzin,347,schwarz,52500,"Ab MFK, Direkt-/Parallelimport",4,Automat,Blue
+258,SLK 230 Kompressor,Mercedes-Benz,SLK 230,Cabriolet,2295,Zuzwil,233 g/km,Occasion,null,9.7 l/100km,2,Hinterradantrieb,8,2002,Benzin,197,schwarz,30500,Ab MFK,2,Automatik-Getriebe,Blue
+259,911 Carrera 4S,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,12.3 l/100km,2,Allrad,3,1996,Benzin,285,mehrfarbig,139900,Ab MFK,4,Schaltgetriebe manuell,Blue
+260,Lancer Evo VII,Mitsubishi,LANCER,Limousine,1997,Zuzwil,null,Occasion,null,null,4,Allrad,7,2003,Benzin,280,schwarz,35200,Ab MFK,5,Schaltgetriebe manuell,Bordeaux
+261,S 320,Mercedes-Benz,S 320,Limousine,3199,Zuzwil,276 g/km,Occasion,G,11.5 l/100km,4,Hinterradantrieb,6,2000,Benzin,224,anthrazit,14100,Ab MFK,5,Automat,Bordeaux
+262,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,4,2004,Benzin,600,null,23000,Ab MFK,2,Automat,Bordeaux
+263,170V B Cabrio 136,Mercedes-Benz,null,Coupé,1697,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,7,1939,Benzin,38,schwarz,1,null,4,Schaltgetriebe,Bordeaux
+264,S 500,Mercedes-Benz,S 500,Limousine,5461,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,4,Hinterradantrieb,11,2005,Benzin,388,null,128000,Ab MFK,5,Automat sequentiell,Bordeaux
+265,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,7,2008,Benzin,580,null,25400,Ab MFK,5,Automat sequentiell,Anthracite
+266,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,2,Hinterradantrieb,3,2006,Benzin,517,schwarz,47000,Ab MFK,2,Automat sequentiell,Anthracite
+267,911 Turbo S Cabrio,Porsche,911,Cabriolet,3800,Zuzwil,231 g/km,Neu,G,9.9 l/100km,2,Allrad,5,2014,Benzin,560,schwarz,450,Ab MFK,4,Automatisiertes Schaltgetriebe,Bordeaux
+268,SL 300,Mercedes-Benz,SL 300,Cabriolet,2959,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1993,Benzin,231,schwarz,63600,Ab MFK,2,Automat,Bordeaux
+269,S 500,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,4,Hinterradantrieb,5,2000,Benzin,306,schwarz,99900,Ab MFK,5,Automat,Bordeaux
+270,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,4,2004,Benzin,335,grau,60000,Ab MFK,5,Automat sequentiell,Bordeaux
+271,850 Spider,Fiat,null,Coupé,843,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1970,Benzin,49,schwarz,9999,null,0,Schaltgetriebe,Bordeaux
+272,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,null,19.3 l/100km,2,Hinterradantrieb,8,1999,Benzin,400,null,30300,Ab MFK,2,Automatik-Getriebe,Bordeaux
+273,T 2,Bentley,null,Limousine,6744,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,2,1979,Benzin,196,mehrfarbig,175100,Ab MFK,5,Automatik-Getriebe,Bordeaux
+274,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,10,1997,Benzin,354,null,67400,Ab MFK,5,Automat,Bordeaux
+275,M3,BMW,M3,Cabriolet,3246,Zuzwil,292 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,3,2001,Benzin,343,braun,46000,Ab MFK,4,Schaltgetriebe manuell,Bordeaux
+276,A6 Avant 2.7 T q.Ambiente,Audi,A6,Kombi,2671,Zuzwil,283 g/km,Occasion,null,11.8 l/100km,5,Allrad,9,1999,Benzin,230,beige,171700,Ab MFK,5,Automatik-Getriebe,Bordeaux
+277,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,7,2003,Benzin,450,schwarz,27900,Ab MFK,5,Automat sequentiell,Anthracite
+278,F430,Ferrari,F430,Coupé,4308,Zuzwil,420 g/km,Occasion,G,18.3 l/100km,2,Hinterradantrieb,6,2005,Benzin,486,schwarz,29300,Ab MFK,2,Automatik-Getriebe,Bordeaux
+279,Quattroporte 4.2 Sport GT,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,4,2008,Benzin,400,schwarz,80000,Ab MFK,5,Automatisiertes Schaltgetriebe,Brown
+280,Z4 2.5i Roadster,BMW,Z4,Cabriolet,2497,Zuzwil,197 g/km,Occasion,G,8.2 l/100km,2,Hinterradantrieb,9,2008,Benzin,177,schwarz,22800,Ab MFK,2,Schaltgetriebe manuell,Brown
+281,328i,BMW,328,Limousine,2793,Zuzwil,241 g/km,Occasion,null,10.1 l/100km,4,Hinterradantrieb,4,1998,Benzin,193,beige,33700,Ab MFK,5,Automat,Brown
+282,Continental FlyingSpur6.0,Bentley,CONTINENTAL,Limousine,5998,Zuzwil,423 g/km,Occasion,G,17.7 l/100km,4,Allrad,3,2006,Benzin,560,beige,35000,"Ab MFK, Direkt-/Parallelimport",5,Automat,Yellow
+283,4/4 1.8,Morgan,4/4,Cabriolet,1796,Zuzwil,null,Occasion,G,7.7 l/100km,2,Hinterradantrieb,6,2006,Benzin,126,bordeaux,7100,"Ab MFK, Direkt-/Parallelimport",2,Schaltgetriebe manuell,Yellow
+284,Cabrio,Rolls-Royce,CORNICHE,Cabriolet,6747,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1987,Benzin,0,schwarz,19720,Ab MFK,4,Automatik-Getriebe,Yellow
+285,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,null,Occasion,null,20.8 l/100km,2,Hinterradantrieb,3,1998,Benzin,380,schwarz,28100,Ab MFK,2,Automatik-Getriebe,Yellow
+286,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,4,2005,Benzin,503,beige,3000,null,5,Automatisiertes Schaltgetriebe,Yellow
+287,Tacuma 2000i CDX,Daewoo,TACUMA,Kompaktvan / Minivan,1998,Zuzwil,236 g/km,Occasion,G,9.0 l/100km,5,Vorderradantrieb,10,2003,Benzin,121,grau,103000,Ab MFK,5,Schaltgetriebe manuell,Yellow
+288,1600S Gruppe 5 look,Renault,Alpine A110,Coupé,1565,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1971,null,170,schwarz,19200,Rennwagen,2,Schaltgetriebe,Anthracite
+289,911 Turbo S Cabrio PDK,Porsche,911,Cabriolet,3800,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,2,Allrad,4,2011,Benzin,530,schwarz,28000,Ab MFK,2,Automatisiertes Schaltgetriebe,Yellow
+290,Targa,Porsche,911,Cabriolet,2687,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,11,1971,Benzin,150,schwarz,96000,Ab MFK,2,Schaltgetriebe manuell,Yellow
+291,3200 GT,Maserati,3200 GT,Coupé,3217,Zuzwil,388 g/km,Occasion,null,15.6 l/100km,2,Hinterradantrieb,3,2000,Benzin,370,schwarz,64600,Ab MFK,4,Automatik-Getriebe,Yellow
+292,S 400 CDI,Mercedes-Benz,S 400,Limousine,3996,Zuzwil,253 g/km,Occasion,G,9.6 l/100km,4,Hinterradantrieb,4,2001,Diesel,250,beige,42000,Ab MFK,5,Automat,Yellow
+293,456M GT,Ferrari,456,Coupé,5474,Zuzwil,495 g/km,Occasion,G,22.0 l/100km,2,Hinterradantrieb,5,1999,Benzin,442,null,49000,Ab MFK,4,Schaltgetriebe manuell,Yellow
+294,S6 quattro,Audi,S6,Limousine,4172,Zuzwil,341 g/km,Occasion,null,14.2 l/100km,4,Allrad,8,2001,Benzin,340,schwarz,103100,Ab MFK,5,Automatik-Getriebe,Yellow
+295,190 E 2.5-16 Evo II ABS,Mercedes-Benz,190,Limousine,2461,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1991,Benzin,235,schwarz,89700,Ab MFK,4,Schaltgetriebe manuell,Yellow
+296,626 2.0i-16V HPV,Mazda,626,Limousine,1991,Zuzwil,195 g/km,Occasion,null,8.1 l/100km,5,Vorderradantrieb,8,2001,Benzin,136,null,158000,Ab MFK,5,Automatik-Getriebe,Yellow
+297,2000 GLi Super Liftback,Toyota,CAMRY,Limousine,1994,Safenwil,null,Oldtimer,null,null,4,Vorderradantrieb,5,1985,Benzin,105,blau,58100,Ab MFK,0,Automatik-Getriebe,Yellow
+298,Cayenne Turbo S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,9,2006,Benzin,521,schwarz,91600,Ab MFK,5,Automat,Yellow
+299,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,3,2003,Benzin,450,schwarz,121000,Ab MFK,5,Automat sequentiell,Anthracite
+300,Viper RT/10,Chrysler,VIPER,Cabriolet,7986,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,1993,Benzin,364,grau,28600,Ab MFK,2,Schaltgetriebe manuell,Yellow
+301,S 320,Mercedes-Benz,S 320,Limousine,3199,Zuzwil,276 g/km,Occasion,G,11.5 l/100km,4,Hinterradantrieb,4,1999,Benzin,224,schwarz,128000,Ab MFK,5,Automat,Yellow
+302,MR2 2.0,Toyota,MR2,Coupé,1997,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,1990,Benzin,156,schwarz,135800,Ab MFK,2,Schaltgetriebe manuell,Yellow
+303,Testarossa,Ferrari,TESTAR./512,Coupé,4941,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1989,Benzin,380,beige,31700,null,2,Schaltgetriebe manuell,Yellow
+304,Corvette ZR1,Chevrolet,CORVETTE,Coupé,6162,Zuzwil,355 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,2,2010,Benzin,647,schwarz,13000,Ab MFK,2,Schaltgetriebe manuell,Gold
+305,M3,BMW,M3,Cabriolet,3999,Zuzwil,293 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,7,2008,Benzin,420,schwarz,78900,Ab MFK,4,Automatisiertes Schaltgetriebe,Gold
+306,CTR,RUF,null,Coupé,3400,Zuzwil,null,Occasion,null,null,2,null,1,1990,Benzin,469,blau,46000,Ab MFK,2,null,Gold
+307,R5 Turbo 2,Renault,R5,Kleinwagen,1397,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,5,1985,Benzin,160,beige,59900,null,2,Schaltgetriebe manuell,Gold
+308,Six 4.0,Daimler,XJ,Limousine,3980,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,1,1996,Benzin,241,beige,94800,Ab MFK,5,Automat,Gold
+309,RX-7 2.6 Turbo II,Mazda,RX-7,Cabriolet,2616,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1989,Benzin,200,schwarz,67200,Ab MFK,2,Schaltgetriebe manuell,Grey
+310,Veyron 16.4,Bugatti,null,Coupé,7993,Sursee,null,Occasion,null,null,2,Allrad,7,2008,Benzin,1001,anthrazit,20000,null,2,Automatik-Getriebe,Anthracite
+311,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,10,2001,Benzin,420,schwarz,25900,Ab MFK,4,Schaltgetriebe manuell,Grey
+312,911 Carrera Cabrio,Porsche,911,Cabriolet,3596,Zuzwil,270 g/km,Occasion,G,11.2 l/100km,2,Hinterradantrieb,6,2005,Benzin,325,schwarz,20400,Ab MFK,2,Schaltgetriebe manuell,Grey
+313,S 500 L 4Matic,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,311 g/km,Occasion,G,12.9 l/100km,4,Allrad,12,2002,Benzin,306,beige,54500,Ab MFK,5,Automat,Grey
+314,110 GT/SS,Bugatti,EB,Coupé,3500,Zuzwil,null,Occasion,null,null,2,Allrad,8,1998,Benzin,611,null,4000,null,2,Schaltgetriebe,Grey
+315,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,10,2008,Benzin,580,null,41900,Ab MFK,5,Automat sequentiell,Grey
+316,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,null,21.8 l/100km,2,Hinterradantrieb,12,2003,Benzin,517,schwarz,8100,Ab MFK,2,Automatik-Getriebe,Grey
+317,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,1,2003,Benzin,450,schwarz,39000,Ab MFK,5,Automat sequentiell,Grey
+318,S-Type 4.2 V8 S/C R,Jaguar,S-TYPE,Limousine,4196,Zuzwil,314 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,7,2002,Benzin,396,schwarz,32900,Ab MFK,5,Automat,Grey
+319,Spyder GT,Maserati,SPYDER GT,Cabriolet,4244,Zuzwil,400 g/km,Occasion,G,17.5 l/100km,2,Hinterradantrieb,5,2002,Benzin,390,anthrazit,63000,Ab MFK,2,Automatik-Getriebe,Grey
+320,911 Carrera Targa,Porsche,911,Cabriolet,3596,Zuzwil,269 g/km,Occasion,null,11.1 l/100km,2,Hinterradantrieb,5,2002,Benzin,320,schwarz,61800,Ab MFK,4,Automatik-Getriebe,Grey
+321,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,6,2008,Benzin,580,schwarz,32800,"Ab MFK, Tuning",5,Automat sequentiell,Anthracite
+322,F355 GTS,Ferrari,F355,Cabriolet,3496,Zuzwil,395 g/km,Occasion,null,16.9 l/100km,2,Hinterradantrieb,10,1997,Benzin,380,beige,41000,Ab MFK,2,Schaltgetriebe manuell,Grey
+323,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,6,2006,Benzin,400,beige,46050,Ab MFK,5,Automatisiertes Schaltgetriebe,Grey
+324,E 320 Elégance 4-Matic,Mercedes-Benz,E 320,Limousine,3199,Zuzwil,266 g/km,Occasion,G,11.1 l/100km,4,Allrad,3,2000,Benzin,224,grau,83900,Ab MFK,5,Automat,Grey
+325,XK8 Convertible,Jaguar,XK,Cabriolet,3996,Zuzwil,310 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,7,1998,Benzin,284,beige,99800,Ab MFK,4,Automat,Grey
+326,null,Chevrolet,CORVETTE,Coupé,5730,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1981,Benzin,0,rot,27700,Ab MFK,2,Automatik-Getriebe,Grey
+327,Spyder GT,Maserati,SPYDER GT,Cabriolet,4244,Zuzwil,430 g/km,Occasion,G,18.6 l/100km,2,Hinterradantrieb,6,2002,Benzin,390,beige,88500,Ab MFK,2,Automatisiertes Schaltgetriebe,Grey
+328,F360 Spider,Ferrari,F360,Cabriolet,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,9,2002,Benzin,400,blau,16600,Ab MFK,2,Schaltgetriebe manuell,Grey
+329,R5 1400 Alpine Turbo,Renault,R5,Kleinwagen,1397,Zuzwil,null,Oldtimer,null,null,3,Vorderradantrieb,7,1982,Benzin,108,beige,124500,Ab MFK,4,Schaltgetriebe manuell,Grey
+330,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,12,2006,Benzin,517,schwarz,15900,Ab MFK,2,Automatik-Getriebe,Grey
+331,Delta HF Integrale Evo,Lancia,DELTA,Limousine,1994,Zuzwil,null,Occasion,null,null,5,Allrad,2,1992,Benzin,177,mehrfarbig,155000,Ab MFK,5,Schaltgetriebe manuell,Grey
+332,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1994,Benzin,394,grau,48700,Ab MFK,2,Automat,Anthracite
+333,Arnage R,Bentley,ARNAGE,Limousine,6761,Zuzwil,495 g/km,Occasion,G,20.6 l/100km,4,Hinterradantrieb,4,2005,Benzin,405,mehrfarbig,145000,Ab MFK,5,Automat,Grey
+334,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,270 g/km,Neu,G,11.4 l/100km,2,Hinterradantrieb,1,2005,Benzin,306,schwarz,165,Ab MFK,4,Automat sequentiell,Grey
+335,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,3,1998,Benzin,354,schwarz,47400,Ab MFK,5,Automat,Grey
+336,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,6,2003,Benzin,450,beige,68700,Ab MFK,5,Automat sequentiell,Grey
+337,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Occasion,G,14.9 l/100km,5,Allrad,8,2008,Benzin,500,braun,28000,Ab MFK,5,Automat,Grey
+338,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,3,2004,Benzin,500,anthrazit,20000,Ab MFK,2,Automat,Grey
+339,RS6 Avant 5.0 V10 quattro MTM,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,9,2008,Benzin,580,schwarz,24600,Ab MFK,5,Automat,Grey
+340,100/Six BN6 Roadster,Austin-Healey,null,Cabriolet,2912,Safenwil,null,Oldtimer,null,null,2,Hinterradantrieb,1,1959,Benzin,130,schwarz,16900,Ab MFK,2,Schaltgetriebe manuell,Grey
+341,CTR 2 Sport,RUF,null,Coupé,3600,Zuzwil,null,Occasion,null,null,2,Allrad,10,1997,Benzin,580,schwarz,20900,null,2,Schaltgetriebe manuell,Grey
+342,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,6,2002,Benzin,420,blau,52900,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Grey
+343,Turbo R,Bentley,TURBO,Limousine,6749,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,4,1990,Benzin,320,blau,112500,Ab MFK,5,Automat,Anthracite
+344,911 Carrera S Cabrio,Porsche,911,Cabriolet,3824,Zuzwil,280 g/km,Occasion,G,11.6 l/100km,2,Hinterradantrieb,3,2006,Benzin,355,schwarz,29500,Ab MFK,2,Schaltgetriebe manuell,Grey
+345,535i Touring,BMW,535,Kombi,2979,Zuzwil,179 g/km,Occasion,F,7.7 l/100km,5,Hinterradantrieb,7,2011,Benzin,306,beige,76500,Ab MFK,5,Automat sequentiell,Grey
+346,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,9,2003,Benzin,420,blau,63300,Ab MFK,4,Schaltgetriebe manuell,Grey
+347,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,9,2004,Benzin,450,schwarz,31000,Ab MFK,5,Automat sequentiell,Grey
+348,Celica 2800 i Supra,Toyota,CELICA,Coupé,2759,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,3,1983,Benzin,170,grau,158000,Ab MFK,5,Schaltgetriebe manuell,Grey
+349,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,15.7 l/100km,2,Allrad,5,1996,Benzin,408,schwarz,88100,null,2,Schaltgetriebe manuell,Grey
+350,1600 SX,Renault,Alpine A110,Coupé,1635,Zuzwil,null,Occasion,null,null,2,null,6,1977,Benzin,120,null,41400,Ab MFK,2,Schaltgetriebe,Grey
+351,SL 350,Mercedes-Benz,SL 350,Cabriolet,3724,Zuzwil,281 g/km,Occasion,G,11.7 l/100km,2,Hinterradantrieb,5,2004,Benzin,245,mehrfarbig,105300,Ab MFK,2,Automat,Grey
+352,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,12,1996,Benzin,226,grau,54600,Ab MFK,5,Automat,Grey
+353,Panamera Turbo 4.8,Porsche,PANAMERA,Limousine,4806,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,5,Allrad,1,2010,Benzin,500,schwarz,47500,Ab MFK,4,Automatisiertes Schaltgetriebe,Grey
+354,911 Carrera,Porsche,911,Cabriolet,3387,Zuzwil,304 g/km,Occasion,null,12.0 l/100km,2,Hinterradantrieb,7,1998,Benzin,300,schwarz,89500,Ab MFK,4,Automat,Anthracite
+355,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,3,2009,Benzin,580,schwarz,59900,Ab MFK,5,Automat sequentiell,Grey
+356,540i Touring,BMW,540,Kombi,4398,Zuzwil,308 g/km,Occasion,G,13.0 l/100km,5,Hinterradantrieb,1,1998,Benzin,286,schwarz,85800,Ab MFK,5,Automat,Grey
+357,Spyder GT,Maserati,SPYDER GT,Cabriolet,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,6,2003,Benzin,390,schwarz,50300,Ab MFK,2,Automatik-Getriebe,Grey
+358,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,G,17.5 l/100km,2,Hinterradantrieb,6,2002,Benzin,390,braun,114800,Ab MFK,4,Automatisiertes Schaltgetriebe,Grey
+359,Huracan LP610-4 Coupé,Lamborghini,HURACAN,Coupé,5204,Zuzwil,290 g/km,Neu,G,12.5 l/100km,2,Allrad,7,2015,Benzin,610,schwarz,300,"Ab MFK, Direkt-/Parallelimport",2,Automatisiertes Schaltgetriebe,Grey
+360,Virage,Aston Martin,Virage,Coupé,5338,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1991,Benzin,310,grün,68800,Ab MFK,4,Automatik-Getriebe,Grey
+361,Punto 1.8 16V HGT,Fiat,PUNTO,Kleinwagen,1747,Zuzwil,197 g/km,Occasion,G,8.3 l/100km,3,Vorderradantrieb,5,2004,Benzin,131,anthrazit,75200,Ab MFK,5,Schaltgetriebe manuell,Grey
+362,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,4,2003,Benzin,450,schwarz,32900,"Ab MFK, Tuning",5,Automat sequentiell,Grey
+363,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,8,2002,Benzin,450,grau,100200,"Ab MFK, Tuning",5,Automat sequentiell,Grey
+364,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,1,2001,Benzin,286,grau,113000,Ab MFK,5,Automat sequentiell,Grey
+365,Therry T22,Giottiline,null,Wohnkabine,2198,Zuzwil,null,Occasion,null,null,0,Vorderradantrieb,4,2014,Diesel,131,mehrfarbig,200,Ab MFK,4,Schaltgetriebe,Anthracite
+366,612,Ferrari,612,Coupé,5748,Zuzwil,470 g/km,Occasion,G,20.5 l/100km,2,Hinterradantrieb,2,2008,Benzin,540,schwarz,37000,Ab MFK,4,Automatisiertes Schaltgetriebe,Grey
+367,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,6,2008,Benzin,580,schwarz,36700,"Ab MFK, Tuning",5,Automat sequentiell,Grey
+368,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,339 g/km,Occasion,G,13.9 l/100km,2,Allrad,7,2000,Benzin,420,blau,69200,Ab MFK,4,Automatik-Getriebe,Grey
+369,S 55 AMG,Mercedes-Benz,S 55 AMG,Limousine,5439,Zuzwil,310 g/km,Occasion,G,13.0 l/100km,4,Hinterradantrieb,7,2001,Benzin,360,schwarz,205500,Ab MFK,5,Automat,Grey
+370,R8 Coupé 4.2,Audi,R8,Coupé,4163,Zuzwil,325 g/km,Occasion,G,13.6 l/100km,2,Allrad,6,2007,Benzin,420,schwarz,65000,Ab MFK,2,Automatisiertes Schaltgetriebe,Grey
+371,CLK 63 AMG Black Series,Mercedes-Benz,CLK 63 AMG,Coupé,6209,Zuzwil,369 g/km,Occasion,G,15.3 l/100km,2,Hinterradantrieb,7,2008,Benzin,507,schwarz,36000,Ab MFK,2,Automat sequentiell,Grey
+372,Continental GTC 6.0,Bentley,CONTINENTAL,Cabriolet,5998,Zuzwil,410 g/km,Occasion,G,17.1 l/100km,2,Allrad,2,2007,Benzin,560,mehrfarbig,58000,Ab MFK,4,Automat,Grey
+373,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,1,2004,Benzin,450,schwarz,93500,Ab MFK,5,Automat sequentiell,Grey
+374,F550 Maranello,Ferrari,F550,Coupé,5474,Zuzwil,530 g/km,Occasion,null,22.9 l/100km,2,Hinterradantrieb,5,1997,Benzin,485,schwarz,62000,Ab MFK,2,Schaltgetriebe manuell,Grey
+375,DBS Coupé,Aston Martin,DBS,Coupé,5935,Zuzwil,388 g/km,Occasion,G,16.4 l/100km,2,Hinterradantrieb,4,2012,Benzin,517,schwarz,5000,Ab MFK,2,Schaltgetriebe manuell,Grey
+376,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,10,2002,Benzin,450,beige,38500,Ab MFK,5,Automat sequentiell,Anthracite
+377,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,4,1998,Benzin,320,schwarz,48300,Ab MFK,0,Automat,Anthracite
+378,S 500,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,9,1999,Benzin,299,schwarz,112800,Ab MFK,5,Automat,Grey
+379,E 500 Limited,Mercedes-Benz,E 500,Limousine,4971,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,6,1994,Benzin,320,schwarz,206000,Ab MFK,4,Automat,Grey
+380,CL 65 AMG,Mercedes-Benz,CL 65 AMG,Coupé,5981,Zuzwil,357 g/km,Occasion,G,14.9 l/100km,2,Hinterradantrieb,1,2006,Benzin,612,schwarz,19800,Ab MFK,4,Automat sequentiell,Grey
+381,SL 500 Special Edition,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1996,Benzin,320,schwarz,55200,Ab MFK,2,Automat,Grey
+382,Gallardo LP560-4 Coupé,Lamborghini,GALLARDO,Coupé,5204,Zuzwil,325 g/km,Occasion,G,13.7 l/100km,2,Allrad,1,2009,Benzin,560,schwarz,24000,Ab MFK,2,Automatisiertes Schaltgetriebe,Grey
+383,Boxster S 3.4,Porsche,BOXSTER,Cabriolet,3387,Zuzwil,254 g/km,Occasion,G,10.6 l/100km,2,Hinterradantrieb,2,2007,Benzin,295,schwarz,68900,Ab MFK,2,Schaltgetriebe manuell,Grey
+384,Phaeton 4.2 V8 4Motion,VW,PHAETON,Limousine,4172,Zuzwil,310 g/km,Occasion,G,12.9 l/100km,4,Allrad,11,2003,Benzin,335,schwarz,119000,Ab MFK,5,Automat sequentiell,Grey
+385,612,Ferrari,612,Coupé,5748,Zuzwil,475 g/km,Occasion,G,20.7 l/100km,2,Hinterradantrieb,7,2004,Benzin,540,null,45000,Ab MFK,4,Automatisiertes Schaltgetriebe,Grey
+386,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,6,2008,Benzin,580,schwarz,14000,Ab MFK,5,Automat,Grey
+387,911 Carrera,Porsche,911,Coupé,3387,Zuzwil,290 g/km,Occasion,G,12.0 l/100km,2,Hinterradantrieb,4,2001,Benzin,300,beige,135800,Ab MFK,4,Automat,Grey
+388,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,11,2001,Benzin,420,schwarz,47600,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Anthracite
+389,R8 Gordini,Renault,null,Kleinwagen,0,Zuzwil,null,Oldtimer,null,null,0,null,4,1969,null,0,schwarz,45000,Ab MFK,0,Schaltgetriebe,Grey
+390,S 500 L,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,4,Hinterradantrieb,5,1999,Benzin,306,grau,32700,Ab MFK,5,Automat,Grey
+391,323i Sport Edition,BMW,323,Limousine,2494,Zuzwil,221 g/km,Occasion,null,9.2 l/100km,4,Hinterradantrieb,7,1997,Benzin,170,mehrfarbig,82500,Ab MFK,5,Schaltgetriebe manuell,Grey
+392,CL 500 4Matic,Mercedes-Benz,CL 500,Coupé,4663,Zuzwil,242 g/km,Occasion,G,10.1 l/100km,2,Allrad,1,2011,Benzin,435,beige,79500,Ab MFK,4,Automat sequentiell,Grey
+393,New Beetle Cup,VW,BEETLE,Limousine,2792,Zuzwil,null,Occasion,null,null,2,Vorderradantrieb,9,2000,Benzin,204,null,1,Rennwagen,2,Schaltgetriebe,Grey
+394,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,4,2003,Benzin,450,schwarz,127000,Ab MFK,5,Automat sequentiell,Grey
+395,S 500 L,Mercedes-Benz,S 500,Limousine,4973,Zuzwil,353 g/km,Occasion,null,15.4 l/100km,4,Hinterradantrieb,6,1998,Benzin,320,schwarz,128800,Ab MFK,5,Automat,Grey
+396,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,6,2002,Benzin,476,rot,6000,Ab MFK,2,Automat,Grey
+397,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,11,2002,Benzin,450,beige,38500,Ab MFK,5,Automat sequentiell,Grey
+398,GT,MG,MGC,Coupé,2912,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,8,1968,Benzin,135,mehrfarbig,48800,Ab MFK,4,Schaltgetriebe,Grey
+399,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,322 g/km,Occasion,null,13.5 l/100km,4,Allrad,9,1997,Benzin,300,schwarz,125400,null,5,Automat,Anthracite
+400,null,Porsche,924,Coupé,1983,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1978,Benzin,125,braun,51000,Ab MFK,4,Schaltgetriebe manuell,Grey
+401,T - Roadster,Ford,null,Coupé,2884,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,1,1927,Benzin,0,schwarz,1,null,2,Schaltgetriebe,Grey
+402,CLK 430 Elégance,Mercedes-Benz,CLK 430,Coupé,4266,Zuzwil,278 g/km,Vorführmodell,G,11.6 l/100km,2,Hinterradantrieb,1,2001,Benzin,279,grau,100,Ab MFK,4,Automat,Grey
+403,Golf 2.0 TSI R 4Motion,VW,GOLF,Limousine,1984,Zuzwil,199 g/km,Occasion,G,8.5 l/100km,5,Allrad,3,2011,Benzin,270,schwarz,36300,Ab MFK,5,Schaltgetriebe manuell,Grey
+404,911 Carrera RS Clubsport/993 GT2,Porsche,911,Coupé,3744,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1996,Benzin,300,schwarz,91000,Ab MFK,2,Schaltgetriebe manuell,Grey
+405,Defender 90 2.4Td4 SW,Land Rover,DEFENDER,Kombi,2402,Zuzwil,266 g/km,Occasion,null,10.0 l/100km,3,Allrad,2,2011,Diesel,122,schwarz,50400,"Ab MFK, Direkt-/Parallelimport",4,Schaltgetriebe manuell,Grey
+406,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,3,2006,Benzin,612,schwarz,39800,Ab MFK,5,Automat sequentiell,Grey
+407,ML 63 AMG 4Matic,Mercedes-Benz,ML 63 AMG,SUV / Geländewagen,6209,Zuzwil,392 g/km,Occasion,G,16.5 l/100km,5,Allrad,3,2009,Benzin,510,schwarz,88500,Ab MFK,5,Automat sequentiell,Grey
+408,S6 quattro 4.2,Audi,S6,Limousine,4170,Zuzwil,366 g/km,Occasion,null,15.4 l/100km,4,Allrad,5,1998,Benzin,290,grau,54500,Ab MFK,5,Schaltgetriebe manuell,Grey
+409,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,null,19.3 l/100km,2,Hinterradantrieb,4,2000,Benzin,400,rot,41500,Ab MFK,2,Automatik-Getriebe,Grey
+410,730PS,Mercedes-Benz,SLR,Coupé,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,2004,Benzin,730,rot,34500,"Ab MFK, Tuning",2,Automatik-Getriebe,Anthracite
+411,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,2,Hinterradantrieb,4,2004,Benzin,500,schwarz,45500,Ab MFK,2,Automat,Grey
+412,911 Carrera Targa,Porsche,911,Cabriolet,3596,Zuzwil,269 g/km,Occasion,G,11.1 l/100km,2,Hinterradantrieb,1,2002,Benzin,320,schwarz,128000,Ab MFK,4,Schaltgetriebe manuell,Grey
+413,1600S VC,Renault,Alpine A110,Coupé,1605,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,7,1972,Benzin,124,schwarz,34900,Ab MFK,2,Schaltgetriebe,Grey
+414,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1993,Benzin,394,grau,75900,Ab MFK,2,Automat,Grey
+415,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,8,2001,Benzin,420,schwarz,74100,Ab MFK,4,Automatik-Getriebe,Grey
+416,S 55 L AMG,Mercedes-Benz,S-CLASS,Limousine,5439,Zuzwil,317 g/km,Occasion,G,13.2 l/100km,4,Hinterradantrieb,2,2003,Benzin,500,schwarz,73900,"Ab MFK, Tuning",5,Automat,Grey
+417,M3,BMW,M3,Cabriolet,3246,Zuzwil,328 g/km,Occasion,G,13.6 l/100km,2,Hinterradantrieb,6,2002,Benzin,343,schwarz,1600,Ab MFK,4,Automatisiertes Schaltgetriebe,Grey
+418,740i,BMW,740,Limousine,3980,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,11,1995,Benzin,286,beige,89200,Ab MFK,5,Automat,Grey
+419,Gallardo LP560-4 Spyder,Lamborghini,GALLARDO,Cabriolet,5204,Zuzwil,330 g/km,Occasion,G,13.8 l/100km,2,Allrad,4,2011,Benzin,560,schwarz,4900,Ab MFK,2,Automatisiertes Schaltgetriebe,Grey
+420,null,Dodge,VIPER,Cabriolet,7986,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1994,Benzin,364,grau,37900,Ab MFK,2,Schaltgetriebe,Grey
+421,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,6,2006,Benzin,612,schwarz,97300,Ab MFK,5,Automat sequentiell,Anthracite
+422,E 500 Avantgarde,Mercedes-Benz,E 500,Limousine,4966,Zuzwil,276 g/km,Occasion,G,11.5 l/100km,4,Hinterradantrieb,5,2003,Benzin,306,beige,29200,Ab MFK,5,Automat sequentiell,Grey
+423,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,null,Occasion,null,13.2 l/100km,4,Allrad,1,1997,Benzin,300,schwarz,66300,Ab MFK,5,Automat sequentiell,Grey
+424,Boxster S 3.2,Porsche,BOXSTER,Cabriolet,3179,Zuzwil,263 g/km,Occasion,G,10.7 l/100km,2,Hinterradantrieb,7,2000,Benzin,252,schwarz,51000,Ab MFK,2,Schaltgetriebe manuell,Grey
+425,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,6,1997,Benzin,320,blau,106000,Ab MFK,2,Automat,Grey
+426,456 GTA,Ferrari,456,Coupé,5474,Zuzwil,520 g/km,Occasion,null,22.3 l/100km,2,Hinterradantrieb,11,1997,Benzin,442,beige,32500,Ab MFK,4,Automat,Grey
+427,Cortina Lotus,Ford,CORTINA,Limousine,1558,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,4,1966,null,110,schwarz,69377,null,5,Schaltgetriebe,Grey
+428,SLK 200,Mercedes-Benz,SLK 200,Cabriolet,1796,Zuzwil,149 g/km,Occasion,E,6.4 l/100km,2,Hinterradantrieb,5,2011,Benzin,184,grau,13800,Ab MFK,2,Schaltgetriebe manuell,Grey
+429,ML 63 AMG 4Matic,Mercedes-Benz,ML 63 AMG,SUV / Geländewagen,6209,Zuzwil,392 g/km,Occasion,G,16.5 l/100km,5,Allrad,6,2012,Benzin,510,schwarz,2000,Ab MFK,5,Automat sequentiell,Grey
+430,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,9,2006,Benzin,612,grau,130000,Ab MFK,5,Automat sequentiell,Grey
+431,323i,BMW,323,Limousine,2315,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1982,Benzin,143,mehrfarbig,238500,Ab MFK,5,Schaltgetriebe,Grey
+432,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,1,2005,Benzin,306,beige,95400,Ab MFK,4,Automat sequentiell,Anthracite
+433,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,6,1998,Benzin,226,schwarz,42000,Ab MFK,5,Automat,Grey
+434,911 Carrera 4,Porsche,911,Coupé,3387,Zuzwil,295 g/km,Occasion,null,12.0 l/100km,2,Allrad,11,1999,Benzin,300,schwarz,47700,Ab MFK,4,Schaltgetriebe manuell,Grey
+435,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,6,2003,Benzin,450,anthrazit,42600,Ab MFK,5,Automat sequentiell,Grey
+436,Vanquish V12,Aston Martin,V12 Vanquish,Coupé,5935,Zuzwil,396 g/km,Occasion,G,16.7 l/100km,2,Hinterradantrieb,1,2003,Benzin,470,beige,24600,Ab MFK,2,Automatisiertes Schaltgetriebe,Grey
+437,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,11,2001,Benzin,306,schwarz,55900,Ab MFK,4,Automat,Grey
+438,530d GT,BMW,530 Gran Turismo,Limousine,2993,Zuzwil,173 g/km,Occasion,E,6.5 l/100km,5,Hinterradantrieb,1,2010,Diesel,245,beige,67800,Ab MFK,5,Automat sequentiell,Grey
+439,911 GT2,Porsche,911,Coupé,3600,Zuzwil,298 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,5,2009,Benzin,530,schwarz,44600,Ab MFK,2,Schaltgetriebe manuell,Grey
+440,740i,BMW,740,Limousine,3980,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1995,Benzin,286,blau,65400,Ab MFK,5,Automatik-Getriebe,Grey
+441,1602,BMW,null,Limousine,1573,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,2,1975,Benzin,86,blau,104650,Ab MFK,4,Schaltgetriebe manuell,Grey
+442,3.5,Land Rover,RANGE ROVER,SUV / Geländewagen,3530,Zuzwil,null,Occasion,null,null,5,Allrad,3,1989,Benzin,168,grau,151300,null,5,Schaltgetriebe,Grey
+443,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1981,Benzin,150,braun,153600,Ab MFK,4,Schaltgetriebe manuell,Anthracite
+444,Murena 2.2,Talbot,MATRA,Coupé,2155,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,4,1982,Benzin,118,grau,182200,Ab MFK,3,Schaltgetriebe manuell,Grey
+445,SLK 350,Mercedes-Benz,SLK 350,Cabriolet,3498,Zuzwil,255 g/km,Occasion,null,10.6 l/100km,2,Hinterradantrieb,3,2008,Benzin,272,schwarz,70400,Ab MFK,2,Automatik-Getriebe,Grey
+446,BT7 3000 Mk I,Austin-Healey,null,Cabriolet,2912,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,1,1960,Benzin,112,schwarz,9999,Ab MFK,2,Schaltgetriebe,Grey
+447,Cayenne Turbo S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,8,2006,Benzin,521,schwarz,36600,Ab MFK,5,Automat sequentiell,Grey
+448,HKT,Lotus,Super Seven,Cabriolet,1781,Zuzwil,null,Occasion,null,null,0,null,9,2002,Benzin,225,schwarz,26800,Ab MFK,0,null,Grey
+449,Cayenne S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,380 g/km,Occasion,null,15.8 l/100km,5,Allrad,3,2003,Benzin,340,grau,59900,Ab MFK,5,Automatik-Getriebe,Grey
+450,Quattroporte 4.7 S,Maserati,QUATTROPORTE,Limousine,4691,Zuzwil,365 g/km,Occasion,G,15.7 l/100km,4,Hinterradantrieb,11,2010,Benzin,431,schwarz,29000,Ab MFK,5,Automat sequentiell,Grey
+451,S 250 CDI BlueEff SS,Mercedes-Benz,S 250,Limousine,2143,Zuzwil,146 g/km,Occasion,C,5.5 l/100km,4,Hinterradantrieb,9,2011,Diesel,204,schwarz,43000,"Ab MFK, Direkt-/Parallelimport",5,Automat sequentiell,Grey
+452,S 320 CDI,Mercedes-Benz,S 320,Limousine,3222,Zuzwil,204 g/km,Occasion,G,7.7 l/100km,4,Hinterradantrieb,2,2004,Diesel,204,schwarz,9900,Ab MFK,5,Automat,Grey
+453,456M GTA,Ferrari,456,Coupé,5474,Zuzwil,520 g/km,Occasion,G,22.3 l/100km,2,Hinterradantrieb,5,2000,Benzin,442,schwarz,68000,Ab MFK,4,Automat,Grey
+454,Murciélago 6.2 Roadster,Lamborghini,MURCIÉLAGO,Cabriolet,6192,Zuzwil,500 g/km,Occasion,G,21.5 l/100km,2,Allrad,1,2006,Benzin,580,rot,16200,Ab MFK,2,Automatik-Getriebe,Anthracite
+455,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,2,2002,Benzin,306,anthrazit,47300,Ab MFK,2,Automat,Grey
+456,730i,BMW,730,Limousine,2996,Zuzwil,241 g/km,Occasion,G,10.1 l/100km,4,Hinterradantrieb,9,2007,Benzin,258,beige,114600,Ab MFK,5,Automat,Green
+457,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,null,13.9 l/100km,4,Hinterradantrieb,9,1999,Benzin,400,grün,54600,Ab MFK,5,Schaltgetriebe manuell,Green
+458,Rallye2,Simca,null,Coupé,1294,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,11,1976,Benzin,86,null,18200,Ab MFK,0,Schaltgetriebe,Green
+459,M3,BMW,M3,Cabriolet,3246,Zuzwil,328 g/km,Occasion,null,13.6 l/100km,2,Hinterradantrieb,12,2002,Benzin,343,braun,52900,Ab MFK,4,Automatik-Getriebe,Green
+460,ML 63 AMG 4Matic,Mercedes-Benz,ML 63 AMG,SUV / Geländewagen,6209,Zuzwil,392 g/km,Occasion,G,16.5 l/100km,5,Allrad,3,2007,Benzin,510,schwarz,13300,Ab MFK,5,Automat sequentiell,Green
+461,R8 Coupé 4.2,Audi,R8,Coupé,4163,Zuzwil,325 g/km,Occasion,G,13.6 l/100km,2,Allrad,9,2007,Benzin,540,beige,61300,"Ab MFK, Direkt-/Parallelimport",2,Automatisiertes Schaltgetriebe,Green
+462,E 420 Elégance,Mercedes-Benz,E 420,Kombi,4196,Zuzwil,326 g/km,Occasion,null,14.3 l/100km,5,Hinterradantrieb,10,1997,Benzin,279,beige,44000,Ab MFK,5,Automat,Green
+463,456M GTA,Ferrari,456,Coupé,5474,Zuzwil,520 g/km,Occasion,G,22.3 l/100km,2,Hinterradantrieb,8,1999,Benzin,442,blau,92000,Ab MFK,4,Automat,Green
+464,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,322 g/km,Occasion,null,13.5 l/100km,4,Allrad,10,1997,Benzin,300,schwarz,63400,Ab MFK,5,Automat,Green
+465,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Occasion,G,14.9 l/100km,5,Allrad,3,2007,Benzin,540,schwarz,36700,Ab MFK,5,Automat sequentiell,Anthracite
+466,MP4-12C Spider 3.8 V8,Mclaren,12C,Cabriolet,3798,Zuzwil,275 g/km,Occasion,G,11.7 l/100km,2,Hinterradantrieb,5,2013,Benzin,626,schwarz,16000,Ab MFK,2,Automatisiertes Schaltgetriebe,Green
+467,323i,BMW,323,Limousine,2315,Zuzwil,null,Occasion,null,9.6 l/100km,2,Hinterradantrieb,10,1980,Benzin,143,mehrfarbig,176000,Ab MFK,5,Schaltgetriebe,Green
+468,M3,BMW,M3,Limousine,2301,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1987,Benzin,195,mehrfarbig,195800,Ab MFK,4,Schaltgetriebe manuell,Green
+469,Z4 2.5i Roadster,BMW,Z4,Cabriolet,2494,Zuzwil,216 g/km,Occasion,G,8.9 l/100km,2,Hinterradantrieb,3,2003,Benzin,192,schwarz,103600,Ab MFK,2,Schaltgetriebe manuell,Green
+470,Rally 037 stradale,Lancia,null,Limousine,2000,Zuzwil,null,Occasion,null,null,2,null,4,1984,Benzin,205,schwarz,13000,null,2,null,Green
+471,S 600,Mercedes-Benz,S 600,Coupé,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1996,Benzin,394,schwarz,88500,Ab MFK,4,Automat,Green
+472,348 tb,Ferrari,348,Coupé,3402,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1994,Benzin,286,beige,34000,Ab MFK,2,Schaltgetriebe manuell,Green
+473,SL 63 AMG,Mercedes-Benz,SL 63 AMG,Cabriolet,6209,Zuzwil,328 g/km,Occasion,null,14.1 l/100km,2,Hinterradantrieb,6,2008,Benzin,525,schwarz,62700,Ab MFK,2,Automatisiertes Schaltgetriebe,Green
+474,911 Turbo S Cabrio SPEED ART 580PS,Porsche,911,Cabriolet,3800,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,2,Allrad,4,2011,Benzin,580,braun,16000,"Ab MFK, Tuning",2,Automatisiertes Schaltgetriebe,Green
+475,S 500 L,Mercedes-Benz,S 500,Limousine,4663,Porrentruy,231 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,9,2011,Benzin,520,schwarz,19900,Ab MFK,5,Automat sequentiell,Green
+476,S 65 L / BRABUS T65 S,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,2,2007,Benzin,730,schwarz,46000,Ab MFK,5,Automat sequentiell,Beige
+477,E 60 Carlsson,Mercedes-Benz,null,Limousine,6000,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,11,1996,Benzin,400,schwarz,72000,"Ab MFK, Tuning",5,Automatik-Getriebe,Green
+478,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,4,2003,Benzin,420,schwarz,38600,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Green
+479,Diablo SE 30,Lamborghini,DIABLO,Coupé,5704,Porrentruy,null,Occasion,null,null,2,Hinterradantrieb,9,1995,Benzin,520,schwarz,64800,Ab MFK,2,Schaltgetriebe manuell,Green
+480,DBS Volante,Aston Martin,DBS,Cabriolet,5935,Zuzwil,388 g/km,Occasion,G,16.4 l/100km,2,Hinterradantrieb,4,2010,Benzin,517,schwarz,71300,Ab MFK,2,Automat sequentiell,Green
+481,Continental Supersports Conv.,Bentley,CONTINENTAL,Cabriolet,5998,Zuzwil,388 g/km,Occasion,G,16.7 l/100km,2,Allrad,9,2010,Benzin,630,mehrfarbig,15000,Ab MFK,2,Automat sequentiell,Green
+482,GS 450h,Lexus,GS,Limousine,3456,Zuzwil,186 g/km,Occasion,F,7.9 l/100km,4,Hinterradantrieb,7,2006,Benzin/Elektro,296,schwarz,34000,Ab MFK,5,Automat stufenlos,Green
+483,2400 Coupé,Fiat,Dino,Coupé,2418,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,1972,Benzin,180,mehrfarbig,131000,Ab MFK,4,Schaltgetriebe,Green
+484,323Ci,BMW,323,Cabriolet,2494,Zuzwil,232 g/km,Occasion,null,9.7 l/100km,2,Hinterradantrieb,7,2000,Benzin,170,schwarz,140000,Ab MFK,4,Automatik-Getriebe,Green
+485,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,300 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,4,1999,Benzin,306,schwarz,16300,Ab MFK,0,Automat,Green
+486,CLS 55 AMG,Mercedes-Benz,CLS 55 AMG,Limousine,5439,Zuzwil,326 g/km,Occasion,G,13.6 l/100km,4,Hinterradantrieb,2,2006,Benzin,476,mehrfarbig,118300,Ab MFK,4,Automat sequentiell,Green
+487,Corvette Z06,Chevrolet,CORVETTE,Coupé,6162,Zuzwil,291 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,6,2015,Benzin,660,schwarz,200,"Ab MFK, Direkt-/Parallelimport",2,Schaltgetriebe manuell,Anthracite
+488,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,6,1998,Benzin,354,schwarz,49900,Ab MFK,5,Automat,Beige
+489,TT,NSU,null,Limousine,1177,Zuzwil,null,Oldtimer,null,null,2,null,8,1972,Benzin,65,schwarz,10352,Ab MFK,5,Schaltgetriebe,Green
+490,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,2,2002,Benzin,420,schwarz,77600,Ab MFK,4,Schaltgetriebe manuell,Green
+491,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,10,2008,Benzin,580,grau,42500,Ab MFK,5,Automat,Green
+492,S3 2.0 TFSI quattro,Audi,S3,Limousine,1984,Zuzwil,217 g/km,Occasion,G,9.1 l/100km,3,Allrad,4,2010,Benzin,265,schwarz,34800,Ab MFK,5,Schaltgetriebe manuell,Green
+493,NOVITEC,Ferrari,575M,Coupé,5748,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,2003,Benzin,517,schwarz,14500,Ab MFK,2,Automatik-Getriebe,Green
+494,Mondial 3.4 T,Ferrari,MONDIAL,Coupé,3402,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1992,Benzin,286,braun,56500,Ab MFK,4,Schaltgetriebe manuell,Green
+495,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,11,2002,Benzin,420,anthrazit,43900,Ab MFK,4,Automat sequentiell,Green
+496,CLK DTM AMG,Mercedes-Benz,null,Limousine,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,2005,Benzin,582,schwarz,16660,Ab MFK,2,Automatik-Getriebe,Green
+497,CLK 55 AMG Avantgarde,Mercedes-Benz,CLK 55 AMG,Cabriolet,5439,Zuzwil,295 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,12,2003,Benzin,367,grau,23700,Ab MFK,4,Automat,Green
+498,E 430 Avantgarde,Mercedes-Benz,E 430,Limousine,4266,Zuzwil,320 g/km,Occasion,null,13.9 l/100km,4,Hinterradantrieb,2,1998,Benzin,279,beige,75000,Ab MFK,5,Automat,Green
+499,CLS 63 AMG,Mercedes-Benz,CLS 63 AMG,Limousine,6209,Zuzwil,345 g/km,Occasion,G,14.5 l/100km,4,Hinterradantrieb,12,2008,Benzin,515,braun,19100,Ab MFK,4,Automat sequentiell,Beige
+500,CL 55 AMG,Mercedes-Benz,CL 55 AMG,Coupé,5439,Zuzwil,310 g/km,Occasion,G,13.0 l/100km,2,Hinterradantrieb,3,2001,Benzin,360,schwarz,50200,Ab MFK,4,Automat,Green
+501,Alpina Look,BMW,323,Coupé,0,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,2,1982,Benzin,140,mehrfarbig,211000,null,5,Schaltgetriebe,Green
+502,406 Coupé 3.0 V6 Pack,Peugeot,406,Coupé,2946,Zuzwil,238 g/km,Occasion,G,10.0 l/100km,2,Vorderradantrieb,10,2003,Benzin,208,braun,72600,Ab MFK,4,Schaltgetriebe manuell,Green
+503,CSI A,BMW,633,Coupé,3208,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1977,Benzin,200,mehrfarbig,128600,Ab MFK,4,Automatik-Getriebe,Green
+504,SLK 320,Mercedes-Benz,SLK 320,Cabriolet,3199,Zuzwil,267 g/km,Occasion,G,11.1 l/100km,2,Hinterradantrieb,5,2000,Benzin,218,schwarz,43200,Ab MFK,2,Schaltgetriebe manuell,Green
+505,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,12,2008,Benzin,580,mehrfarbig,45300,Ab MFK,5,Automat,Green
+506,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,292 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,5,2004,Benzin,306,anthrazit,7600,Ab MFK,2,Automat sequentiell,Green
+507,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,321 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,5,2000,Benzin,367,anthrazit,29000,Ab MFK,4,Automat,Green
+508,A6 2.8 Ambiente,Audi,A6,Limousine,2771,Zuzwil,240 g/km,Occasion,null,10.0 l/100km,4,Vorderradantrieb,2,1998,Benzin,193,beige,94000,null,5,Automatik-Getriebe,Green
+509,ML 63 AMG 4Matic,Mercedes-Benz,ML 63 AMG,SUV / Geländewagen,5461,Zuzwil,276 g/km,Occasion,G,11.8 l/100km,5,Allrad,1,2012,Benzin,525,braun,16500,"Ab MFK, Tuning",5,Automatisiertes Schaltgetriebe,Green
+510,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,11,2000,Benzin,286,schwarz,40500,Ab MFK,5,Automat sequentiell,Beige
+511,SL 600,Mercedes-Benz,SL 600,Cabriolet,5987,Zuzwil,370 g/km,Occasion,null,15.5 l/100km,2,Hinterradantrieb,5,1996,Benzin,394,grün,12900,Ab MFK,0,Automat,Green
+512,Turbo,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,null,2,Allrad,2,2007,Benzin,800,schwarz,34000,"Ab MFK, Tuning",2,Schaltgetriebe,Green
+513,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,398 g/km,Occasion,null,16.4 l/100km,5,Allrad,10,1998,Benzin,218,schwarz,70000,Ab MFK,5,Automat,Green
+514,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,5,2002,Benzin,476,anthrazit,33400,Ab MFK,2,Automat,Green
+515,Alfasud 1.5 ti,Alfa Romeo,ALFASUD,Limousine,1490,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,8,1981,Benzin,95,mehrfarbig,81900,Ab MFK,5,Schaltgetriebe manuell,Green
+516,S 600,Mercedes-Benz,S 600,Coupé,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1993,Benzin,394,schwarz,99500,Ab MFK,4,Automat,Green
+517,246 GTS,Ferrari,Dino,Cabriolet,2400,Sursee,null,Occasion,null,null,2,Hinterradantrieb,3,1974,Benzin,0,schwarz,5000,null,2,Schaltgetriebe,Green
+518,S8 4.2 quattro,Audi,S8,Limousine,4172,Zuzwil,343 g/km,Occasion,null,14.3 l/100km,4,Allrad,7,1998,Benzin,340,beige,55000,Ab MFK,5,Automatik-Getriebe,Green
+519,Corvette ZR1,Chevrolet,CORVETTE,Coupé,6162,Zuzwil,355 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,6,2009,Benzin,647,schwarz,6300,Ab MFK,2,Schaltgetriebe manuell,Green
+520,911 GT2,Porsche,911,Coupé,3600,Zuzwil,298 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,12,2007,Benzin,700,schwarz,20900,Ab MFK,2,Schaltgetriebe manuell,Green
+521,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1996,Benzin,320,blau,34000,Ab MFK,0,Automat,Beige
+522,SL 63 AMG,Mercedes-Benz,SL 63 AMG,Cabriolet,6209,Zuzwil,328 g/km,Occasion,G,14.1 l/100km,2,Hinterradantrieb,1,2009,Benzin,525,schwarz,84000,Ab MFK,2,Automatisiertes Schaltgetriebe,Green
+523,null,Renault,Alpine A110,Coupé,1394,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1977,Benzin,84,schwarz,91000,Ab MFK,2,Schaltgetriebe,Green
+524,F360 Spider,Ferrari,F360,Cabriolet,3586,Zuzwil,440 g/km,Occasion,null,19.3 l/100km,2,Hinterradantrieb,3,2003,Benzin,400,schwarz,53600,Ab MFK,2,Automatik-Getriebe,Green
+525,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,1,2004,Benzin,610,schwarz,47500,Ab MFK,4,Schaltgetriebe manuell,Green
+526,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,8,2005,Benzin,503,schwarz,33600,Ab MFK,5,Automatisiertes Schaltgetriebe,Green
+527,9-3 2.0i-16 T SE,Saab,9-3,Cabriolet,1985,Zuzwil,210 g/km,Occasion,G,8.8 l/100km,2,Vorderradantrieb,5,2003,Benzin,185,schwarz,138000,Ab MFK,4,Schaltgetriebe manuell,Green
+528,Quattroporte 4.2 Exec. GT,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,3,2006,Benzin,400,beige,33600,Ab MFK,5,Automatisiertes Schaltgetriebe,Orange
+529,6 2.5,Alfa Romeo,GTV,Coupé,2491,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,6,1984,Benzin,160,anthrazit,584,null,4,Schaltgetriebe,Orange
+530,SL 60,Mercedes-Benz,null,Cabriolet,6000,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,1992,Benzin,380,schwarz,89100,Ab MFK,4,Automatik-Getriebe,Orange
+531,GT3 CUP Rennwagen,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,2007,Benzin,415,null,5000,Rennwagen,1,Automatik-Getriebe,Orange
+532,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,10,2002,Benzin,500,anthrazit,32000,Ab MFK,2,Automat,Blue
+533,SV-R Race,Lamborghini,DIABLO,Coupé,5707,Porrentruy,null,Occasion,null,null,2,Allrad,0,1996,Benzin,0,null,7000,null,1,Schaltgetriebe,Orange
+534,Turbo R,Bentley,TURBO,Limousine,6749,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,5,1990,Benzin,320,null,60100,Ab MFK,5,Automat,Red
+535,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,307 g/km,Occasion,null,12.8 l/100km,2,Allrad,7,2008,Benzin,480,schwarz,9650,Ab MFK,4,Automatik-Getriebe,Red
+536,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,3,2005,Benzin,390,braun,41800,Ab MFK,4,Automatik-Getriebe,Red
+537,E 350 Elégance 4Matic,Mercedes-Benz,E 350,Kombi,3498,Zuzwil,261 g/km,Occasion,G,11.0 l/100km,5,Allrad,4,2005,Benzin,272,schwarz,140200,Ab MFK,5,Automat,Red
+538,SL 65 AMG,Mercedes-Benz,SL 65 AMG,Cabriolet,5981,Zuzwil,362 g/km,Occasion,G,15.1 l/100km,2,Hinterradantrieb,5,2005,Benzin,612,null,22100,null,2,Automat,Red
+539,F360 Spider,Ferrari,F360,Cabriolet,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,5,2001,Benzin,400,schwarz,58000,Ab MFK,2,Automatisiertes Schaltgetriebe,Red
+540,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,5,2004,Benzin,600,schwarz,20900,Ab MFK,2,Automat,Red
+541,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,5,2002,Benzin,476,anthrazit,36800,"Ab MFK, Tuning",2,Automat,Red
+542,RS6 Avant 5.0 V10 quattro 730PS,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,7,2008,Benzin,580,schwarz,112400,Ab MFK,5,Automat,Red
+543,S4 Avant quattro,Audi,S4,Kombi,2671,Zuzwil,274 g/km,Occasion,null,11.4 l/100km,5,Allrad,7,2000,Benzin,265,grau,185900,Ab MFK,5,Schaltgetriebe manuell,Blue
+544,944 S2 Cabriolet ABS,Porsche,944,Cabriolet,2989,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1990,Benzin,211,beige,148600,Ab MFK,4,Schaltgetriebe manuell,Red
+545,RT/10,Dodge,VIPER,Cabriolet,7990,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,12,2001,Benzin,800,schwarz,18600,"Ab MFK, Tuning",2,Schaltgetriebe,Red
+546,Range Rover 4.4 V8 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4398,Zuzwil,389 g/km,Occasion,G,16.2 l/100km,5,Allrad,12,2003,Benzin,286,beige,90400,Ab MFK,5,Automat sequentiell,Red
+547,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,9,2003,Benzin,450,beige,47000,Ab MFK,5,Automat sequentiell,Red
+548,F355 Spider,Ferrari,F355,Cabriolet,3496,Zuzwil,null,Occasion,null,20.8 l/100km,2,Hinterradantrieb,10,1998,Benzin,380,null,67000,Ab MFK,2,Automatisiertes Schaltgetriebe,Red
+549,Cayenne S,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,329 g/km,Occasion,G,13.7 l/100km,5,Allrad,9,2007,Benzin,385,schwarz,78400,Ab MFK,5,Automat,Red
+550,S 63 AMG,Mercedes-Benz,S 63 AMG,Limousine,5461,Zuzwil,237 g/km,Occasion,G,10.1 l/100km,4,Hinterradantrieb,10,2013,Benzin,585,schwarz,4900,Ab MFK,5,Automatisiertes Schaltgetriebe,Red
+551,911 Carrera,Porsche,911,Coupé,3387,Zuzwil,295 g/km,Occasion,G,12.0 l/100km,2,Hinterradantrieb,1,1998,Benzin,300,anthrazit,58200,Ab MFK,4,Schaltgetriebe manuell,Red
+552,DB9 Volante,Aston Martin,DB9,Cabriolet,5935,Zuzwil,394 g/km,Occasion,G,16.5 l/100km,2,Hinterradantrieb,5,2006,Benzin,457,schwarz,41000,Ab MFK,4,Automat sequentiell,Red
+553,Speedster 2.0 16V Turbo,Opel,SPEEDSTER,Cabriolet,1998,Zuzwil,202 g/km,Occasion,G,8.5 l/100km,2,Hinterradantrieb,6,2003,Benzin,200,schwarz,11700,"Ab MFK, Tuning",2,Schaltgetriebe manuell,Red
+554,Murciélago 6.2 Coupé,Lamborghini,MURCIÉLAGO,Coupé,6192,Zuzwil,500 g/km,Occasion,G,21.5 l/100km,2,Allrad,5,2002,Benzin,580,schwarz,16000,Ab MFK,2,Schaltgetriebe manuell,Blue
+555,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,3,2009,Benzin,580,schwarz,89000,Ab MFK,5,Automat sequentiell,Red
+556,911 Turbo S Cabrio,Porsche,911,Cabriolet,3800,Zuzwil,231 g/km,Occasion,G,9.9 l/100km,2,Allrad,4,2014,Benzin,560,braun,9900,Ab MFK,4,Automatisiertes Schaltgetriebe,Red
+557,E 63 AMG CGI,Mercedes-Benz,E 63 AMG,Limousine,5461,Zuzwil,230 g/km,Occasion,G,9.8 l/100km,4,Hinterradantrieb,1,2012,Benzin,557,anthrazit,20100,Ab MFK,5,Automatisiertes Schaltgetriebe,Red
+558,740i,BMW,740,Limousine,4398,Zuzwil,317 g/km,Occasion,null,13.3 l/100km,4,Hinterradantrieb,2,1998,Benzin,286,beige,63000,Ab MFK,5,Automat,Red
+559,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,3,2003,Benzin,450,grau,79000,Ab MFK,5,Automat sequentiell,Red
+560,F430,Ferrari,F430,Coupé,4308,Zuzwil,420 g/km,Occasion,G,18.3 l/100km,2,Hinterradantrieb,3,2007,Benzin,486,beige,45000,Ab MFK,2,Automatik-Getriebe,Red
+561,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,6,2002,Benzin,306,anthrazit,36800,null,2,Automat,Red
+562,911 Carrera 4 Ruf Turbo BTR 2 420 PS,Porsche,911,Coupé,3598,Zuzwil,null,Occasion,null,null,2,Allrad,4,1995,Benzin,272,grün,96000,Ab MFK,4,Schaltgetriebe manuell,Red
+563,Starion 2000 Turbo,Mitsubishi,STARION,Coupé,1997,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1983,Benzin,170,grau,114800,Ab MFK,4,Schaltgetriebe manuell,Red
+564,911 Turbo Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,1,2004,Benzin,420,schwarz,14400,"Ab MFK, Tuning",2,Schaltgetriebe manuell,Red
+565,330Ci,BMW,330,Coupé,2979,Zuzwil,218 g/km,Occasion,null,9.1 l/100km,2,Hinterradantrieb,3,2002,Benzin,231,anthrazit,81900,Ab MFK,5,Automatik-Getriebe,Blue
+566,Turbo,Bentley,Mulsanne,Limousine,6750,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,9,1986,Benzin,300,grün,101500,Ab MFK,5,Automatik-Getriebe,Red
+567,300C T 5.7 HEMI V8,Chrysler,300C,Kombi,5654,Zuzwil,296 g/km,Occasion,G,12.5 l/100km,5,Hinterradantrieb,1,2007,Benzin,340,grau,47100,Ab MFK,5,Automat sequentiell,Red
+568,9-3 2.0T Performance,Saab,9-3,Limousine,1998,Zuzwil,239 g/km,Occasion,null,10.2 l/100km,4,Vorderradantrieb,4,2005,Benzin,252,grau,104400,Ab MFK,5,Automatik-Getriebe,Red
+569,V70 2.4T,Volvo,V70,Kombi,2435,Zuzwil,222 g/km,Occasion,null,9.3 l/100km,5,Vorderradantrieb,4,2002,Benzin,200,anthrazit,83000,Ab MFK,5,Automatik-Getriebe,Red
+570,Phaeton 3.0 TDi V6 4M,VW,PHAETON,Limousine,2967,Zuzwil,240 g/km,Occasion,G,9.1 l/100km,4,Allrad,7,2008,Diesel,240,schwarz,84600,Ab MFK,5,Automat,Red
+571,C 350 Elégance 4Matic,Mercedes-Benz,C 350,Limousine,3498,Zuzwil,253 g/km,Occasion,G,10.6 l/100km,4,Allrad,11,2006,Benzin,272,schwarz,43700,Ab MFK,5,Automat,Red
+572,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,G,13.9 l/100km,4,Hinterradantrieb,4,1999,Benzin,400,braun,29800,Ab MFK,5,Schaltgetriebe manuell,Red
+573,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1993,Benzin,394,schwarz,68900,Ab MFK,2,Automat,Red
+574,Boxster 2.5,Porsche,BOXSTER,Cabriolet,2480,Zuzwil,null,Occasion,null,9.7 l/100km,2,Hinterradantrieb,3,1998,Benzin,204,grau,73200,Ab MFK,2,Automatik-Getriebe,Red
+575,CL 600,Mercedes-Benz,CL 600,Coupé,5987,Zuzwil,400 g/km,Occasion,null,16.9 l/100km,2,Hinterradantrieb,1,1996,Benzin,394,null,36600,Ab MFK,4,Automat,Red
+576,MK IV,Triumph,Spitfire,Cabriolet,1295,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1974,Benzin,60,schwarz,38000,Ab MFK,2,Schaltgetriebe,Blue
+577,II,Rolls-Royce,Silver Shadow,Limousine,3744,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,6,1978,Benzin,196,mehrfarbig,30900,Ab MFK,5,Automatik-Getriebe,Red
+578,XJR 4.0 V8 S/C,Jaguar,XJ,Limousine,3996,Zuzwil,305 g/km,Occasion,G,12.6 l/100km,4,Hinterradantrieb,1,2001,Benzin,363,schwarz,95100,Ab MFK,5,Automat,Red
+579,Arnage T,Bentley,ARNAGE,Limousine,6761,Zuzwil,495 g/km,Occasion,G,20.6 l/100km,4,Hinterradantrieb,5,2002,Benzin,457,braun,62000,Ab MFK,5,Automat,Red
+580,CL 600,Mercedes-Benz,CL 600,Coupé,5514,Zuzwil,340 g/km,Occasion,G,14.3 l/100km,2,Hinterradantrieb,4,2007,Benzin,517,braun,99999,Ab MFK,4,Automat sequentiell,Red
+581,E 63 AMG,Mercedes-Benz,E 63 AMG,Limousine,6209,Zuzwil,295 g/km,Occasion,G,12.6 l/100km,4,Hinterradantrieb,1,2010,Benzin,525,schwarz,29000,Ab MFK,5,Automatisiertes Schaltgetriebe,Red
+582,1600 GT,Marcos,null,Coupé,1598,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,4,1968,Benzin,110,schwarz,85000,Ab MFK,2,Schaltgetriebe manuell,Red
+583,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1993,Benzin,320,grau,117900,Ab MFK,2,Automat,Red
+584,Rennwagen,Renault,CLIO,Limousine,0,Zuzwil,null,Occasion,null,null,0,Vorderradantrieb,2,2000,null,0,null,99,null,0,Schaltgetriebe,Red
+585,V6,Renault,ALPINE,Coupé,2663,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,11,1982,Benzin,150,grau,82400,Ab MFK,4,Schaltgetriebe,Red
+586,GT3 CS,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,null,2,null,1,2001,Benzin,370,schwarz,21100,Ab MFK,2,null,Red
+587,32 V,Lincoln,Navigator,SUV / Geländewagen,5403,Zuzwil,null,Occasion,null,null,5,null,3,2003,Benzin,300,schwarz,130000,Ab MFK,7,Automatik-Getriebe,Blue
+588,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,1,2004,Benzin,517,beige,28000,Ab MFK,2,Automatisiertes Schaltgetriebe,Red
+589,BLACK SERIES,Mercedes-Benz,SL 65 AMG,Coupé,5980,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,2012,Benzin,730,schwarz,43000,Ab MFK,2,Automatik-Getriebe,Red
+590,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,1,2002,Benzin,420,beige,29000,Ab MFK,4,Automatik-Getriebe,Red
+591,E 420 Avantgarde,Mercedes-Benz,E 420,Limousine,4196,Zuzwil,326 g/km,Occasion,null,14.3 l/100km,4,Hinterradantrieb,5,1996,Benzin,279,grau,132600,Ab MFK,5,Automat,Red
+592,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,322 g/km,Occasion,null,13.5 l/100km,4,Allrad,1,1999,Benzin,300,schwarz,69900,Ab MFK,5,Automat,Red
+593,F430,Ferrari,F430,Coupé,4308,Zuzwil,420 g/km,Occasion,G,18.3 l/100km,2,Hinterradantrieb,3,2006,Benzin,486,rot,4400,Ab MFK,2,Automatik-Getriebe,Red
+594,B 200,Dodge,null,Kompaktvan / Minivan,5893,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,7,1979,Benzin,0,mehrfarbig,13800,Ab MFK,7,Automat,Red
+595,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,9,2010,Benzin,580,null,38000,Ab MFK,5,Automat,Red
+596,M3,BMW,M3,Coupé,3246,Zuzwil,323 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,9,2001,Benzin,343,schwarz,127800,Ab MFK,5,Schaltgetriebe manuell,Red
+597,A6 Avant 2.7 T Ambition,Audi,A6,Kombi,2671,Zuzwil,254 g/km,Occasion,null,10.6 l/100km,5,Vorderradantrieb,9,2000,Benzin,230,schwarz,45000,"Ab MFK, Tuning",5,Schaltgetriebe manuell,Red
+598,Cayenne Turbo Techart Magnum Kit,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,5,Allrad,1,2010,Benzin,500,schwarz,2900,Ab MFK,5,Automat sequentiell,Anthracite
+599,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,5,2003,Benzin,450,schwarz,43400,Ab MFK,5,Automat sequentiell,Blue
+600,S-Type 4.0 V8,Jaguar,S-TYPE,Limousine,3996,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,1,2000,Benzin,276,beige,44200,Ab MFK,5,Automat,Red
+601,911 Turbo S,Porsche,911,Coupé,3800,Zuzwil,227 g/km,Neu,G,9.7 l/100km,2,Allrad,1,2015,Benzin,560,schwarz,100,Ab MFK,4,Automatisiertes Schaltgetriebe,Red
+602,1000 / Publica,Toyota,null,Limousine,993,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1977,Benzin,47,mehrfarbig,78000,Ab MFK,5,Schaltgetriebe manuell,Red
+603,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,null,Occasion,null,13.2 l/100km,4,Allrad,9,1997,Benzin,300,null,33800,Ab MFK,5,Automat sequentiell,Red
+604,XKR S/C Convertible,Jaguar,XK,Cabriolet,3996,Zuzwil,305 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,4,2002,Benzin,363,mehrfarbig,77600,Ab MFK,4,Automat,Red
+605,A4 Avant 2.8 q.Ambition,Audi,A4,Kombi,2771,Zuzwil,null,Occasion,null,10.4 l/100km,5,Allrad,4,1998,Benzin,193,schwarz,196300,Ab MFK,5,Automatik-Getriebe,Red
+606,E 50 AMG Avantgarde,Mercedes-Benz,E 50 AMG,Limousine,4973,Zuzwil,null,Occasion,null,13.5 l/100km,4,Hinterradantrieb,11,1996,Benzin,347,schwarz,33700,Ab MFK,5,Automat,Red
+607,X5 4.8is,BMW,X5,SUV / Geländewagen,4799,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,5,Allrad,8,2004,Benzin,360,schwarz,61900,Ab MFK,5,Automat sequentiell,Red
+608,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,9,2002,Benzin,450,grau,71900,Ab MFK,5,Automat sequentiell,Red
+609,135i,BMW,135,Cabriolet,2979,Zuzwil,225 g/km,Occasion,G,9.4 l/100km,2,Hinterradantrieb,10,2008,Benzin,306,braun,25700,Ab MFK,4,Automat sequentiell,Black
+610,456M GT,Ferrari,456,Coupé,5474,Zuzwil,495 g/km,Occasion,G,22.0 l/100km,2,Hinterradantrieb,3,2000,Benzin,442,grau,46500,Ab MFK,4,Schaltgetriebe manuell,Blue
+611,CLK 55 AMG Avantgarde,Mercedes-Benz,CLK 55 AMG,Cabriolet,5439,Zuzwil,295 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,2,2003,Benzin,367,mehrfarbig,92300,"Ab MFK, Direkt-/Parallelimport",4,Automat,Black
+612,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,7,2003,Benzin,500,schwarz,43300,Ab MFK,2,Automat,Black
+613,S 600,Mercedes-Benz,S 600,Coupé,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1995,Benzin,394,braun,62000,Ab MFK,4,Automat,Black
+614,2700VA,Renault,ALPINE,Coupé,0,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1979,Benzin,150,null,36900,Ab MFK,4,Schaltgetriebe,Black
+615,2.0 16V GTI-R Rallye,Nissan,SUNNY,Limousine,1997,Zuzwil,null,Occasion,null,null,3,Allrad,1,1992,null,250,schwarz,98000,Ab MFK,0,Schaltgetriebe,Black
+616,2000 Bertone,Alfa Romeo,GTV,Coupé,1961,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1972,Benzin,130,schwarz,18400,null,4,Schaltgetriebe,Black
+617,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1991,Benzin,320,schwarz,55300,Ab MFK,2,Automat,Black
+618,Gallardo LP570-4 Coupé SL,Lamborghini,GALLARDO,Coupé,5204,Zuzwil,325 g/km,Occasion,G,13.7 l/100km,2,Allrad,1,2011,Benzin,570,schwarz,19300,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+619,Ibiza 1.9 TDI FR,Seat,IBIZA,Kleinwagen,1896,Zuzwil,138 g/km,Occasion,D,5.1 l/100km,3,Vorderradantrieb,8,2005,Diesel,130,anthrazit,132200,Ab MFK,5,Schaltgetriebe manuell,Black
+620,S40 2.0 T,Volvo,S40,Limousine,1948,Zuzwil,236 g/km,Occasion,null,9.9 l/100km,4,Vorderradantrieb,5,1999,Benzin,160,anthrazit,107000,Ab MFK,5,Automat,Black
+621,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,12,2004,Benzin,306,schwarz,51000,Ab MFK,4,Automat sequentiell,Blue
+622,R8 Spyder 5.2,Audi,R8,Cabriolet,5204,Zuzwil,332 g/km,Occasion,G,14.2 l/100km,2,Allrad,4,2010,Benzin,525,schwarz,37000,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+623,500 SE,Mercedes-Benz,500,Limousine,4971,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1991,Benzin,320,grau,156300,Ab MFK,5,Automat,Black
+624,Grand Cherokee 5.2 Ltd.,Jeep,Grand Cherokee,SUV / Geländewagen,5213,Zuzwil,null,Occasion,null,null,5,Allrad,2,1995,Benzin,212,beige,133500,Ab MFK,5,Automat,Black
+625,F355 Spider,Ferrari,F355,Cabriolet,3496,Zuzwil,470 g/km,Occasion,null,20.8 l/100km,2,Hinterradantrieb,7,1998,Benzin,380,schwarz,34600,Ab MFK,2,Schaltgetriebe manuell,Black
+626,S6 Avant quattro 4.2,Audi,S6,Kombi,4170,Zuzwil,353 g/km,Occasion,null,14.9 l/100km,5,Allrad,6,1997,Benzin,290,beige,91900,Ab MFK,5,Automat,Black
+627,M5,BMW,M5,Limousine,4395,Zuzwil,231 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,9,2013,Benzin,575,schwarz,15300,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+628,Gallardo LP560-4 Coupé,Lamborghini,GALLARDO,Coupé,5204,Zuzwil,325 g/km,Occasion,G,13.7 l/100km,2,Allrad,6,2008,Benzin,560,schwarz,28500,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+629,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,6,2003,Benzin,500,schwarz,45300,Ab MFK,2,Automat,Black
+630,C 180 Esprit,Mercedes-Benz,C 180,Limousine,1799,Zuzwil,218 g/km,Occasion,null,9.2 l/100km,4,Hinterradantrieb,11,1997,Benzin,122,schwarz,118200,Ab MFK,5,Schaltgetriebe manuell,Black
+631,Murciélago 6.2 Coupé,Lamborghini,MURCIÉLAGO,Coupé,6192,Zuzwil,500 g/km,Occasion,G,21.5 l/100km,2,Allrad,7,2005,Benzin,580,schwarz,49800,"Ab MFK, Tuning",2,Automatisiertes Schaltgetriebe,Black
+632,SL 250 Pagode,Mercedes-Benz,null,Cabriolet,2496,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1967,Benzin,150,beige,47700,Ab MFK,2,Schaltgetriebe,Blue
+633,Murciélago LP640-4 Cpé,Lamborghini,MURCIÉLAGO,Coupé,6496,Porrentruy,495 g/km,Occasion,G,21.3 l/100km,2,Allrad,4,2011,Benzin,641,schwarz,7890,Ab MFK,2,Schaltgetriebe manuell,Black
+634,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,5,2003,Benzin,286,grau,66800,Ab MFK,5,Automat sequentiell,Black
+635,S8 4.2 quattro,Audi,S8,Limousine,4172,Zuzwil,331 g/km,Occasion,null,13.8 l/100km,4,Allrad,3,2001,Benzin,360,schwarz,49300,Ab MFK,5,Automatik-Getriebe,Black
+636,E 500 Avantgarde,Mercedes-Benz,E 500,Kombi,4966,Zuzwil,284 g/km,Occasion,G,11.9 l/100km,5,Hinterradantrieb,4,2004,Benzin,306,null,123300,Ab MFK,5,Automat sequentiell,Black
+637,750iL,BMW,750,Limousine,5377,Zuzwil,338 g/km,Occasion,null,14.2 l/100km,4,Hinterradantrieb,1,1995,Benzin,327,schwarz,111900,Ab MFK,5,Automat,Black
+638,330Ci,BMW,330,Cabriolet,2979,Zuzwil,237 g/km,Occasion,G,9.9 l/100km,2,Hinterradantrieb,5,2001,Benzin,231,schwarz,65300,Ab MFK,4,Schaltgetriebe manuell,Black
+639,320i Touring,BMW,320,Kombi,1990,Zuzwil,215 g/km,Occasion,null,9.0 l/100km,5,Hinterradantrieb,1,1996,Benzin,150,schwarz,79800,Ab MFK,5,Schaltgetriebe manuell,Black
+640,DAUPHINE GORDINI,Renault,null,Limousine,845,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1960,Benzin,33,beige,177000,Ab MFK,5,Schaltgetriebe,Black
+641,525xi,BMW,525,Limousine,2497,Zuzwil,232 g/km,Occasion,G,9.6 l/100km,4,Allrad,1,2007,Benzin,218,schwarz,99800,Ab MFK,5,Schaltgetriebe manuell,Black
+642,II Coupé,Rolls-Royce,CORNICHE,Coupé,0,Basel,null,Oldtimer,null,null,0,null,7,1980,Benzin,0,braun,32000,null,4,null,Black
+643,Range Rover Sport 4.2 V8 SC,Land Rover,RANGE ROVER SPORT,SUV / Geländewagen,4197,Zuzwil,374 g/km,Occasion,G,15.9 l/100km,5,Allrad,6,2006,Benzin,390,schwarz,49900,null,5,Automat,Blue
+644,null,Ferrari,F40 / F50,Coupé,2935,Sursee,null,Occasion,null,null,2,Hinterradantrieb,2,1989,null,478,null,7000,null,2,Schaltgetriebe,Black
+645,1600 S,Renault,Alpine A110,Coupé,1605,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1972,Benzin,124,schwarz,68000,Ab MFK,2,Schaltgetriebe,Black
+646,CLS 63 AMG,Mercedes-Benz,CLS 63 AMG,Limousine,5461,Zuzwil,231 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,9,2011,Benzin,525,beige,69200,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+647,M3,BMW,M3,Limousine,2301,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,1987,Benzin,195,schwarz,88000,null,4,Schaltgetriebe manuell,Black
+648,CL 600,Mercedes-Benz,CL 600,Coupé,5513,Zuzwil,353 g/km,Occasion,G,14.7 l/100km,2,Hinterradantrieb,11,2003,Benzin,500,schwarz,41100,Ab MFK,4,Automat,Black
+649,V8 4.0,Daimler,V8,Limousine,3996,Zuzwil,285 g/km,Occasion,G,11.9 l/100km,4,Hinterradantrieb,5,1998,Benzin,284,beige,100,Ab MFK,5,Automat,Black
+650,530i Touring,BMW,530,Kombi,2979,Zuzwil,238 g/km,Occasion,null,9.9 l/100km,5,Hinterradantrieb,5,2001,Benzin,231,null,120900,Ab MFK,5,Automatik-Getriebe,Black
+651,528i Touring,BMW,528,Kombi,2793,Zuzwil,230 g/km,Occasion,G,9.7 l/100km,5,Hinterradantrieb,4,1997,Benzin,193,schwarz,38000,Ab MFK,5,Schaltgetriebe manuell,Black
+652,456M GTA,Ferrari,456,Coupé,5474,Zuzwil,520 g/km,Occasion,G,22.3 l/100km,2,Hinterradantrieb,12,1999,Benzin,442,beige,18200,Ab MFK,4,Automat,Black
+653,Continental R Coupé,Bentley,CONTINENTAL,Coupé,6749,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1994,Benzin,360,beige,60000,Ab MFK,4,Automat,Black
+654,Murciélago LP640-4 Cpé,Lamborghini,MURCIÉLAGO,Coupé,6496,Zuzwil,495 g/km,Occasion,G,21.3 l/100km,2,Allrad,3,2007,Benzin,641,schwarz,33000,Ab MFK,2,Automatisiertes Schaltgetriebe,Blue
+655,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1992,Benzin,320,schwarz,129700,Ab MFK,0,Automat,Black
+656,V6,Renault,ALPINE,Coupé,2663,Zuzwil,null,Occasion,null,null,2,null,8,1983,Benzin,150,beige,128500,Ab MFK,4,Schaltgetriebe,Black
+657,Sierra 2.0i Cosworth 4x4,Ford,SIERRA,Limousine,1993,Zuzwil,null,Occasion,null,null,4,Allrad,9,1990,Benzin,220,schwarz,164400,Ab MFK,5,Schaltgetriebe manuell,Black
+658,RS4 Avant 4.2 V8 quattro,Audi,RS4,Kombi,4163,Zuzwil,326 g/km,Occasion,G,13.6 l/100km,5,Allrad,8,2006,Benzin,420,schwarz,117400,Ab MFK,5,Schaltgetriebe manuell,Black
+659,911 Carrera Jubilé 40,Porsche,911,Coupé,3596,Zuzwil,274 g/km,Occasion,G,11.3 l/100km,2,Hinterradantrieb,3,2004,Benzin,345,schwarz,61400,Ab MFK,4,Schaltgetriebe manuell,Black
+660,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,11,2002,Benzin,420,grau,15900,Ab MFK,5,Automat sequentiell,Black
+661,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,317 g/km,Occasion,null,13.4 l/100km,2,Hinterradantrieb,1,1999,Benzin,231,schwarz,70900,Ab MFK,2,Automat,Black
+662,911 GT3 RS,Porsche,911,Coupé,3996,Sursee,326 g/km,Occasion,G,13.8 l/100km,2,Hinterradantrieb,11,2011,Benzin,500,rot,6300,null,2,Schaltgetriebe manuell,Black
+663,E 63 AMG,Mercedes-Benz,E 63 AMG,Limousine,6209,Zuzwil,295 g/km,Occasion,G,12.6 l/100km,4,Hinterradantrieb,3,2010,Benzin,525,schwarz,7400,Ab MFK,5,Automat sequentiell,Black
+664,911 Carrera 4,Porsche,911,Coupé,3387,Zuzwil,null,Occasion,null,11.8 l/100km,2,Allrad,5,1999,Benzin,300,blau,77800,Ab MFK,4,Automatik-Getriebe,Black
+665,RS4 Avant quattro,Audi,RS4,Kombi,2671,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,5,Allrad,3,2001,Benzin,380,weiss,50000,Ab MFK,5,Schaltgetriebe manuell,Blue
+666,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1995,Benzin,394,beige,75200,Ab MFK,0,Automat,Black
+667,540i,BMW,540,Limousine,4398,Zuzwil,292 g/km,Occasion,null,12.1 l/100km,4,Hinterradantrieb,11,1998,Benzin,286,schwarz,93000,Ab MFK,5,Automatik-Getriebe,Black
+668,1300S Trabusa,Trabant,null,Limousine,1299,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,1,2009,Benzin,0,schwarz,999,Rennwagen,0,Schaltgetriebe,Black
+669,Leon 2.0 TSI FR,Seat,LEON,Limousine,1984,Zuzwil,190 g/km,Occasion,G,7.9 l/100km,5,Vorderradantrieb,1,2009,Benzin,200,anthrazit,53300,Ab MFK,5,Schaltgetriebe manuell,Black
+670,E-Type III,Jaguar,E,Cabriolet,5343,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1974,Benzin,269,schwarz,49200,Ab MFK,2,Automat,Black
+671,Aventador LP700-4 Rds,Lamborghini,AVENTADOR,Cabriolet,6498,Zuzwil,370 g/km,Neu,G,16.0 l/100km,2,Allrad,3,2015,Benzin,700,schwarz,90,"Ab MFK, Direkt-/Parallelimport",2,Automatisiertes Schaltgetriebe,Black
+672,S 55 AMG,Mercedes-Benz,S 55 AMG,Limousine,5439,Zuzwil,317 g/km,Occasion,G,13.2 l/100km,4,Hinterradantrieb,3,2003,Benzin,500,schwarz,121900,Ab MFK,5,Automat,Black
+673,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,12,2000,Benzin,286,grau,3600,Ab MFK,5,Automat sequentiell,Black
+674,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,null,Occasion,G,15.8 l/100km,4,Hinterradantrieb,7,2004,Benzin,400,blau,56600,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+675,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,10,2003,Benzin,450,schwarz,40900,Ab MFK,5,Automat sequentiell,Black
+676,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1980,Benzin,150,mehrfarbig,108000,Ab MFK,4,Schaltgetriebe manuell,Blue
+677,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,3,2009,Benzin,700,schwarz,29500,Ab MFK,5,Automat,Black
+678,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,8,2003,Benzin,450,beige,114000,Ab MFK,5,Automat sequentiell,Black
+679,760i L,BMW,760,Limousine,5972,Zuzwil,330 g/km,Occasion,G,13.6 l/100km,4,Hinterradantrieb,1,2003,Benzin,445,beige,94500,Ab MFK,5,Automat sequentiell,Black
+680,B 200 T Sailing Edition,Mercedes-Benz,B 200,Kompaktvan / Minivan,2035,Zuzwil,195 g/km,Occasion,G,8.1 l/100km,5,Vorderradantrieb,8,2006,Benzin,193,null,60500,Ab MFK,5,Schaltgetriebe manuell,Black
+681,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,12,2006,Benzin,400,schwarz,9800,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+682,335i,BMW,335,Cabriolet,2979,Zuzwil,238 g/km,Occasion,G,9.9 l/100km,2,Hinterradantrieb,7,2007,Benzin,306,schwarz,77500,Ab MFK,4,Schaltgetriebe manuell,Black
+683,SLK 55 AMG,Mercedes-Benz,SLK 55 AMG,Cabriolet,5439,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,2,Hinterradantrieb,4,2005,Benzin,360,schwarz,42500,Ab MFK,2,Automat sequentiell,Black
+684,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,10,2005,Benzin,450,beige,64500,Ab MFK,5,Automat sequentiell,Black
+685,Arnage Red Label,Bentley,ARNAGE,Limousine,6761,Zuzwil,456 g/km,Occasion,G,19.2 l/100km,4,Hinterradantrieb,2,2000,Benzin,405,braun,111600,Ab MFK,5,Automat,Black
+686,TTS Cpé 2.0 TFSI quattro,Audi,TT,Coupé,1984,Zuzwil,188 g/km,Occasion,G,7.9 l/100km,3,Allrad,8,2008,Benzin,272,schwarz,29300,"Ab MFK, Tuning",4,Automatisiertes Schaltgetriebe,Black
+687,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,6,2003,Benzin,600,schwarz,77700,Ab MFK,2,Automat,Blue
+688,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,321 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,6,2000,Benzin,367,schwarz,103800,Ab MFK,4,Automat,Black
+689,R5 1400 Alpine Turbo,Renault,R5,Kleinwagen,1397,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,12,1983,Benzin,108,braun,159700,Ab MFK,4,Schaltgetriebe manuell,Black
+690,ML 500,Mercedes-Benz,ML 500,SUV / Geländewagen,4966,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,2,2002,Benzin,292,grau,118000,Ab MFK,5,Automat,Black
+691,RS 2600,Ford,CAPRI,Coupé,2632,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,3,1973,Benzin,150,schwarz,36100,null,4,Schaltgetriebe,Black
+692,E 50 AMG Avantgarde,Mercedes-Benz,E 50 AMG,Limousine,4973,Zuzwil,315 g/km,Occasion,null,13.5 l/100km,4,Hinterradantrieb,3,1997,Benzin,347,schwarz,70700,Ab MFK,5,Automat,Black
+693,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,5,2005,Benzin,503,weiss,21700,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+694,B10 4.6 S.Tronic,Bmw-Alpina,5 SERIES,Limousine,4619,Zuzwil,355 g/km,Occasion,G,14.9 l/100km,4,Hinterradantrieb,10,1998,Benzin,347,schwarz,94400,Ab MFK,5,Automat,Black
+695,Escort 2.0i RS Cosworth,Ford,ESCORT,Limousine,1992,Zuzwil,null,Occasion,null,null,3,Allrad,4,1994,Benzin,220,mehrfarbig,11000,"Ab MFK, Tuning",5,Schaltgetriebe manuell,Black
+696,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,301 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,2,1998,Benzin,354,schwarz,63400,Ab MFK,5,Automat,Black
+697,Turbo,BMW,2002,Limousine,1990,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1974,Benzin,170,schwarz,134000,Ab MFK,4,Schaltgetriebe manuell,Black
+698,750i,BMW,750,Limousine,5379,Zuzwil,327 g/km,Occasion,null,14.2 l/100km,4,Hinterradantrieb,3,1998,Benzin,327,grau,60700,Ab MFK,5,Automat sequentiell,Blue
+699,Quattroporte 4.2 Sport GT,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,10,2006,Benzin,400,schwarz,24300,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+700,C 63 AMG Avantgarde,Mercedes-Benz,C 63 AMG,Kombi,6208,Zuzwil,316 g/km,Occasion,G,13.6 l/100km,5,Hinterradantrieb,1,2009,Benzin,457,schwarz,57400,Ab MFK,5,Automat sequentiell,Black
+701,Brooklands,Bentley,BROOKLANDS,Limousine,6761,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,12,1995,Benzin,250,beige,124900,Ab MFK,5,Automat,Black
+702,Quattroporte 4.2 Sport GT,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,4,2008,Benzin,400,schwarz,58900,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+703,E 63 AMG,Mercedes-Benz,E 63 AMG,Limousine,6209,Zuzwil,295 g/km,Occasion,G,12.6 l/100km,4,Hinterradantrieb,6,2009,Benzin,525,schwarz,34500,"Ab MFK, Direkt-/Parallelimport",5,Automatisiertes Schaltgetriebe,Black
+704,V8 Vantage 4.3,Aston Martin,V8 Vantage,Coupé,4282,Zuzwil,358 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,2,2007,Benzin,385,schwarz,35500,Ab MFK,2,Schaltgetriebe manuell,Black
+705,B5 BiTurbo 4.4 V8,Bmw-Alpina,5 SERIES,Limousine,4395,Zuzwil,252 g/km,Occasion,G,10.8 l/100km,4,Hinterradantrieb,6,2012,Benzin,507,schwarz,4950,Ab MFK,5,Automat sequentiell,Black
+706,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,270 g/km,Occasion,G,11.5 l/100km,5,Allrad,1,2011,Benzin,500,schwarz,39000,Ab MFK,5,Automat sequentiell,Black
+707,XKR S/C,Jaguar,XK,Coupé,3996,Zuzwil,340 g/km,Occasion,G,12.6 l/100km,2,Hinterradantrieb,5,1999,Benzin,363,weiss,89666,Ab MFK,4,Automat,Black
+708,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,2,Hinterradantrieb,3,2006,Benzin,517,schwarz,49000,Ab MFK,2,Automat sequentiell,Black
+709,Shelby GT500,Ford ,MUSTANG,Coupé,5409,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,2012,Benzin,557,schwarz,92000,"Ab MFK, Direkt-/Parallelimport",4,Schaltgetriebe,Anthracite
+710,Diablo 5.7,Lamborghini,DIABLO,Coupé,5707,Porrentruy,null,Occasion,null,null,2,Hinterradantrieb,4,1993,Benzin,492,mehrfarbig,49500,Ab MFK,2,Schaltgetriebe manuell,Blue
+711,Frontera 3.2i V6 Limited,Opel,FRONTERA,SUV / Geländewagen,3165,Zuzwil,316 g/km,Occasion,null,13.2 l/100km,5,Allrad,5,2001,Benzin,205,schwarz,153900,null,5,Automatik-Getriebe,Black
+712,V8 Vantage 4.3,Aston Martin,V8 Vantage,Coupé,4282,Zuzwil,358 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,7,2007,Benzin,385,schwarz,28800,Ab MFK,2,Schaltgetriebe manuell,Black
+713,Black Series,Mercedes-Benz,SLK 55 AMG,Coupé,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,2006,Benzin,400,schwarz,25000,Ab MFK,2,Automat sequentiell,Black
+714,Corvette 5.7 LT1 Convert.,Chevrolet,CORVETTE,Cabriolet,5730,Zuzwil,null,Occasion,null,13.1 l/100km,2,Hinterradantrieb,7,1994,Benzin,282,schwarz,68200,Ab MFK,2,Automat,Black
+715,SEL 3.5,Mercedes-Benz,300,Limousine,3459,Zuzwil,null,Occasion,null,13.0 l/100km,4,Hinterradantrieb,5,1971,Benzin,200,mehrfarbig,145100,Ab MFK,5,Automatik-Getriebe,Black
+716,Spider 2.0,Alfa Romeo,SPIDER,Cabriolet,1961,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1988,Benzin,115,grau,69300,null,2,Schaltgetriebe manuell,Black
+717,V8 Vantage 4.3,Aston Martin,V8 Vantage,Coupé,4282,Zuzwil,358 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,1,2006,Benzin,385,braun,92500,Ab MFK,2,Schaltgetriebe manuell,Black
+718,SLK 230 Kompressor,Mercedes-Benz,SLK 230,Cabriolet,2295,Zuzwil,233 g/km,Occasion,null,9.7 l/100km,2,Hinterradantrieb,5,2002,Benzin,197,schwarz,38700,Ab MFK,2,Automatik-Getriebe,Black
+719,9-3 2.0i-16 TS Aero,Saab,9-3,Limousine,1985,Zuzwil,216 g/km,Occasion,G,9.0 l/100km,3,Vorderradantrieb,9,2001,Benzin,205,schwarz,134600,Ab MFK,5,Schaltgetriebe manuell,Black
+720,911 Carrera Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,null,Occasion,null,11.9 l/100km,2,Hinterradantrieb,8,1996,Benzin,285,grau,81900,Ab MFK,4,Schaltgetriebe manuell,Black
+721,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,2,2003,Benzin,500,beige,59300,Ab MFK,2,Automat,Blue
+722,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,2,2003,Benzin,450,schwarz,43800,Ab MFK,5,Automat sequentiell,Black
+723,null,Lotus,EUROPA,Coupé,1470,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1969,Benzin,0,schwarz,62200,Ab MFK,2,Schaltgetriebe,Black
+724,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,1,2001,Benzin,299,null,27800,Ab MFK,4,Automat,Black
+725,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,G,13.9 l/100km,4,Hinterradantrieb,1,2000,Benzin,400,schwarz,171000,null,5,Schaltgetriebe manuell,Black
+726,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,10,2002,Benzin,420,blau,50400,Ab MFK,4,Automat sequentiell,Black
+727,Diablo 5.7,Lamborghini,DIABLO,Coupé,5707,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,2000,Benzin,492,schwarz,20600,Ab MFK,2,Schaltgetriebe manuell,Black
+728,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1992,Benzin,394,grau,52500,Ab MFK,2,Automat,Black
+729,400 Breitbau,Opel,MANTA,Coupé,2400,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1982,Benzin,0,schwarz,60990,Ab MFK,4,Schaltgetriebe,Black
+730,750i xDrive,BMW,750,Limousine,4395,Zuzwil,278 g/km,Occasion,G,11.9 l/100km,4,Allrad,10,2009,Benzin,408,mehrfarbig,45000,Ab MFK,5,Automat,Black
+731,911 GT2,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Hinterradantrieb,3,2004,Benzin,591,schwarz,54100,Ab MFK,4,Schaltgetriebe manuell,Black
+732,911 GT2,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Hinterradantrieb,12,2002,Benzin,462,schwarz,61300,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Blue
+733,Vectra 2.8 T V6 Cosmo,Opel,VECTRA,Limousine,2792,Zuzwil,247 g/km,Occasion,null,10.3 l/100km,4,Vorderradantrieb,5,2006,Benzin,230,schwarz,90600,Ab MFK,5,Automatik-Getriebe,Black
+734,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,6,2001,Benzin,286,schwarz,79900,Ab MFK,5,Automat sequentiell,Black
+735,500 SL,Mercedes-Benz,SL-CLASS,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1985,Benzin,223,mehrfarbig,97000,Ab MFK,2,Automat,Black
+736,S 500,Mercedes-Benz,S 500,Limousine,5461,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,4,Hinterradantrieb,11,2005,Benzin,388,schwarz,1500,Ab MFK,5,Automat sequentiell,Black
+737,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,1,2005,Benzin,306,schwarz,21300,Ab MFK,4,Automat sequentiell,Black
+738,G 63 AMG,Mercedes-Benz,G 63 AMG,SUV / Geländewagen,5461,Zuzwil,322 g/km,Occasion,G,13.8 l/100km,5,Allrad,4,2013,Benzin,544,schwarz,28100,Ab MFK,5,Automat sequentiell,Black
+739,S 63 AMG L,Mercedes-Benz,S 63 AMG,Limousine,6209,Zuzwil,355 g/km,Occasion,G,14.9 l/100km,4,Hinterradantrieb,8,2008,Benzin,525,grau,45600,Ab MFK,5,Automat sequentiell,Black
+740,911 Targa,Porsche,911,Cabriolet,3600,Zuzwil,303 g/km,Occasion,null,12.8 l/100km,2,Hinterradantrieb,5,1997,Benzin,285,blau,74000,Ab MFK,4,Schaltgetriebe manuell,Black
+741,Murano 3.5 V6,Nissan,MURANO,SUV / Geländewagen,3498,Zuzwil,295 g/km,Occasion,G,12.3 l/100km,5,Allrad,10,2005,Benzin,235,beige,54500,Ab MFK,5,"Automat stufenlos, sequentiell",Black
+742,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,470 g/km,Occasion,null,20.8 l/100km,2,Hinterradantrieb,3,1998,Benzin,380,schwarz,32800,Ab MFK,2,Schaltgetriebe manuell,Black
+743,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,8,2002,Benzin,450,beige,75200,"Ab MFK, Tuning",5,Automat sequentiell,Blue
+744,Gallardo Superleggera,Lamborghini,GALLARDO,Coupé,4961,Zuzwil,400 g/km,Occasion,G,17.0 l/100km,2,Allrad,6,2007,Benzin,530,schwarz,42000,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+745,R8 Coupé 4.2,Audi,R8,Coupé,4163,Zuzwil,326 g/km,Neu,G,13.9 l/100km,2,Allrad,10,2007,Benzin,420,schwarz,500,"Ab MFK, Tuning",2,Automatik-Getriebe,Black
+746,Continental Supersports Conv.,Bentley,CONTINENTAL,Cabriolet,5998,Zuzwil,388 g/km,Occasion,G,16.7 l/100km,2,Allrad,1,2011,Bioethanol,630,schwarz,20000,null,2,Automat sequentiell,Black
+747,M6,BMW,M6,Coupé,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,2,Hinterradantrieb,4,2005,Benzin,507,schwarz,58300,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+748,Celica 2800 i Supra,Toyota,CELICA,Coupé,2759,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,3,1983,Benzin,170,schwarz,54100,Ab MFK,5,Schaltgetriebe manuell,Black
+749,323Ci,BMW,323,Cabriolet,2494,Zuzwil,232 g/km,Occasion,null,9.7 l/100km,2,Hinterradantrieb,6,2000,Benzin,170,schwarz,228000,Ab MFK,4,Automatik-Getriebe,Black
+750,A4 Avant 3.0 V6 quattro,Audi,A4,Kombi,2976,Zuzwil,271 g/km,Occasion,null,11.3 l/100km,5,Allrad,7,2004,Benzin,220,schwarz,66100,null,5,Automatik-Getriebe,Black
+751,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,3,2005,Benzin,306,schwarz,66100,Ab MFK,4,Automat sequentiell,Black
+752,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,1995,Benzin,320,schwarz,56500,Ab MFK,0,Automat,Black
+753,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,4,2003,Benzin,500,null,70000,Ab MFK,2,Automat,Black
+754,H3 3.5 Luxury,Hummer,H3,SUV / Geländewagen,3462,Zuzwil,333 g/km,Occasion,G,13.9 l/100km,5,Allrad,1,2006,Benzin,223,mehrfarbig,127700,Ab MFK,5,Automat,Blue
+755,Continental GTC 6.0,Bentley,CONTINENTAL,Cabriolet,5998,Zuzwil,410 g/km,Occasion,G,17.1 l/100km,2,Allrad,7,2007,Benzin,560,mehrfarbig,50900,Ab MFK,4,Automat,Black
+756,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,5,2008,Benzin,580,weiss,38500,Ab MFK,5,Automat sequentiell,Black
+757,740i,BMW,740,Limousine,3980,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1995,Benzin,286,blau,65400,Ab MFK,5,Automat,Black
+758,330Ci,BMW,330,Coupé,2979,Zuzwil,218 g/km,Occasion,G,9.1 l/100km,2,Hinterradantrieb,3,2001,Benzin,231,grau,79500,Ab MFK,5,Schaltgetriebe manuell,Black
+759,6R4 Gruppe B,MG,METRO,Coupé,2991,Zuzwil,null,Occasion,null,null,2,Allrad,2,1986,Benzin,410,schwarz,2500,Ab MFK,2,Schaltgetriebe,Black
+760,535i,BMW,535,Limousine,3498,Zuzwil,null,Occasion,null,12.0 l/100km,4,Hinterradantrieb,6,1996,Benzin,235,grau,86100,Ab MFK,5,Schaltgetriebe manuell,Black
+761,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1990,Benzin,320,bordeaux,23800,Ab MFK,0,Automat,Black
+762,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,11,2004,Benzin,450,schwarz,69500,Ab MFK,5,Automat,Black
+763,M6,BMW,M6,Cabriolet,4999,Zuzwil,366 g/km,Occasion,G,15.2 l/100km,2,Hinterradantrieb,4,2007,Benzin,507,schwarz,48000,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+764,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,10,2007,Benzin,400,schwarz,21500,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+765,CL 600,Mercedes-Benz,CL 600,Coupé,5513,Zuzwil,353 g/km,Occasion,G,14.7 l/100km,2,Hinterradantrieb,12,2003,Benzin,500,schwarz,29500,Ab MFK,4,Automat,Blue
+766,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Vorführmodell,G,14.6 l/100km,5,Allrad,12,2004,Benzin,450,schwarz,2300,Ab MFK,5,Automat sequentiell,Black
+767,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,326 g/km,Occasion,G,13.9 l/100km,2,Hinterradantrieb,1,2008,Benzin,517,beige,29100,Ab MFK,2,Automat sequentiell,Black
+768,911 Carrera Cabrio,Porsche,911,Cabriolet,3163,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,1984,Benzin,231,mehrfarbig,137700,Ab MFK,4,Schaltgetriebe manuell,Black
+769,Diablo 5.7 VT Roadster,Lamborghini,DIABLO,Cabriolet,5707,Porrentruy,575 g/km,Occasion,null,24.9 l/100km,2,Allrad,5,1998,Benzin,530,rot,13960,Ab MFK,2,Schaltgetriebe manuell,Black
+770,Grand Cherokee 5.2 Ltd.,Jeep,Grand Cherokee,SUV / Geländewagen,5216,Zuzwil,380 g/km,Occasion,null,16.5 l/100km,5,Allrad,6,1997,Benzin,212,schwarz,61000,Ab MFK,5,Automat,Black
+771,730d,BMW,730,Limousine,2993,Zuzwil,210 g/km,Occasion,G,7.9 l/100km,4,Hinterradantrieb,11,2007,Diesel,231,beige,62000,Ab MFK,5,Automat sequentiell,Black
+772,SLC,Mercedes-Benz,450,Limousine,4520,Zuzwil,null,Oldtimer,null,null,0,null,8,1973,null,0,beige,110200,Ab MFK,0,null,Black
+773,1300,Renault,Alpine A110,Coupé,1288,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1973,Benzin,0,null,85000,Ab MFK,2,Schaltgetriebe,Black
+774,911 GT3,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,12.9 l/100km,2,Hinterradantrieb,8,1999,Benzin,360,schwarz,29800,Ab MFK,4,Schaltgetriebe manuell,Black
+775,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,5,2003,Benzin,500,beige,13900,Ab MFK,2,Automat,Black
+776,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,3,2003,Benzin,450,beige,88600,Ab MFK,5,Automat sequentiell,Blue
+777,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,12,2002,Benzin,335,null,44000,Ab MFK,5,Automat sequentiell,Black
+778,Roadster 3.2,Yes!,null,Cabriolet,3189,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,2007,Benzin,255,schwarz,9400,Ab MFK,2,Schaltgetriebe,Black
+779,911 Carrera,Porsche,911,Coupé,3163,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1984,Benzin,231,braun,108500,Ab MFK,4,Schaltgetriebe manuell,Black
+780,Phaeton 6.0 W12 4Motion,VW,PHAETON,Limousine,5998,Zuzwil,374 g/km,Occasion,G,15.6 l/100km,4,Allrad,11,2002,Benzin,420,grau,175000,Ab MFK,5,Automat sequentiell,Black
+781,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,G,17.9 l/100km,2,Hinterradantrieb,10,1999,Benzin,400,blau,26200,Ab MFK,2,Automatik-Getriebe,Black
+782,S5 Coupé 4.2 FSI quattro,Audi,S5,Coupé,4163,Zuzwil,298 g/km,Occasion,G,12.4 l/100km,2,Allrad,5,2008,Benzin,353,schwarz,67700,Ab MFK,4,Schaltgetriebe manuell,Black
+783,Shooting Brake,Aston Martin,LAGONDA,Kombi,5340,Safenwil,null,Occasion,null,null,4,Hinterradantrieb,3,1987,Benzin,300,grau,39000,Ab MFK,4,Automatik-Getriebe,Black
+784,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,11,2001,Benzin,306,anthrazit,20500,Ab MFK,2,Automat,Black
+785,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,7,2002,Benzin,450,schwarz,91100,Ab MFK,5,Automat sequentiell,Black
+786,Aventador LP700-4 Rds,Lamborghini,AVENTADOR,Cabriolet,6498,Porrentruy,370 g/km,Occasion,G,16.0 l/100km,2,Allrad,3,2014,Benzin,700,rot,1999,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+787,Turbo,Porsche,924,Coupé,1984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1981,Benzin,170,mehrfarbig,114000,Ab MFK,4,Schaltgetriebe manuell,Blue
+788,Continental FlyingSpur6.0,Bentley,CONTINENTAL,Limousine,5998,Zuzwil,396 g/km,Occasion,G,17.0 l/100km,4,Allrad,2,2007,Benzin,560,schwarz,28000,Ab MFK,5,Automat sequentiell,Black
+789,Mk. I,Rolls-Royce,Silver Spirit,Limousine,6750,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,4,1983,Benzin,201,mehrfarbig,99300,Ab MFK,5,Automatik-Getriebe,Black
+790,MP4-12C 3.8 V8,Mclaren,12C,Coupé,3798,Zuzwil,279 g/km,Neu,G,11.7 l/100km,2,Hinterradantrieb,6,2012,Benzin,625,schwarz,55,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+791,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Occasion,G,14.9 l/100km,5,Allrad,4,2008,Benzin,500,schwarz,18200,Ab MFK,5,Automat,Black
+792,Range Rover Sport 5.0 V8 SC,Land Rover,RANGE ROVER SPORT,SUV / Geländewagen,4999,Zuzwil,348 g/km,Occasion,G,14.9 l/100km,5,Allrad,9,2010,Benzin,506,braun,15000,Ab MFK,5,Automat sequentiell,Black
+793,S 500,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,10,1999,Benzin,299,schwarz,51000,Ab MFK,5,Automat,Black
+794,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,8,2002,Benzin,476,beige,34500,Ab MFK,2,Automat,Black
+795,A8 3.7,Audi,A8,Limousine,3695,Zuzwil,314 g/km,Occasion,null,13.3 l/100km,4,Vorderradantrieb,6,1999,Benzin,230,blau,19900,Ab MFK,5,Automat,Black
+796,611 DS,Mercedes-Benz,600-SERIES,Sattelschlepper,3972,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1996,Diesel,105,null,65400,null,2,Schaltgetriebe,Black
+797,RS4 Avant 4.2 FSI quattro,Audi,RS4,Kombi,4163,Zuzwil,249 g/km,Occasion,G,10.7 l/100km,5,Allrad,3,2013,Benzin,450,mehrfarbig,34200,"Ab MFK, Direkt-/Parallelimport",5,Automatisiertes Schaltgetriebe,Black
+798,1600 SX,Renault,Alpine A110,Coupé,1635,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1976,Benzin,120,schwarz,60000,Ab MFK,2,Schaltgetriebe,Blue
+799,CL 63 AMG FAB DESIGN,Mercedes-Benz,CL 63 AMG,Coupé,6209,Zuzwil,355 g/km,Occasion,G,14.9 l/100km,2,Hinterradantrieb,8,2008,Benzin,525,schwarz,35800,Ab MFK,4,Automat sequentiell,Black
+800,RS4 Avant quattro,Audi,RS4,Kombi,2671,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,5,Allrad,2,2001,Benzin,380,schwarz,72600,Ab MFK,5,Schaltgetriebe manuell,Black
+801,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,4,2002,Benzin,476,beige,31200,Ab MFK,2,Automat,Black
+802,Esprit 3.5 V8 SE,Lotus,ESPRIT,Coupé,3506,Zuzwil,366 g/km,Neu,G,15.7 l/100km,2,Hinterradantrieb,6,2002,Benzin,354,null,150,Ab MFK,2,Schaltgetriebe manuell,Black
+803,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Occasion,G,14.9 l/100km,5,Allrad,5,2008,Benzin,500,schwarz,16500,Ab MFK,5,Automat sequentiell,Black
+804,Gordini,Renault,R12,Limousine,1565,Zuzwil,null,Occasion,null,null,4,null,4,1972,Benzin,0,schwarz,14873,Ab MFK,0,null,Black
+805,Bergungsfahrzeug,Toyota,DYNA,Pick-up,2976,Zuzwil,null,Occasion,null,null,2,null,1,1981,Diesel,0,beige,26900,null,3,Schaltgetriebe,Black
+806,GallardoLP570-4CpéTecnica,Lamborghini,GALLARDO,Coupé,5204,St. Gallen,319 g/km,Occasion,G,13.5 l/100km,2,Allrad,9,2014,Benzin,570,schwarz,1700,Ab MFK,2,Automat sequentiell,Black
+807,Touareg R50 V10,VW,TOUAREG,SUV / Geländewagen,4921,Zuzwil,333 g/km,Occasion,G,12.6 l/100km,5,Allrad,4,2008,Diesel,351,schwarz,108500,"Ab MFK, Tuning",5,Automat,Black
+808,SLK 200 Kompressor,Mercedes-Benz,SLK 200,Cabriolet,1796,Zuzwil,218 g/km,Vorführmodell,null,9.1 l/100km,2,Hinterradantrieb,10,2007,Benzin,163,schwarz,300,null,2,Automatik-Getriebe,Black
+809,Arnage Green Label,Bentley,ARNAGE,Limousine,4398,Zuzwil,390 g/km,Occasion,G,19.9 l/100km,4,Hinterradantrieb,2,1999,Benzin,354,grau,44600,Ab MFK,5,Automat,Blue
+810,S3 quattro,Audi,S3,Limousine,1781,Zuzwil,226 g/km,Occasion,G,9.4 l/100km,3,Allrad,3,2002,Benzin,225,anthrazit,316200,Ab MFK,5,Schaltgetriebe manuell,Black
+811,Viper RT/10,Chrysler,VIPER,Cabriolet,7986,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1996,Benzin,364,grau,20000,Ab MFK,2,Schaltgetriebe manuell,Black
+812,SLK 55 AMG,Mercedes-Benz,SLK 55 AMG,Cabriolet,5461,Zuzwil,195 g/km,Occasion,G,8.4 l/100km,2,Hinterradantrieb,9,2012,Benzin,422,schwarz,19400,"Ab MFK, Direkt-/Parallelimport",2,Automat sequentiell,Black
+813,Continental GT 6.0,Bentley,CONTINENTAL,Coupé,5998,Zuzwil,410 g/km,Occasion,G,17.1 l/100km,2,Allrad,1,2005,Benzin,560,beige,84000,Ab MFK,4,Automat,Black
+814,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1992,Benzin,320,grau,125600,Ab MFK,2,Automat,Black
+815,Elise,Lotus,ELISE,Cabriolet,1796,Zuzwil,183 g/km,Occasion,G,7.7 l/100km,2,Hinterradantrieb,6,2001,Benzin,120,schwarz,75100,Ab MFK,2,Schaltgetriebe manuell,Black
+816,Quattroporte 4.2,Maserati,QUATTROPORTE,Limousine,4244,Zuzwil,370 g/km,Occasion,G,15.8 l/100km,4,Hinterradantrieb,5,2006,Benzin,400,beige,10600,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+817,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1992,Benzin,394,null,108100,Ab MFK,0,Automat,Black
+818,SL 500 Edition,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,300 g/km,Occasion,null,12.5 l/100km,2,Hinterradantrieb,4,2000,Benzin,306,schwarz,51000,Ab MFK,2,Automat,Black
+819,Coupé 2.7 24V FX,Hyundai,COUPÉ,Coupé,2656,Zuzwil,236 g/km,Occasion,G,9.9 l/100km,3,Vorderradantrieb,4,2007,Benzin,167,schwarz,26900,Ab MFK,4,Schaltgetriebe manuell,Black
+820,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,11,2004,Benzin,306,schwarz,120900,Ab MFK,4,Automat sequentiell,Anthracite
+821,Speedster 2.2 16V,Opel,SPEEDSTER,Cabriolet,2198,Zuzwil,205 g/km,Occasion,G,8.5 l/100km,2,Hinterradantrieb,6,2004,Benzin,147,braun,9000,Ab MFK,2,Schaltgetriebe manuell,Blue
+822,ML 430,Mercedes-Benz,ML 430,SUV / Geländewagen,4266,Zuzwil,345 g/km,Occasion,G,14.4 l/100km,5,Allrad,4,2001,Benzin,272,schwarz,16000,Ab MFK,5,Automat,Black
+823,SL 65 AMG,Mercedes-Benz,SL 65 AMG,Cabriolet,5981,Zuzwil,362 g/km,Occasion,G,15.1 l/100km,2,Hinterradantrieb,3,2005,Benzin,612,grau,15300,Ab MFK,2,Automat,Black
+824,911 GT3,Porsche,911,Coupé,3800,Zuzwil,289 g/km,Neu,G,12.4 l/100km,2,Hinterradantrieb,7,2014,Benzin,476,schwarz,100,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+825,Rennwagen,Nissan,Skyline,Coupé,2568,Zuzwil,null,Occasion,null,null,2,Allrad,1,2002,Benzin,800,null,15000,Tuning,2,Schaltgetriebe,Black
+826,Continental GT Speed 6.0,Bentley,CONTINENTAL,Coupé,5998,Zuzwil,396 g/km,Occasion,G,16.6 l/100km,2,Allrad,5,2008,Benzin,610,braun,36900,Ab MFK,4,Automat sequentiell,Black
+827,ML 500 4Matic,Mercedes-Benz,ML 500,SUV / Geländewagen,4966,Zuzwil,319 g/km,Neu,G,13.4 l/100km,5,Allrad,3,2007,Benzin,306,beige,1,Ab MFK,5,Automat sequentiell,Black
+828,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,1,2003,Benzin,517,blau,23100,Ab MFK,2,Automatik-Getriebe,Black
+829,E 63 AMG Avantgarde,Mercedes-Benz,E 63 AMG,Limousine,6209,Zuzwil,341 g/km,Occasion,G,14.3 l/100km,4,Hinterradantrieb,7,2007,Benzin,515,schwarz,39900,Ab MFK,5,Automat sequentiell,Black
+830,CL 65 AMG,Mercedes-Benz,CL 65 AMG,Coupé,5981,Zuzwil,357 g/km,Occasion,G,14.9 l/100km,2,Hinterradantrieb,2,2004,Benzin,612,schwarz,48300,Ab MFK,4,Automat sequentiell,Black
+831,Continental GT 6.0,Bentley,CONTINENTAL,Coupé,5998,Zuzwil,396 g/km,Occasion,G,16.6 l/100km,2,Allrad,5,2005,Benzin,560,grau,142000,Ab MFK,4,Automat sequentiell,Black
+832,McLaren Coupé,Mercedes-Benz,SLR,Coupé,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,2005,Benzin,626,rot,26400,Ab MFK,2,Automatik-Getriebe,Blue
+833,911 Turbo,Porsche,911,Coupé,3598,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1994,Benzin,490,schwarz,41700,Ab MFK,4,Schaltgetriebe manuell,Black
+834,RS4 Cabriolet 4.2 quattro,Audi,RS4,Cabriolet,4163,Zuzwil,334 g/km,Occasion,G,13.9 l/100km,2,Allrad,6,2006,Benzin,420,schwarz,34650,Ab MFK,4,Schaltgetriebe manuell,Black
+835,166 3.0 V6 24V Super,Alfa Romeo,166,Limousine,2959,Zuzwil,296 g/km,Occasion,null,12.5 l/100km,4,Vorderradantrieb,2,1999,Benzin,226,grau,56400,Ab MFK,5,Automatik-Getriebe,Black
+836,B3 3.2 Coupé S.Tronic,Bmw-Alpina,3 SERIES,Coupé,3152,Zuzwil,275 g/km,Occasion,null,11.6 l/100km,2,Hinterradantrieb,2,1997,Benzin,265,schwarz,99400,Ab MFK,4,Automat,Black
+837,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1978,Benzin,150,grau,222300,Ab MFK,4,Schaltgetriebe manuell,Black
+838,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,6,2003,Benzin,420,schwarz,85200,Ab MFK,4,Schaltgetriebe manuell,Black
+839,540i,BMW,540,Limousine,4398,Zuzwil,298 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,7,1996,Benzin,286,schwarz,141000,Ab MFK,5,Automat,Black
+840,SIMCA Bagheera Serie II,Matra,null,Coupé,1442,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,2,1979,Benzin,90,mehrfarbig,52000,Ab MFK,3,Schaltgetriebe,Black
+841,456 GTA,Ferrari,456,Coupé,5474,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,1996,Benzin,442,rot,52800,Ab MFK,4,Automat,Black
+842,Murciélago 6.2 Coupé,Lamborghini,MURCIÉLAGO,Coupé,6192,Zuzwil,500 g/km,Occasion,G,21.5 l/100km,2,Allrad,6,2003,Benzin,580,schwarz,13500,Ab MFK,2,Schaltgetriebe manuell,Black
+843,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,11,2001,Benzin,420,schwarz,62900,Ab MFK,4,Schaltgetriebe manuell,Blue
+844,1600 SC,Renault,Alpine A110,Coupé,1605,Zuzwil,null,Occasion,null,null,2,null,8,1973,Benzin,140,schwarz,40700,Ab MFK,2,Schaltgetriebe,Black
+845,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,1,2001,Benzin,420,schwarz,59500,Ab MFK,4,Automatik-Getriebe,Black
+846,523i Touring,BMW,523,Kombi,2494,Zuzwil,235 g/km,Vorführmodell,null,9.8 l/100km,5,Hinterradantrieb,9,1997,Benzin,170,grau,112300,Ab MFK,5,Automatik-Getriebe,Black
+847,Challenge GT3 LOOK,Ferrari,F430,Coupé,4300,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,2008,Benzin,489,schwarz,5000,Rennwagen,0,Automatik-Getriebe,Black
+848,740i,BMW,740,Limousine,4398,Zuzwil,329 g/km,Occasion,null,13.8 l/100km,4,Hinterradantrieb,12,1996,Benzin,286,schwarz,65000,Ab MFK,5,Automat,Black
+849,M6,BMW,M6,Coupé,4395,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,2012,Benzin,560,schwarz,29600,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Black
+850,911 Turbo Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,4,2008,Benzin,480,braun,35500,Ab MFK,2,Schaltgetriebe manuell,Black
+851,550i Touring,BMW,550,Kombi,4799,Zuzwil,254 g/km,Occasion,G,10.7 l/100km,5,Hinterradantrieb,4,2007,Benzin,367,grau,72000,Ab MFK,5,Automat sequentiell,Black
+852,Arnage Red Label,Bentley,ARNAGE,Limousine,6761,Zuzwil,456 g/km,Occasion,G,19.2 l/100km,4,Hinterradantrieb,7,2001,Benzin,405,null,21700,Ab MFK,5,Automat,Black
+853,Grand Cherokee 4.0 Ltd.,Jeep,Grand Cherokee,SUV / Geländewagen,3960,Zuzwil,null,Occasion,null,14.9 l/100km,5,Allrad,12,1996,Benzin,177,beige,126200,Ab MFK,5,Automat,Black
+854,XJ8 4.2 V8 Sovereign,Jaguar,XJ,Limousine,4196,Zuzwil,269 g/km,Occasion,G,11.4 l/100km,4,Hinterradantrieb,11,2007,Benzin,298,beige,74000,Ab MFK,5,Automat,Blue
+855,III,Rolls-Royce,CORNICHE,Cabriolet,6749,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1990,Benzin,218,beige,47100,Ab MFK,4,Automatik-Getriebe,Black
+856,SLS 63 AMG,Mercedes-Benz,SLS 63,Coupé,6208,Zuzwil,308 g/km,Occasion,G,13.2 l/100km,2,Hinterradantrieb,7,2011,Benzin,571,mehrfarbig,23000,Direkt-/Parallelimport,2,Automat sequentiell,Black
+857,SL 320,Mercedes-Benz,SL 320,Cabriolet,3199,Zuzwil,274 g/km,Occasion,G,11.5 l/100km,2,Hinterradantrieb,4,2000,Benzin,224,schwarz,8900,Ab MFK,2,Automat,Black
+858,SRT-10,Dodge,Ram,Pick-up,8300,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,3,2006,Benzin,505,anthrazit,41000,Ab MFK,5,Automatik-Getriebe,Black
+859,RS4 Avant quattro,Audi,RS4,Kombi,2671,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,5,Allrad,11,2000,Benzin,380,null,51800,Ab MFK,5,Schaltgetriebe manuell,Black
+860,X5 4.6is,BMW,X5,SUV / Geländewagen,4619,Zuzwil,356 g/km,Occasion,G,14.9 l/100km,5,Allrad,6,2003,Benzin,347,schwarz,21800,Ab MFK,5,Automat sequentiell,Black
+861,Diablo 5.7 SV,Lamborghini,DIABLO,Coupé,5707,Porrentruy,575 g/km,Occasion,null,24.9 l/100km,2,Hinterradantrieb,7,1999,Benzin,530,grün,45700,null,2,Schaltgetriebe manuell,Black
+862,CSA,Fiat,SPIDER,Coupé,0,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1978,Benzin,128,schwarz,115100,null,2,Schaltgetriebe,Black
+863,M5,BMW,M5,Limousine,4395,Zuzwil,232 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,1,2012,Benzin,560,schwarz,12000,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+864,Continental GTC 6.0,Bentley,CONTINENTAL,Cabriolet,5998,Zuzwil,396 g/km,Occasion,G,16.6 l/100km,2,Allrad,6,2009,Benzin,560,schwarz,76200,Ab MFK,4,Automat,Black
+865,Diablo 5.7,Lamborghini,DIABLO,Coupé,5707,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1993,Benzin,492,beige,26800,Ab MFK,2,Schaltgetriebe manuell,Blue
+866,CLK DTM AMG Cabriolet,Mercedes-Benz,null,Cabriolet,5439,Zuzwil,null,Occasion,null,null,2,null,6,2008,null,582,schwarz,500,Ab MFK,4,null,Black
+867,S 63 AMG,Mercedes-Benz,S 63 AMG,Limousine,5461,Zuzwil,244 g/km,Occasion,G,10.5 l/100km,4,Hinterradantrieb,6,2010,Benzin,544,schwarz,13200,Ab MFK,5,Automat sequentiell,Black
+868,GranTurismo S,Maserati,GRANTURISMO,Coupé,4691,Zuzwil,385 g/km,Occasion,G,16.4 l/100km,2,Hinterradantrieb,7,2009,Benzin,440,schwarz,45000,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+869,Murciélago LP670-4 SV Cpé,Lamborghini,MURCIÉLAGO,Coupé,6496,Zuzwil,480 g/km,Occasion,G,20.6 l/100km,2,Allrad,7,2009,Benzin,670,anthrazit,9500,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+870,XKR S/C Convertible,Jaguar,XK,Cabriolet,3996,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,4,2000,Benzin,363,schwarz,107100,Ab MFK,4,Automat,Black
+871,Gallardo 5.0 V10 Coupé,Lamborghini,GALLARDO,Coupé,4961,Zuzwil,450 g/km,Occasion,G,19.5 l/100km,2,Allrad,7,2004,Benzin,500,null,36700,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+872,CL 5.8 BRABUS,Mercedes-Benz,null,Coupé,5727,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,1,2000,Benzin,400,beige,33000,"Ab MFK, Tuning",4,Automatik-Getriebe,Black
+873,X5 4.6is,BMW,X5,SUV / Geländewagen,4619,Zuzwil,356 g/km,Occasion,G,14.9 l/100km,5,Allrad,8,2002,Benzin,347,schwarz,32900,Ab MFK,5,Automat sequentiell,Black
+874,SL 65 AMG,Mercedes-Benz,SL 65 AMG,Cabriolet,5981,Zuzwil,null,Occasion,G,15.1 l/100km,2,Hinterradantrieb,9,2004,Benzin,612,grau,33613,Ab MFK,2,Automat,Black
+875,RS6 Avant 4.0 TFSI V8 qu,Audi,RS6,Kombi,3993,Zuzwil,229 g/km,Occasion,G,9.8 l/100km,5,Allrad,3,2013,Benzin,560,schwarz,6000,Ab MFK,5,Automat sequentiell,Black
+876,GTV 6 2.5,Alfa Romeo,GTV,Coupé,2492,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,8,1984,Benzin,160,schwarz,75000,null,4,Schaltgetriebe manuell,Blue
+877,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,12,1995,Benzin,226,schwarz,46500,Ab MFK,5,Automat,Black
+878,Arnage T,Bentley,ARNAGE,Limousine,6761,Zuzwil,495 g/km,Occasion,G,20.6 l/100km,4,Hinterradantrieb,6,2002,Benzin,457,mehrfarbig,36000,Ab MFK,5,Automat,Black
+879,C 43 AMG Sport,Mercedes-Benz,C 43 AMG,Kombi,4266,Zuzwil,280 g/km,Occasion,null,11.7 l/100km,5,Hinterradantrieb,1,1998,Benzin,306,schwarz,64100,Ab MFK,5,Automat,Black
+880,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,1,2003,Benzin,450,schwarz,59000,Ab MFK,5,Automat sequentiell,Black
+881,911 Carrera,Porsche,911,Coupé,3387,Zuzwil,null,Occasion,null,11.8 l/100km,2,Hinterradantrieb,5,1998,Benzin,300,beige,26000,Ab MFK,4,Automatik-Getriebe,Black
+882,Racing / Sport,Fiat,131,Limousine,1995,Zuzwil,null,Occasion,null,null,3,null,5,1980,Benzin,115,schwarz,80000,null,2,Schaltgetriebe,Black
+883,911 Carrera 4S Cabrio,Porsche,911,Cabriolet,3824,Zuzwil,285 g/km,Occasion,G,11.8 l/100km,2,Allrad,5,2006,Benzin,355,schwarz,30600,Ab MFK,2,Schaltgetriebe manuell,Black
+884,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,1,2003,Benzin,500,schwarz,32500,Ab MFK,2,Automat,Black
+885,Modell 1400 FASA,Renault,Alpine A110,Coupé,1397,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1978,Benzin,93,schwarz,90000,Ab MFK,2,Schaltgetriebe,Black
+886,GTR (GT3),Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,2001,Benzin,650,schwarz,16300,"Ab MFK, Tuning",4,Schaltgetriebe,Black
+887,911 Carrera Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,null,Occasion,null,11.9 l/100km,2,Hinterradantrieb,1,1996,Benzin,285,grau,78000,Ab MFK,4,Schaltgetriebe manuell,Blue
+888,F360 Challenge stradale,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,G,19.1 l/100km,2,Hinterradantrieb,3,2004,Benzin,415,schwarz,27650,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+889,CLS 55 AMG,Mercedes-Benz,CLS 55 AMG,Limousine,5439,Zuzwil,326 g/km,Occasion,G,13.6 l/100km,4,Hinterradantrieb,6,2005,Benzin,476,schwarz,77000,Ab MFK,4,Automat sequentiell,Black
+890,E 240 Elégance,Mercedes-Benz,E 240,Limousine,2597,Zuzwil,250 g/km,Occasion,G,10.4 l/100km,4,Hinterradantrieb,4,2003,Benzin,177,schwarz,89200,Ab MFK,5,Automat,Black
+891,E21,BMW,323,Coupé,2315,Zuzwil,null,Occasion,null,9.0 l/100km,2,null,9,1982,Benzin,143,null,64700,Ab MFK,5,null,Black
+892,911 Carrera 4 S Cabrio,Porsche,911,Cabriolet,3596,Zuzwil,294 g/km,Occasion,G,12.1 l/100km,2,Allrad,3,2004,Benzin,320,schwarz,75600,Ab MFK,4,Automat,Black
+893,911 Turbo Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,9,2007,Benzin,480,schwarz,46500,Ab MFK,2,Schaltgetriebe manuell,Black
+894,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,11,1995,Benzin,226,grau,70400,Ab MFK,5,Automat,Black
+895,SLK 32 AMG,Mercedes-Benz,SLK 32 AMG,Cabriolet,3199,Zuzwil,268 g/km,Occasion,G,11.2 l/100km,2,Hinterradantrieb,8,2003,Benzin,354,schwarz,123400,Ab MFK,2,Automat,Black
+896,B5 BiTurbo 4.4 V8,Bmw-Alpina,5 SERIES,Limousine,4395,Zuzwil,221 g/km,Occasion,G,9.5 l/100km,4,Hinterradantrieb,5,2012,Benzin,540,schwarz,19100,Ab MFK,5,Automat sequentiell,Black
+897,Diablo 5.7,Lamborghini,DIABLO,Coupé,5707,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1997,Benzin,492,mehrfarbig,55000,null,2,Schaltgetriebe manuell,Black
+898,Panamera Turbo 4.8,Porsche,PANAMERA,Limousine,4806,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,5,Allrad,1,2010,Benzin,500,schwarz,26800,Ab MFK,4,Automatisiertes Schaltgetriebe,Blue
+899,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,7,2002,Benzin,450,schwarz,21400,Ab MFK,5,Automat sequentiell,Black
+900,320d Touring,BMW,320,Kombi,1995,Zuzwil,184 g/km,Occasion,F,6.9 l/100km,5,Hinterradantrieb,8,2007,Diesel,163,anthrazit,162000,Ab MFK,5,Automat,Black
+901,Turbo,BMW,2002,Limousine,1990,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,1974,Benzin,170,schwarz,82600,Ab MFK,4,Schaltgetriebe,Black
+902,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,9,1983,Benzin,150,mehrfarbig,111990,Ab MFK,4,Schaltgetriebe manuell,Black
+903,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,2,1998,Benzin,320,schwarz,30400,Ab MFK,0,Automat,Black
+904,911 Carrera,Porsche,911,Coupé,3387,Zuzwil,285 g/km,Occasion,G,11.8 l/100km,2,Hinterradantrieb,9,2000,Benzin,300,schwarz,77600,Ab MFK,4,Schaltgetriebe manuell,Black
+905,X5 4.6is,BMW,X5,SUV / Geländewagen,4619,Zuzwil,356 g/km,Occasion,G,14.9 l/100km,5,Allrad,2,2002,Benzin,347,schwarz,23800,Ab MFK,5,Automat sequentiell,Black
+906,M5,BMW,M5,Limousine,4395,Zuzwil,232 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,3,2013,Benzin,560,braun,4600,Ab MFK,5,Automatisiertes Schaltgetriebe,Black
+907,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,11,2008,Benzin,580,schwarz,48200,null,5,Automat sequentiell,Black
+908,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,10,2002,Benzin,390,blau,23200,Ab MFK,4,Automatik-Getriebe,Black
+909,SL 63 AMG,Mercedes-Benz,SL 63 AMG,Cabriolet,6209,Zuzwil,328 g/km,Occasion,G,14.1 l/100km,2,Hinterradantrieb,3,2012,Benzin,525,schwarz,19999,Ab MFK,2,Automat sequentiell,Blue
+910,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,6,2003,Benzin,450,braun,41100,Ab MFK,5,Automat sequentiell,Black
+911,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,2,2003,Benzin,500,anthrazit,45200,Ab MFK,2,Automat,Black
+912,S 350 L 4Matic,Mercedes-Benz,S 350,Limousine,3498,Zuzwil,247 g/km,Occasion,G,10.6 l/100km,4,Allrad,1,2010,Benzin,272,schwarz,110800,Ab MFK,5,Automat sequentiell,Black
+913,A4 Avant 3.0 V6,Audi,A4,Kombi,2976,Zuzwil,233 g/km,Occasion,null,9.7 l/100km,5,Vorderradantrieb,8,2002,Benzin,220,schwarz,101900,Ab MFK,5,Automatik-Getriebe,Black
+914,Touran 1.4 TSI Trend,VW,TOURAN,Kompaktvan / Minivan,1390,Zuzwil,180 g/km,Occasion,F,7.5 l/100km,5,Vorderradantrieb,3,2008,Benzin,140,anthrazit,71700,Ab MFK,7,Schaltgetriebe manuell,Black
+915,S 600 L,Mercedes-Benz,S 600,Limousine,5987,Zuzwil,null,Occasion,null,16.9 l/100km,4,Hinterradantrieb,1,1996,Benzin,394,schwarz,125000,Ab MFK,5,Automat,Black
+916,CSL,BMW,3.0,Limousine,3003,Zuzwil,null,Occasion,null,null,2,null,1,1973,Benzin,200,schwarz,129800,Ab MFK,0,null,Black
+917,612,Ferrari,612,Coupé,5748,Zuzwil,475 g/km,Occasion,G,20.7 l/100km,2,Hinterradantrieb,4,2005,Benzin,540,beige,36000,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+918,G 55 AMG,Mercedes-Benz,G 55 AMG,SUV / Geländewagen,5439,Zuzwil,378 g/km,Occasion,G,15.9 l/100km,5,Allrad,1,2008,Benzin,500,schwarz,49600,Ab MFK,5,Automat sequentiell,Black
+919,CJ-5 12V ARMEEFAHRZEUG,Kaiser,null,SUV / Geländewagen,2199,Zuzwil,null,Occasion,null,null,0,Allrad,9,1966,Benzin,0,schwarz,18000,Ab MFK,2,Schaltgetriebe,Black
+920,SL 600,Mercedes-Benz,SL 600,Cabriolet,5984,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1993,Benzin,394,schwarz,37000,Ab MFK,0,Automat,Blue
+921,S 320,Mercedes-Benz,S 320,Limousine,3199,Zuzwil,276 g/km,Occasion,G,11.5 l/100km,4,Hinterradantrieb,3,1999,Benzin,224,beige,73700,Ab MFK,5,Automat,Black
+922,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,8,1997,Benzin,320,grau,39800,Ab MFK,2,Automat,Black
+923,SL 500,Mercedes-Benz,SL 500,Cabriolet,5461,Zuzwil,291 g/km,Occasion,G,12.2 l/100km,2,Hinterradantrieb,4,2007,Benzin,388,mehrfarbig,47900,Ab MFK,2,Automat sequentiell,Black
+924,HKT Seven GTS,Lotus,null,Cabriolet,1781,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,2005,Benzin,225,schwarz,16000,Ab MFK,2,Schaltgetriebe,Black
+925,Sunbeam Lotus,Talbot,null,Coupé,2171,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,3,1982,Benzin,150,grau,40100,Ab MFK,4,Schaltgetriebe,Black
+926,9-5 2.3T Aero,Saab,9-5,Kombi,2290,Zuzwil,214 g/km,Occasion,null,9.0 l/100km,5,Vorderradantrieb,7,2002,Benzin,250,schwarz,117100,Ab MFK,5,Automatik-Getriebe,Black
+927,R8 Coupé 5.2,Audi,R8,Coupé,5204,Zuzwil,327 g/km,Occasion,G,13.7 l/100km,2,Allrad,7,2009,Benzin,525,schwarz,26500,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+928,null,Lincoln,Continental,Limousine,4602,Zuzwil,null,Occasion,null,null,4,Vorderradantrieb,2,2002,Benzin,0,beige,119600,Ab MFK,5,Automat,Black
+929,Ghibli 2.8 GT,Maserati,GHIBLI,Coupé,2788,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1996,Benzin,284,beige,40600,Ab MFK,5,Automat,Black
+930,S 500 L,Mercedes-Benz,S 500,Limousine,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,4,Hinterradantrieb,5,2000,Benzin,306,schwarz,74500,Ab MFK,5,Automat,Black
+931,DB9 Volante,Aston Martin,DB9,Cabriolet,5935,Zuzwil,394 g/km,Occasion,G,16.5 l/100km,2,Hinterradantrieb,11,2005,Benzin,457,schwarz,31800,Ab MFK,4,Automat sequentiell,Anthracite
+932,Integrale EVO,Lancia,DELTA,Limousine,1994,Zuzwil,null,Occasion,null,null,5,Allrad,2,1995,Benzin,212,beige,68000,Ab MFK,5,Schaltgetriebe,Blue
+933,525i,BMW,525,Limousine,2494,Zuzwil,225 g/km,Occasion,null,9.4 l/100km,4,Hinterradantrieb,2,2002,Benzin,193,beige,125900,Ab MFK,5,Automatik-Getriebe,Black
+934,M6,BMW,M6,Cabriolet,4395,Zuzwil,239 g/km,Occasion,G,10.3 l/100km,2,Hinterradantrieb,6,2012,Benzin,560,schwarz,66800,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+935,CLK 63 AMG Black Series,Mercedes-Benz,CLK 63 AMG,Coupé,6209,Zuzwil,369 g/km,Occasion,G,15.3 l/100km,2,Hinterradantrieb,6,2008,Benzin,507,schwarz,45000,Ab MFK,2,Automat sequentiell,Black
+936,Turbo ll 3.6,Porsche,911,Coupé,3598,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,1993,Benzin,445,schwarz,128200,Ab MFK,2,Schaltgetriebe,Black
+937,S 320,Mercedes-Benz,S 320,Limousine,3199,Zuzwil,305 g/km,Occasion,null,13.4 l/100km,4,Hinterradantrieb,8,1997,Benzin,231,grau,58000,Ab MFK,5,Automat,Black
+938,911 Turbo,Porsche,911,Coupé,3299,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1984,Benzin,300,schwarz,63500,Ab MFK,4,Schaltgetriebe manuell,Black
+939,Accord Coupé V6 3.0i VTEC,Honda,ACCORD,Coupé,2997,Zuzwil,253 g/km,Occasion,G,10.7 l/100km,2,Vorderradantrieb,7,1998,Benzin,200,anthrazit,186000,Ab MFK,5,Automat,Black
+940,RS5 Coupé 4.2FSI quattro,Audi,RS5,Coupé,4163,Zuzwil,252 g/km,Occasion,G,10.8 l/100km,2,Allrad,1,2011,Benzin,450,schwarz,31750,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+941,458 Italia 4.5 V8,Ferrari,458,Coupé,4497,Zuzwil,275 g/km,Occasion,G,11.8 l/100km,2,Hinterradantrieb,10,2010,Benzin,566,rot,680,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+942,null,Rolls-Royce,Silver Spur,Limousine,6747,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,9,1988,null,215,beige,73800,Ab MFK,5,Automatik-Getriebe,Black
+943,TTS,NSU,null,Limousine,0,Zuzwil,null,Occasion,null,null,0,null,7,1971,null,70,schwarz,75000,Ab MFK,4,Schaltgetriebe,Blue
+944,XKR 5.0 V8 SC,Jaguar,XK,Cabriolet,5000,Zuzwil,292 g/km,Occasion,G,12.5 l/100km,2,Hinterradantrieb,3,2009,Benzin,510,schwarz,49500,Ab MFK,4,Automat sequentiell,Black
+945,535d xDrive,BMW,535,Limousine,2993,Zuzwil,149 g/km,Occasion,D,5.7 l/100km,4,Allrad,4,2012,Diesel,313,grau,82000,Ab MFK,5,Automat sequentiell,Black
+946,911 GT2,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Hinterradantrieb,5,2002,Benzin,462,schwarz,38200,"Ab MFK, Tuning",4,Schaltgetriebe manuell,Black
+947,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,292 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,5,2006,Benzin,306,grau,8000,Ab MFK,2,Automat sequentiell,Black
+948,Huracan LP610-4 Coupé,Lamborghini,HURACAN,Coupé,5204,Zuzwil,280 g/km,Occasion,G,12.0 l/100km,2,Allrad,1,2016,Benzin,610,schwarz,2100,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+949,BLACK SERIES,Mercedes-Benz,C 63 AMG,Coupé,6208,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,2012,Benzin,517,schwarz,500,Ab MFK,2,Automatik-Getriebe,Black
+950,740iL,BMW,740,Limousine,4398,Zuzwil,317 g/km,Occasion,null,13.3 l/100km,4,Hinterradantrieb,5,1999,Benzin,286,schwarz,18300,Ab MFK,5,Automat,Black
+951,GT3 CUP,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,null,2,null,5,2000,Benzin,370,null,7000,"Ab MFK, Tuning",0,Schaltgetriebe,Black
+952,612,Ferrari,612,Coupé,5748,Zuzwil,475 g/km,Occasion,G,20.7 l/100km,2,Hinterradantrieb,7,2004,Benzin,540,schwarz,113800,Ab MFK,4,Automatisiertes Schaltgetriebe,Black
+953,328i A Cabrio,BMW,328,Cabriolet,2792,Zuzwil,null,Occasion,null,10.4 l/100km,2,Hinterradantrieb,8,1995,Benzin,193,beige,49900,Ab MFK,4,Automat,Black
+954,2000GT,Toyota,CELICA,Coupé,1988,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,11,1976,Benzin,120,mehrfarbig,38700,Ab MFK,4,Schaltgetriebe manuell,Blue
+955,911 Carrera 4,Porsche,911,Coupé,3598,Zuzwil,null,Occasion,null,null,2,Allrad,2,1995,Benzin,272,blau,134100,Ab MFK,4,Schaltgetriebe manuell,Black
+956,Delta HF Integrale Evo 4V,Lancia,DELTA,Limousine,1994,Zuzwil,null,Occasion,null,null,5,Allrad,12,1993,Benzin,212,grau,131000,Ab MFK,5,Schaltgetriebe manuell,Black
+957,BJ 40 LT,Toyota,LAND CRUISER,SUV / Geländewagen,2977,Zuzwil,null,Occasion,null,null,3,Allrad,7,1979,Diesel,0,mehrfarbig,240500,null,6,Schaltgetriebe,Black
+958,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,G,17.5 l/100km,2,Hinterradantrieb,9,2006,Benzin,390,mehrfarbig,38900,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Black
+959,HPU Hurricane TC,Harley-Davidson,null,null,1449,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,4,2006,Benzin,0,null,100,null,0,Schaltgetriebe,Black
+960,Range Rover 4.6 HSE,Land Rover,RANGE ROVER,SUV / Geländewagen,4554,Zuzwil,414 g/km,Occasion,null,16.2 l/100km,5,Allrad,11,1994,Benzin,226,grau,87000,Ab MFK,5,Automat,Black
+961,CL 65 AMG,Mercedes-Benz,CL 65 AMG,Coupé,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,2,Hinterradantrieb,5,2008,Benzin,612,beige,43000,Ab MFK,4,Automat sequentiell,Black
+962,SL 600,Mercedes-Benz,SL 600,Cabriolet,5513,Zuzwil,346 g/km,Occasion,G,14.4 l/100km,2,Hinterradantrieb,3,2004,Benzin,500,anthrazit,96400,Ab MFK,2,Automat,Black
+963,323 i E21,BMW,null,Coupé,2315,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1979,Benzin,143,blau,157400,null,5,Schaltgetriebe,Black
+964,GranTurismo,Maserati,GRANTURISMO,Coupé,4244,Zuzwil,330 g/km,Occasion,G,14.3 l/100km,2,Hinterradantrieb,12,2009,Benzin,405,braun,8700,"Ab MFK, Direkt-/Parallelimport",4,Automat sequentiell,Black
+965,CL 500,Mercedes-Benz,CL 500,Coupé,5461,Zuzwil,288 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,9,2006,Benzin,388,schwarz,15100,Ab MFK,4,Automat sequentiell,Blue
+966,Fortwo passion,Smart,FORTWO,Cabriolet,698,Zuzwil,127 g/km,Occasion,F,5.3 l/100km,3,Hinterradantrieb,7,2003,Benzin,61,schwarz,165000,Ab MFK,2,Automatisiertes Schaltgetriebe,Black
+967,S6 Avant quattro,Audi,S6,Kombi,4172,Zuzwil,350 g/km,Occasion,null,14.6 l/100km,5,Allrad,10,2000,Benzin,340,schwarz,211000,Ab MFK,5,Automat,Black
+968,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,10,2000,Benzin,420,schwarz,80000,Ab MFK,4,Automatik-Getriebe,Black
+969,R 500 4Matic,Mercedes-Benz,R 500,Kombi,4966,Zuzwil,331 g/km,Neu,G,13.9 l/100km,5,Allrad,1,2006,Benzin,306,schwarz,500,Ab MFK,6,Automat sequentiell,Black
+970,Convertible,Rolls-Royce,CORNICHE,Cabriolet,0,Basel,null,Oldtimer,null,null,0,Hinterradantrieb,1,1982,Benzin,0,anthrazit,70000,null,4,Automatik-Getriebe,Black
+971,911 Carrera 4,Porsche,911,Coupé,3387,Zuzwil,295 g/km,Occasion,null,12.0 l/100km,2,Allrad,4,1999,Benzin,300,null,35100,Ab MFK,4,Schaltgetriebe manuell,Silver
+972,Delta HF Integrale Evo 4V,Lancia,DELTA,Limousine,1994,Zuzwil,null,Occasion,null,null,5,Allrad,1,1994,Benzin,212,beige,130300,Ab MFK,5,Schaltgetriebe manuell,Silver
+973,1300 Junior,Alfa Romeo,GT,Limousine,1290,Zuzwil,null,Occasion,null,null,2,null,6,1972,Benzin,0,schwarz,79380,null,5,Schaltgetriebe manuell,Silver
+974,599 GTB HGTE,Ferrari,599,Coupé,5999,Zuzwil,415 g/km,Occasion,G,17.9 l/100km,2,Hinterradantrieb,4,2010,Benzin,620,schwarz,28900,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+975,Daytona Plexiglas,Ferrari,365,Coupé,4390,Sursee,null,Oldtimer,null,null,2,null,9,1970,Benzin,352,schwarz,8000,null,2,null,Silver
+976,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,null,Occasion,null,20.8 l/100km,2,Hinterradantrieb,5,1995,Benzin,380,schwarz,78000,Ab MFK,2,Schaltgetriebe manuell,Blue
+977,Alpine A310 V6 VFA-2700 VAA,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,5,1984,Benzin,150,schwarz,78000,Ab MFK,4,Schaltgetriebe manuell,Silver
+978,E 55 AMG Avantgarde,Mercedes-Benz,E 55 AMG,Limousine,5439,Zuzwil,310 g/km,Occasion,G,12.9 l/100km,4,Hinterradantrieb,2,2004,Benzin,476,schwarz,147400,Ab MFK,5,Automat,Silver
+979,C 280 Elégance,Mercedes-Benz,C 280,Kombi,2799,Zuzwil,245 g/km,Occasion,G,10.2 l/100km,5,Hinterradantrieb,6,1997,Benzin,197,schwarz,62500,Ab MFK,5,Automat,Silver
+980,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,2,2003,Benzin,450,schwarz,144200,Ab MFK,5,Automat sequentiell,Silver
+981,S8 4.2 quattro,Audi,S8,Limousine,4172,Zuzwil,343 g/km,Occasion,null,14.3 l/100km,4,Allrad,1,1998,Benzin,340,schwarz,57000,Ab MFK,5,Automatik-Getriebe,Silver
+982,Touareg 5.0 TDI V10,VW,TOUAREG,SUV / Geländewagen,4921,Zuzwil,332 g/km,Occasion,G,12.3 l/100km,5,Allrad,11,2003,Diesel,313,schwarz,117800,Ab MFK,5,Automat,Silver
+983,200 SX 1.8 16V Turbo,Nissan,200 SX,Coupé,1808,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,6,1990,Benzin,169,mehrfarbig,162900,Ab MFK,4,Schaltgetriebe manuell,Silver
+984,599 GTB,Ferrari,599,Coupé,5999,Zuzwil,415 g/km,Vorführmodell,G,17.9 l/100km,2,Hinterradantrieb,4,2008,Benzin,620,grau,26000,null,2,Automatisiertes Schaltgetriebe,Silver
+985,911 Turbo II,Porsche,911,Coupé,3297,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,8,1991,Benzin,320,rot,101300,Ab MFK,4,Schaltgetriebe manuell,Silver
+986,BLACK SERIES,Mercedes-Benz,SL 65 AMG,Coupé,5980,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,7,2009,Benzin,670,schwarz,34000,Ab MFK,2,Automatik-Getriebe,Silver
+987,M3,BMW,M3,Cabriolet,3246,Zuzwil,328 g/km,Occasion,G,13.6 l/100km,2,Hinterradantrieb,5,2002,Benzin,343,grau,49600,Ab MFK,4,Automatisiertes Schaltgetriebe,Blue
+988,RS4 4.2 V8 quattro,Audi,RS4,Limousine,4163,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,4,Allrad,0,2011,Benzin,420,schwarz,1350,Ab MFK,5,Schaltgetriebe manuell,Silver
+989,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,321 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,2,2000,Benzin,367,schwarz,75400,"Ab MFK, Direkt-/Parallelimport",4,Automat,Silver
+990,911 GT3,Porsche,911,Coupé,3600,Zuzwil,null,Occasion,null,12.9 l/100km,2,Hinterradantrieb,10,1999,Benzin,360,null,47900,Ab MFK,4,Schaltgetriebe manuell,Silver
+991,Touareg 5.0 TDI V10,VW,TOUAREG,SUV / Geländewagen,4921,Zuzwil,346 g/km,Occasion,G,12.8 l/100km,5,Allrad,9,2006,Diesel,313,null,104500,Ab MFK,5,Automat,Silver
+992,DB9,Aston Martin,DB9,Coupé,5935,Zuzwil,394 g/km,Occasion,G,16.5 l/100km,2,Hinterradantrieb,1,2005,Benzin,457,schwarz,40800,Ab MFK,4,Automat sequentiell,Silver
+993,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1994,Benzin,320,braun,111500,Ab MFK,5,Automat,Silver
+994,CL 600,Mercedes-Benz,CL 600,Coupé,5513,Zuzwil,353 g/km,Occasion,G,14.7 l/100km,2,Hinterradantrieb,7,2003,Benzin,500,beige,22400,Ab MFK,4,Automat,Silver
+995,null,Ford ,MUSTANG,Cabriolet,7200,Sursee,null,Occasion,null,null,3,Hinterradantrieb,3,1968,Benzin,360,schwarz,1000,null,4,Automat,Silver
+996,Corvette ZR1,Chevrolet,CORVETTE,Coupé,6162,Zuzwil,355 g/km,Occasion,G,15.0 l/100km,2,Hinterradantrieb,7,2009,Benzin,647,schwarz,4000,Ab MFK,2,Schaltgetriebe manuell,Silver
+997,F360 Spider,Ferrari,F360,Cabriolet,3586,Zuzwil,440 g/km,Occasion,null,19.3 l/100km,2,Hinterradantrieb,2,2003,Benzin,400,beige,55800,Ab MFK,2,Automatik-Getriebe,Silver
+998,Charade 1.0 Turbo,Daihatsu,CHARADE,Kleinwagen,993,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,9,1985,Benzin,68,mehrfarbig,61800,Ab MFK,4,Schaltgetriebe manuell,Blue
+999,545i,BMW,545,Limousine,4398,Zuzwil,264 g/km,Occasion,null,10.9 l/100km,4,Hinterradantrieb,9,2003,Benzin,333,beige,33600,Ab MFK,5,Automatik-Getriebe,Silver
+1000,C 240 Elégance,Mercedes-Benz,C 240,Limousine,2597,Zuzwil,257 g/km,Occasion,null,10.7 l/100km,4,Hinterradantrieb,7,2000,Benzin,170,grau,162900,Ab MFK,5,Automatik-Getriebe,Silver
+1001,Coupé GranSport,Maserati,GRANSPORT,Coupé,4244,Zuzwil,400 g/km,Occasion,G,17.5 l/100km,2,Hinterradantrieb,1,2005,Benzin,400,schwarz,38400,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Silver
+1002,SL 65 AMG,Mercedes-Benz,SL 65 AMG,Cabriolet,5981,Zuzwil,362 g/km,Occasion,G,14.0 l/100km,2,Hinterradantrieb,7,2008,Benzin,612,rot,24000,"Ab MFK, Direkt-/Parallelimport",2,Automat sequentiell,Silver
+1003,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,2,2001,Benzin,420,grau,82100,Ab MFK,4,Automatik-Getriebe,Silver
+1004,TT,NSU,null,Limousine,1177,Zuzwil,null,Occasion,null,null,2,null,4,1972,Benzin,65,schwarz,82804,Ab MFK,5,Schaltgetriebe,Silver
+1005,MP4-12C Coupé 3.8 V8,Mclaren,12C,Coupé,3798,Zuzwil,279 g/km,Occasion,G,11.7 l/100km,2,Hinterradantrieb,3,2012,Benzin,626,schwarz,1200,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1006,735i,BMW,735,Limousine,3498,Zuzwil,291 g/km,Occasion,null,12.1 l/100km,4,Hinterradantrieb,8,1999,Benzin,238,schwarz,33900,Ab MFK,5,Automat sequentiell,Silver
+1007,E 250 CGI BlueEff Avgarde,Mercedes-Benz,E 250,Limousine,1796,Zuzwil,187 g/km,Occasion,G,8.0 l/100km,4,Hinterradantrieb,6,2010,Benzin,204,schwarz,29800,Ab MFK,5,Automat sequentiell,Silver
+1008,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,1982,Benzin,150,null,31000,Ab MFK,4,Schaltgetriebe manuell,Silver
+1009,C5 3.0 V6 Exclusive,Citroen,C5,Limousine,2946,Zuzwil,226 g/km,Occasion,G,9.6 l/100km,5,Vorderradantrieb,6,2001,Benzin,208,schwarz,83800,Ab MFK,5,Schaltgetriebe manuell,Blue
+1010,Corolla 2.0 D4D L.Terra,Toyota,COROLLA,Kombi,1995,Zuzwil,152 g/km,Occasion,D,5.7 l/100km,5,Vorderradantrieb,6,2004,Diesel,116,grau,144000,Ab MFK,5,Schaltgetriebe manuell,Silver
+1011,Arnage Green Label,Bentley,ARNAGE,Limousine,4398,Zuzwil,390 g/km,Occasion,G,19.9 l/100km,4,Hinterradantrieb,4,2000,Benzin,354,beige,42300,Ab MFK,5,Automat,Silver
+1012,M6,BMW,M6,Coupé,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,2,Hinterradantrieb,7,2005,Benzin,507,schwarz,8500,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1013,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,12,2000,Benzin,420,schwarz,60500,null,4,Automatik-Getriebe,Silver
+1014,575M,Ferrari,575M,Coupé,5748,Zuzwil,499 g/km,Occasion,G,21.8 l/100km,2,Hinterradantrieb,3,2005,Benzin,517,grau,22500,Ab MFK,2,Automatik-Getriebe,Silver
+1015,X1 xDrive 25d Sport Line,BMW,X1,SUV / Geländewagen,1995,Zuzwil,145 g/km,Occasion,C,5.5 l/100km,5,Allrad,9,2012,Diesel,218,rot,39200,Ab MFK,5,Automat sequentiell,Silver
+1016,S 65 L AMG 650PS,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,357 g/km,Occasion,G,14.9 l/100km,4,Hinterradantrieb,8,2004,Benzin,612,beige,61000,Ab MFK,5,Automat,Silver
+1017,456M GT,Ferrari,456,Coupé,5474,Zuzwil,495 g/km,Occasion,G,22.0 l/100km,2,Hinterradantrieb,3,2000,Benzin,442,beige,35000,Ab MFK,4,Schaltgetriebe manuell,Silver
+1018,S 500,Mercedes-Benz,S 500,Limousine,5461,Zuzwil,286 g/km,Occasion,G,12.2 l/100km,4,Hinterradantrieb,2,2009,Benzin,388,beige,52000,Ab MFK,5,Automat sequentiell,Silver
+1019,Golf R32 4Motion,VW,GOLF,Limousine,3189,Zuzwil,235 g/km,Occasion,G,9.8 l/100km,5,Allrad,2,2007,Benzin,250,schwarz,105800,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+1020,RS 2600,Ford,CAPRI,Coupé,2632,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,5,1971,Benzin,150,schwarz,64600,null,4,Schaltgetriebe,Blue
+1021,Windschutzscheibe,Renault,SPORT SPIDER,Cabriolet,0,Zuzwil,null,Occasion,null,null,0,Hinterradantrieb,9,2000,null,0,grau,8000,Ab MFK,2,Schaltgetriebe,Silver
+1022,Alpine,Renault,R5,Kleinwagen,1397,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,7,1981,Benzin,93,mehrfarbig,147800,null,5,Schaltgetriebe,Silver
+1023,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,6,2008,Benzin,612,schwarz,56200,Ab MFK,5,Automat sequentiell,Silver
+1024,Spider 2.0 16V TURBO,Renault,SPORT SPIDER,Cabriolet,1998,Zuzwil,null,Occasion,null,8.7 l/100km,2,Hinterradantrieb,6,1997,Benzin,200,schwarz,23500,null,2,Schaltgetriebe manuell,Silver
+1025,M6,BMW,M6,Coupé,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,2,Hinterradantrieb,11,2006,Benzin,507,schwarz,34500,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1026,CL 500 Prime Edition,Mercedes-Benz,CL 500,Coupé,5461,Zuzwil,288 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,10,2006,Benzin,388,schwarz,72200,Ab MFK,4,Automat sequentiell,Silver
+1027,Range Rover 5.0 V8 SC,Land Rover,RANGE ROVER,SUV / Geländewagen,4999,Zuzwil,348 g/km,Occasion,G,14.9 l/100km,5,Allrad,10,2010,Benzin,510,schwarz,9000,Ab MFK,5,Automat,Silver
+1028,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,G,13.9 l/100km,4,Hinterradantrieb,1,1999,Benzin,400,null,68500,null,5,Schaltgetriebe manuell,Silver
+1029,M Roadster,MG,null,Coupé,740,Zuzwil,null,Oldtimer,null,null,2,Hinterradantrieb,6,1930,Benzin,0,schwarz,86000,Ab MFK,2,Schaltgetriebe,Silver
+1030,S 600 L,Mercedes-Benz,S 600,Limousine,5513,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,1,2003,Benzin,500,beige,48100,Ab MFK,5,Automat,Silver
+1031,S-Type 4.0 V8,Jaguar,S-TYPE,Limousine,3996,Zuzwil,299 g/km,Occasion,G,12.5 l/100km,4,Hinterradantrieb,5,1999,Benzin,276,beige,69200,Ab MFK,5,Automat,Blue
+1032,CSA Abarth,Fiat,SPIDER,Cabriolet,1755,Zuzwil,null,Occasion,null,null,2,null,7,1974,null,128,schwarz,120000,null,2,Schaltgetriebe,Silver
+1033,F360 Spider,Ferrari,F360,Cabriolet,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,5,2001,Benzin,400,schwarz,41000,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1034,B7 (E28),Bmw-Alpina,5 SERIES,Limousine,3430,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,7,1985,Benzin,300,anthrazit,157000,null,5,Schaltgetriebe,Silver
+1035,Corniche,Rolls-Royce,CORNICHE,Cabriolet,6761,Zuzwil,456 g/km,Occasion,G,19.0 l/100km,2,Hinterradantrieb,7,2001,Benzin,329,beige,38000,Ab MFK,4,Automat,Silver
+1036,R34 GTR,Nissan,Skyline,Coupé,2568,Zuzwil,null,Occasion,null,null,2,Allrad,1,2007,Benzin,400,grau,2300,Tuning,4,Schaltgetriebe,Silver
+1037,quattro Turbo 20V,Audi,QUATTRO,Coupé,2225,Zuzwil,null,Occasion,null,null,2,Allrad,1,1990,Benzin,220,grau,125000,Ab MFK,5,Schaltgetriebe manuell,Silver
+1038,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,6,2008,Benzin,580,schwarz,29300,"Ab MFK, Tuning",5,Automat sequentiell,Silver
+1039,Alpine A610 Turbo,Renault,ALPINE,Coupé,2962,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,6,1992,Benzin,250,anthrazit,71600,Ab MFK,4,Schaltgetriebe manuell,Silver
+1040,R8 GT Spyder 5.2,Audi,R8,Cabriolet,5204,Zuzwil,332 g/km,Occasion,G,14.2 l/100km,2,Allrad,6,2012,Benzin,560,schwarz,5900,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1041,Biturbo Spyder E,Maserati,BITURBO,Cabriolet,2788,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1995,Benzin,225,beige,39500,null,2,Schaltgetriebe manuell,Silver
+1042,Elise,Lotus,ELISE,Cabriolet,1796,Zuzwil,183 g/km,Occasion,G,7.7 l/100km,2,Hinterradantrieb,10,2003,Benzin,120,anthrazit,38200,Ab MFK,2,Schaltgetriebe manuell,Anthracite
+1043,SLK 350,Mercedes-Benz,SLK 350,Cabriolet,3498,Zuzwil,255 g/km,Occasion,null,10.6 l/100km,2,Hinterradantrieb,5,2008,Benzin,272,braun,3200,Ab MFK,2,Automatik-Getriebe,Blue
+1044,CLK 320 Sport,Mercedes-Benz,CLK 320,Coupé,3199,Zuzwil,242 g/km,Occasion,G,10.1 l/100km,2,Hinterradantrieb,6,1998,Benzin,218,blau,61000,Ab MFK,4,Automat,Silver
+1045,2CV6 Charleston,Citroen,2CV,Kleinwagen,602,Zuzwil,null,Occasion,null,null,4,Vorderradantrieb,7,1986,Benzin,29,grau,80500,Ab MFK,4,Schaltgetriebe manuell,Silver
+1046,E 430 Avantgarde,Mercedes-Benz,E 430,Limousine,4266,Zuzwil,320 g/km,Occasion,null,13.9 l/100km,4,Hinterradantrieb,6,1998,Benzin,279,grau,48500,Ab MFK,5,Automat,Silver
+1047,Clio 3.0 Sport V6,Renault,CLIO,Kleinwagen,2946,Zuzwil,285 g/km,Occasion,G,11.9 l/100km,3,Hinterradantrieb,11,2004,Benzin,255,schwarz,61200,Ab MFK,2,Schaltgetriebe manuell,Silver
+1048,Alpine A310 V6,Renault,ALPINE,Coupé,2664,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,12,1981,Benzin,150,grau,139200,Ab MFK,4,Schaltgetriebe manuell,Silver
+1049,MP4-12C Coupé 3.8 V8,Mclaren,12C,Coupé,3798,Zuzwil,279 g/km,Occasion,G,12.3 l/100km,2,Hinterradantrieb,4,2012,Benzin,626,schwarz,19900,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1050,null,Triumph,TR3,Cabriolet,1991,Safenwil,null,Oldtimer,null,null,2,Hinterradantrieb,1,1957,Benzin,90,bordeaux,98320,Ab MFK,2,Schaltgetriebe manuell,Silver
+1051,CL 55 AMG,Mercedes-Benz,CL 55 AMG,Coupé,5439,Zuzwil,317 g/km,Occasion,G,13.2 l/100km,2,Hinterradantrieb,11,2002,Benzin,500,schwarz,48300,Ab MFK,4,Automat,Silver
+1052,S 320,Mercedes-Benz,S 320,Limousine,3199,Zuzwil,276 g/km,Occasion,G,11.5 l/100km,4,Hinterradantrieb,3,2002,Benzin,224,schwarz,69100,Ab MFK,5,Automat,Silver
+1053,SL 500,Mercedes-Benz,SL 500,Cabriolet,4971,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1994,Benzin,320,braun,111500,Ab MFK,0,Automat,Silver
+1054,Continental FlyingSpur6.0,Bentley,CONTINENTAL,Limousine,5998,Zuzwil,396 g/km,Occasion,G,17.0 l/100km,4,Allrad,5,2012,Benzin,560,braun,29000,Ab MFK,5,Automat,Blue
+1055,911 Carrera Cabrio,Porsche,911,Cabriolet,3387,Zuzwil,285 g/km,Occasion,G,11.8 l/100km,2,Hinterradantrieb,2,2001,Benzin,300,blau,75400,Ab MFK,4,Schaltgetriebe manuell,Silver
+1056,911 GT3,Porsche,911,Coupé,3600,Zuzwil,320 g/km,Occasion,null,12.9 l/100km,2,Hinterradantrieb,3,2000,Benzin,360,schwarz,42500,Ab MFK,4,Schaltgetriebe manuell,Silver
+1057,535d,BMW,535,Limousine,2993,Zuzwil,211 g/km,Occasion,G,8.0 l/100km,4,Hinterradantrieb,1,2006,Diesel,272,grau,29900,Ab MFK,5,Automat sequentiell,Silver
+1058,Corniche,Rolls-Royce,CORNICHE,Cabriolet,6761,Zuzwil,456 g/km,Occasion,G,17.8 l/100km,2,Hinterradantrieb,6,2002,Benzin,329,beige,42000,Ab MFK,4,Automat,Silver
+1059,DB7 Vantage Volante,Aston Martin,DB7,Cabriolet,5935,Zuzwil,472 g/km,Occasion,G,19.7 l/100km,2,Hinterradantrieb,4,2004,Benzin,416,mehrfarbig,29000,Ab MFK,4,Automat,Silver
+1060,SL 500,Mercedes-Benz,SL 500,Cabriolet,4973,Zuzwil,328 g/km,Occasion,null,14.3 l/100km,2,Hinterradantrieb,10,1996,Benzin,320,beige,29800,Ab MFK,2,Automat,Silver
+1061,tii,BMW,2002,Limousine,1990,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1974,Benzin,133,mehrfarbig,93500,Ab MFK,5,Schaltgetriebe,Silver
+1062,750iL,BMW,750,Limousine,5379,Zuzwil,332 g/km,Occasion,null,14.2 l/100km,4,Hinterradantrieb,6,1997,Benzin,327,blau,42000,Ab MFK,5,Automat sequentiell,Silver
+1063,Arnage Green Label,Bentley,ARNAGE,Limousine,4398,Zuzwil,390 g/km,Occasion,G,19.9 l/100km,4,Hinterradantrieb,6,1999,Benzin,354,beige,85700,Ab MFK,5,Automat,Silver
+1064,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,4,2005,Benzin,503,schwarz,27800,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+1065,Clio 2.0 16V Sport,Renault,CLIO,Kleinwagen,1998,Zuzwil,208 g/km,Occasion,G,8.9 l/100km,3,Vorderradantrieb,2,2008,Benzin,197,schwarz,147900,null,5,Schaltgetriebe manuell,Blue
+1066,SLK 200 Kompressor,Mercedes-Benz,SLK 200,Cabriolet,1796,Zuzwil,196 g/km,Neu,G,8.2 l/100km,2,Hinterradantrieb,7,2009,Benzin,184,schwarz,160,Ab MFK,2,Automat sequentiell,Silver
+1067,M3 CSL,BMW,M3,Coupé,3246,Zuzwil,287 g/km,Occasion,G,11.9 l/100km,2,Hinterradantrieb,7,2004,Benzin,360,null,88000,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1068,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,5,2002,Benzin,306,beige,64000,Ab MFK,2,Automat,Silver
+1069,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,4,2005,Benzin,503,schwarz,33600,Tuning,5,Automatisiertes Schaltgetriebe,Silver
+1070,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,6,2002,Benzin,306,anthrazit,24400,Ab MFK,2,Automat,Silver
+1071,CL 600,Mercedes-Benz,CL 600,Coupé,5786,Zuzwil,321 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,2,2002,Benzin,367,grau,137000,"Ab MFK, Direkt-/Parallelimport",4,Automat,Silver
+1072,6.0 AMG,Mercedes-Benz,SL 500,Cabriolet,5956,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,3,1991,Benzin,380,blau,98000,Ab MFK,4,Automatik-Getriebe,Silver
+1073,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,1,2007,Benzin,612,beige,40300,Ab MFK,5,Automat sequentiell,Silver
+1074,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,3,2003,Benzin,450,grau,34000,Direkt-/Parallelimport,5,Automat,Silver
+1075,Discovery 3.9,Land Rover,DISCOVERY,SUV / Geländewagen,3950,Zuzwil,null,Occasion,null,16.4 l/100km,3,Allrad,7,1998,Benzin,185,anthrazit,55800,Ab MFK,5,Automatik-Getriebe,Silver
+1076,null,Chevrolet,CAMARO,Cabriolet,5733,Sursee,null,Occasion,null,null,0,null,3,1969,null,300,schwarz,10000,null,4,Schaltgetriebe,Blue
+1077,M5,BMW,M5,Limousine,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,6,2006,Benzin,503,schwarz,31500,"Ab MFK, Tuning",5,Automatisiertes Schaltgetriebe,Silver
+1078,300SL W198,Mercedes-Benz,300,Coupé,2995,Sursee,null,Occasion,null,null,2,Hinterradantrieb,5,1955,null,215,rot,5000,null,0,Schaltgetriebe,Silver
+1079,Stilo 1.8 16V Swiss,Fiat,STILO,Limousine,1747,Zuzwil,190 g/km,Occasion,G,8.0 l/100km,3,Vorderradantrieb,8,2006,Benzin,133,anthrazit,28800,Ab MFK,5,Schaltgetriebe manuell,Silver
+1080,Monte Carlo 137 AS,Lancia,null,Limousine,1994,Zuzwil,null,Occasion,null,null,2,Vorderradantrieb,7,1978,Benzin,0,braun,57000,Ab MFK,2,Schaltgetriebe,Silver
+1081,Deluxe,Toyota,CARINA,Limousine,1589,Zuzwil,null,Oldtimer,null,null,4,Hinterradantrieb,11,1972,Benzin,0,mehrfarbig,57700,Ab MFK,5,Schaltgetriebe,Silver
+1082,E 320 Elégance,Mercedes-Benz,E 320,Limousine,3199,Zuzwil,null,Occasion,null,11.9 l/100km,4,Hinterradantrieb,12,1996,Benzin,220,beige,56100,Ab MFK,5,Automat,Silver
+1083,Cayenne S,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Neu,null,14.9 l/100km,5,Allrad,9,2009,Benzin,385,schwarz,1,Ab MFK,5,Automatik-Getriebe,Silver
+1084,M3,BMW,M3,Cabriolet,3246,Zuzwil,292 g/km,Occasion,G,12.1 l/100km,2,Hinterradantrieb,11,2002,Benzin,343,schwarz,23900,Ab MFK,4,Schaltgetriebe manuell,Silver
+1085,650i xDrive,BMW,650,Cabriolet,4395,Zuzwil,217 g/km,Occasion,G,9.3 l/100km,2,Allrad,1,2013,Benzin,450,null,5400,Ab MFK,4,Automat sequentiell,Silver
+1086,Corvette 6.2,Chevrolet,CORVETTE,Coupé,6162,Zuzwil,316 g/km,Occasion,G,13.3 l/100km,2,Hinterradantrieb,3,2008,Benzin,437,schwarz,33000,Ab MFK,2,Schaltgetriebe manuell,Silver
+1087,Coupé GT,Maserati,COUPÉ GT,Coupé,4244,Zuzwil,400 g/km,Occasion,G,17.5 l/100km,2,Hinterradantrieb,6,2002,Benzin,390,schwarz,53000,"Ab MFK, Direkt-/Parallelimport",4,Automatisiertes Schaltgetriebe,Blue
+1088,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,415 g/km,Occasion,G,17.9 l/100km,2,Hinterradantrieb,5,2000,Benzin,400,schwarz,28000,Ab MFK,2,Schaltgetriebe manuell,Silver
+1089,328i Coupé,BMW,328,Coupé,2792,Zuzwil,null,Occasion,null,9.2 l/100km,2,Hinterradantrieb,8,1996,Benzin,193,beige,69800,Ab MFK,5,Schaltgetriebe manuell,Silver
+1090,S 65 AMG L,Mercedes-Benz,S 65 AMG,Limousine,5981,Zuzwil,null,Occasion,G,14.8 l/100km,4,Hinterradantrieb,1,2007,Benzin,612,schwarz,94000,Ab MFK,5,Automat sequentiell,Silver
+1091,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,9,2002,Benzin,450,schwarz,36900,Ab MFK,5,Automat sequentiell,Silver
+1092,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,null,Occasion,null,20.8 l/100km,2,Hinterradantrieb,5,1999,Benzin,380,schwarz,29000,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1093,S60 2.4T,Volvo,S60,Limousine,2435,Zuzwil,220 g/km,Occasion,G,9.2 l/100km,4,Vorderradantrieb,4,2001,Benzin,200,schwarz,145000,Ab MFK,5,Schaltgetriebe manuell,Silver
+1094,Viper GTS,Chrysler,VIPER,Coupé,7990,Zuzwil,483 g/km,Occasion,null,18.8 l/100km,2,Hinterradantrieb,12,2000,Benzin,389,schwarz,66900,Ab MFK,2,Schaltgetriebe manuell,Silver
+1095,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,309 g/km,Occasion,G,12.9 l/100km,2,Allrad,6,2000,Benzin,420,schwarz,127800,Ab MFK,4,Schaltgetriebe manuell,Silver
+1096,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,1,2003,Benzin,450,schwarz,156000,Ab MFK,5,Automat,Silver
+1097,RS200 EVO Gruppe B,Ford,null,Coupé,2100,Zuzwil,null,Occasion,null,null,2,Allrad,8,1986,Benzin,600,null,1000,null,2,Schaltgetriebe,Silver
+1098,A8 4.2 quattro,Audi,A8,Limousine,4172,Zuzwil,288 g/km,Occasion,G,12.0 l/100km,4,Allrad,1,2003,Benzin,335,grau,26700,Ab MFK,5,Automat,Blue
+1099,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,3,2010,Benzin,580,schwarz,26300,Ab MFK,5,Automat,Silver
+1100,Panamera 4S 4.8,Porsche,PANAMERA,Limousine,4806,Zuzwil,254 g/km,Occasion,G,10.8 l/100km,5,Allrad,11,2010,Benzin,400,schwarz,57600,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1101,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,317 g/km,Occasion,G,13.1 l/100km,5,Allrad,8,2005,Benzin,320,schwarz,14700,Ab MFK,5,Automat sequentiell,Silver
+1102,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,2,Hinterradantrieb,4,2004,Benzin,500,anthrazit,21400,Ab MFK,2,Automat,Silver
+1103,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,null,Occasion,G,14.6 l/100km,5,Allrad,10,2002,Benzin,450,schwarz,46900,Ab MFK,5,Automat sequentiell,Silver
+1104,E 320 CDI Avantgarde,Mercedes-Benz,E 320,Limousine,2987,Zuzwil,202 g/km,Vorführmodell,G,7.6 l/100km,4,Hinterradantrieb,6,2007,Diesel,224,schwarz,100,Ab MFK,5,Automat sequentiell,Silver
+1105,F360 Modena Berlinetta,Ferrari,F360,Coupé,3586,Zuzwil,440 g/km,Occasion,G,19.3 l/100km,2,Hinterradantrieb,11,2000,Benzin,400,schwarz,25000,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1106,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,4,2002,Benzin,306,blau,33000,Ab MFK,2,Automat,Silver
+1107,Murciélago LP670-4 SV Cpé,Lamborghini,MURCIÉLAGO,Coupé,6496,Zuzwil,480 g/km,Occasion,G,20.6 l/100km,2,Allrad,5,2010,Benzin,670,schwarz,20800,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1108,Panamera 4S 4.8,Porsche,PANAMERA,Limousine,4806,Zuzwil,254 g/km,Occasion,G,10.8 l/100km,5,Allrad,5,2010,Benzin,400,beige,35500,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1109,XJ 4.0 Sovereign,Jaguar,XJ,Limousine,3980,Zuzwil,310 g/km,Occasion,null,12.6 l/100km,4,Hinterradantrieb,3,1997,Benzin,241,grau,161400,Ab MFK,5,Automat,Blue
+1110,S 600 L,Mercedes-Benz,S 600,Limousine,5513,Zuzwil,355 g/km,Occasion,G,14.8 l/100km,4,Hinterradantrieb,6,2003,Benzin,500,schwarz,128800,Ab MFK,5,Automat,Silver
+1111,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,12,2001,Benzin,286,schwarz,91000,Ab MFK,5,Automat,Silver
+1112,Range Rover Sport 4.2 V8 SC,Land Rover,RANGE ROVER SPORT,SUV / Geländewagen,4197,Zuzwil,374 g/km,Occasion,G,15.9 l/100km,5,Allrad,5,2006,Benzin,390,beige,126300,Ab MFK,5,Automat,Silver
+1113,Cayenne Turbo S,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Neu,G,15.7 l/100km,5,Allrad,5,2007,Benzin,521,schwarz,400,Ab MFK,5,Automat sequentiell,Silver
+1114,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4806,Zuzwil,358 g/km,Occasion,G,14.9 l/100km,5,Allrad,4,2008,Benzin,500,schwarz,21000,Ab MFK,5,Automat,Silver
+1115,M5,BMW,M5,Limousine,4395,Zuzwil,232 g/km,Occasion,G,9.9 l/100km,4,Hinterradantrieb,3,2012,Benzin,560,beige,19000,Ab MFK,5,Automatisiertes Schaltgetriebe,Silver
+1116,328i,BMW,328,Limousine,2793,Zuzwil,216 g/km,Occasion,null,9.1 l/100km,4,Hinterradantrieb,8,1999,Benzin,193,grau,86300,Ab MFK,5,Automatik-Getriebe,Silver
+1117,330xi,BMW,330,Limousine,2979,Zuzwil,229 g/km,Occasion,null,9.6 l/100km,4,Allrad,11,2001,Benzin,231,null,124800,Ab MFK,5,Automatik-Getriebe,Silver
+1118,X5 4.4i,BMW,X5,SUV / Geländewagen,4398,Zuzwil,335 g/km,Occasion,G,13.9 l/100km,5,Allrad,11,2000,Benzin,286,schwarz,41900,Ab MFK,5,Automat sequentiell,Silver
+1119,B7 Turbo Limousine,Bmw-Alpina,7 SERIES,Limousine,3000,Zuzwil,null,Oldtimer,null,null,4,null,3,1980,Benzin,300,schwarz,129400,Ab MFK,5,Schaltgetriebe,Silver
+1120,Spyder GT,Maserati,SPYDER GT,Cabriolet,4244,Zuzwil,400 g/km,Occasion,null,17.5 l/100km,2,Hinterradantrieb,3,2003,Benzin,390,grau,49300,Ab MFK,2,Automatik-Getriebe,Blue
+1121,Carrera GT,Porsche,CARRERA GT,Cabriolet,5733,Zuzwil,429 g/km,Occasion,G,17.8 l/100km,2,Hinterradantrieb,12,2006,Benzin,612,null,12000,null,2,Schaltgetriebe manuell,Silver
+1122,RS6 Avant quattro,Audi,RS6,Kombi,4172,Zuzwil,350 g/km,Occasion,G,14.6 l/100km,5,Allrad,8,2002,Benzin,450,schwarz,144100,Ab MFK,5,Automat sequentiell,Silver
+1123,Sunny 2.0 16V GTI-R,Nissan,SUNNY,Limousine,1997,Zuzwil,null,Occasion,null,null,3,Allrad,2,1992,Benzin,220,null,98000,Ab MFK,5,Schaltgetriebe manuell,Silver
+1124,B3 3.3 S,Bmw-Alpina,3 SERIES,Limousine,3346,Zuzwil,268 g/km,Occasion,G,11.2 l/100km,4,Hinterradantrieb,2,2003,Benzin,305,schwarz,54100,Ab MFK,5,Schaltgetriebe manuell,Silver
+1125,Arnage T,Bentley,ARNAGE,Limousine,6761,Zuzwil,null,Occasion,G,null,4,Hinterradantrieb,12,2003,Benzin,457,schwarz,57000,Ab MFK,5,Automat,Silver
+1126,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,null,Occasion,null,20.8 l/100km,2,Hinterradantrieb,7,1999,Benzin,380,beige,53600,Ab MFK,2,Automatik-Getriebe,Silver
+1127,McLaren,Mercedes-Benz,SLR,Cabriolet,5439,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,10,2007,Benzin,626,schwarz,29800,Ab MFK,2,Automatik-Getriebe,Silver
+1128,E 50 AMG Avantgarde,Mercedes-Benz,E 50 AMG,Limousine,4973,Zuzwil,315 g/km,Occasion,null,13.5 l/100km,4,Hinterradantrieb,2,1997,Benzin,347,schwarz,35600,Ab MFK,5,Automat,Silver
+1129,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,376 g/km,Occasion,null,15.7 l/100km,2,Allrad,4,1995,Benzin,408,schwarz,127850,Ab MFK,4,Schaltgetriebe manuell,Silver
+1130,911 Turbo,Porsche,911,Coupé,3600,Zuzwil,339 g/km,Occasion,G,13.9 l/100km,2,Allrad,6,2001,Benzin,420,blau,26300,"Ab MFK, Tuning",4,Automat,Silver
+1131,E 230 Elégance,Mercedes-Benz,E 230,Kombi,2295,Zuzwil,237 g/km,Occasion,null,10.0 l/100km,5,Hinterradantrieb,5,1997,Benzin,150,beige,126000,Ab MFK,5,Automat,Blue
+1132,911 Turbo Cabrio,Porsche,911,Cabriolet,3600,Zuzwil,309 g/km,Occasion,null,12.9 l/100km,2,Allrad,9,2004,Benzin,420,schwarz,21400,Ab MFK,2,Automatik-Getriebe,Silver
+1133,RS4 4.2 V8 quattro,Audi,RS4,Limousine,4163,Zuzwil,324 g/km,Occasion,G,13.5 l/100km,4,Allrad,1,2006,Benzin,420,schwarz,95700,Ab MFK,5,Schaltgetriebe manuell,Silver
+1134,F355 Berlinetta,Ferrari,F355,Coupé,3496,Zuzwil,470 g/km,Occasion,null,20.8 l/100km,2,Hinterradantrieb,7,1998,Benzin,380,schwarz,41300,Ab MFK,2,Schaltgetriebe manuell,Silver
+1135,CLS 500,Mercedes-Benz,CLS 500,Limousine,4966,Zuzwil,290 g/km,Occasion,G,12.1 l/100km,4,Hinterradantrieb,4,2005,Benzin,306,grau,78700,Ab MFK,4,Automat sequentiell,Silver
+1136,SC 3.0,Porsche,911,Coupé,2994,Zuzwil,null,Occasion,null,null,2,Hinterradantrieb,4,1983,Benzin,204,schwarz,134000,Ab MFK,4,Schaltgetriebe,Silver
+1137,M6,BMW,M6,Coupé,4999,Zuzwil,357 g/km,Occasion,G,14.8 l/100km,2,Hinterradantrieb,7,2005,Benzin,507,schwarz,55000,Ab MFK,4,Automatisiertes Schaltgetriebe,Silver
+1138,SL 500,Mercedes-Benz,SL 500,Cabriolet,4966,Zuzwil,304 g/km,Occasion,G,12.7 l/100km,2,Hinterradantrieb,3,2002,Benzin,306,anthrazit,19200,Ab MFK,2,Automat,Silver
+1139,null,Bentley,TURBO,Coupé,6750,Zuzwil,null,Occasion,null,null,4,Hinterradantrieb,1,1995,Benzin,405,blau,47500,Ab MFK,5,Automatik-Getriebe,Silver
+1140,Cevennes,PGO,null,Cabriolet,0,Zuzwil,null,Occasion,null,null,0,null,5,2008,null,0,rot,3000,Ab MFK,2,Schaltgetriebe,Silver
+1141,CL 500,Mercedes-Benz,CL 500,Coupé,4966,Zuzwil,320 g/km,Occasion,G,13.4 l/100km,2,Hinterradantrieb,1,2000,Benzin,306,grau,39600,Ab MFK,4,Automat,Silver
+1142,M5,BMW,M5,Limousine,4941,Zuzwil,336 g/km,Occasion,G,13.9 l/100km,4,Hinterradantrieb,8,2000,Benzin,400,braun,62300,Ab MFK,5,Schaltgetriebe manuell,Blue
+1143,Aventador LP700-4 Rds,Lamborghini,AVENTADOR,Cabriolet,6498,Sursee,370 g/km,Occasion,G,16.0 l/100km,2,Allrad,1,2014,Benzin,700,schwarz,150,Ab MFK,2,Automatisiertes Schaltgetriebe,Silver
+1144,SL 55 AMG,Mercedes-Benz,SL 55 AMG,Cabriolet,5439,Zuzwil,340 g/km,Occasion,G,14.2 l/100km,2,Hinterradantrieb,3,2002,Benzin,476,anthrazit,48200,Ab MFK,2,Automat,Silver
+1145,Alpine Turbo,Renault,R5,Coupé,1397,Zuzwil,null,Occasion,null,null,3,Vorderradantrieb,8,1984,Benzin,107,grau,172800,Ab MFK,4,Schaltgetriebe,Silver
+1146,A6 2.4,Audi,A6,Limousine,2392,Zuzwil,233 g/km,Occasion,G,9.7 l/100km,4,Vorderradantrieb,7,2002,Benzin,170,beige,67700,Ab MFK,5,Automat stufenlos,Silver
+1147,Turbo,BMW,2002,Limousine,1990,Zuzwil,null,Occasion,null,null,3,Hinterradantrieb,6,1974,Benzin,170,schwarz,578,Ab MFK,4,Schaltgetriebe,Silver
+1148,CLS 350 CGI,Mercedes-Benz,CLS 350,Limousine,3498,Zuzwil,222 g/km,Occasion,G,9.3 l/100km,4,Hinterradantrieb,1,2010,Benzin,292,schwarz,25300,Ab MFK,4,Automat sequentiell,Silver
+1149,Diablo 5.7 VT,Lamborghini,DIABLO,Coupé,5707,Zuzwil,null,Occasion,null,null,2,Allrad,6,1993,Benzin,492,null,46700,Ab MFK,2,Schaltgetriebe manuell,Silver
+1150,RS6 Avant 5.0 V10 quattro,Audi,RS6,Kombi,4991,Zuzwil,333 g/km,Occasion,G,14.0 l/100km,5,Allrad,2,2009,Benzin,580,schwarz,118800,Ab MFK,5,Automat sequentiell,Silver
+1151,612,Ferrari,612,Coupé,5748,Zuzwil,475 g/km,Occasion,G,20.7 l/100km,2,Hinterradantrieb,10,2004,Benzin,540,beige,42200,Ab MFK,4,Automatik-Getriebe,Silver
+1152,Cayenne Turbo,Porsche,CAYENNE,SUV / Geländewagen,4511,Zuzwil,378 g/km,Occasion,G,15.7 l/100km,5,Allrad,12,2005,Benzin,450,grau,13700,"Ab MFK, Tuning",5,Automat sequentiell,Silver

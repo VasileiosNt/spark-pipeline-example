@@ -1,0 +1,1154 @@
+,carType,color,condition,currency,drive,city,country,make,manufacture_year,mileage,milage_unit,model,model_variant,price_on_request,type,zip,manufacture_month,fuel_consumption_unit
+0,Limousine,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,E 320,E 320 Elégance 4-Matic,False,car,,1,l_km_consumption
+1,Coupé,Anthracite,Restored,,,Zuzwil,,Lamborghini,1973,0.0,,null,Espada GT 400 Serie 3,False,car,,4,
+2,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,F360,F360 Modena Berlinetta,False,car,,2,l_km_consumption
+3,Cabriolet,Silver,Occasion,,,Porrentruy,,Alfa Romeo,2011,0.0,,8C,null,False,car,,4,
+4,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,Turbo,False,car,,3,
+5,Cabriolet,Silver,Occasion,,,Zuzwil,,Datsun,1969,0.0,,null,SPORTS 2000,False,car,,7,
+6,Limousine,Silver,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,1,l_km_consumption
+7,Coupé,Silver,Occasion,,,Zuzwil,,Lamborghini,2006,0.0,,GALLARDO,Gallardo 5.0 V10 Coupé SE,False,car,,1,l_km_consumption
+8,Cabriolet,Silver,Occasion,,,Sursee,,Mercedes-Benz,1971,0.0,,280,3.5 V8 Cabrio,False,car,,2,
+9,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 320,SL 320,False,car,,7,l_km_consumption
+10,SUV,Silver,Occasion,,,Zuzwil,,Porsche,2004,0.0,,CAYENNE,Cayenne Turbo,False,car,,4,l_km_consumption
+11,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2004,0.0,,745,745i,False,car,,12,l_km_consumption
+12,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1992,0.0,,911,911 Carrera 2 RS,False,car,,1,
+13,Cabriolet,Blue,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 Carrera 4 Cabrio TECHART,False,car,,5,l_km_consumption
+14,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,11,l_km_consumption
+15,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,12,l_km_consumption
+16,Coupé,Silver,Occasion,,,Zuzwil,,Lamborghini,1993,0.0,,DIABLO,Diablo 5.7 VT,False,car,,8,
+17,Cabriolet,Silver,Occasion,,,Sursee,,Mercedes-Benz,1960,0.0,,null,300SL Roadster,False,car,,3,
+18,Coupé,Silver,Occasion,,,Zuzwil,,Alfa Romeo,2008,0.0,,8C,Coupé,False,car,,3,
+19,SUV,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,ML 400,ML 400 CDI,False,car,,11,l_km_consumption
+20,Limousine,Silver,Occasion,,,Zuzwil,,VW,2007,0.0,,GOLF,Golf 2.0 TFSI GTI,False,car,,2,l_km_consumption
+21,Limousine,Silver,Occasion,,,Zuzwil,,VW,2009,0.0,,JETTA,Jetta 2.0 TDI Comfort,False,car,,3,l_km_consumption
+22,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1989,0.0,,190,190 E 2.5-16 ABS,False,car,,1,
+23,Coupé,Silver,Occasion,,,Zuzwil,,Wiesmann,2008,0.0,,COUPE,GT MF5,False,car,,7,l_km_consumption
+24,Cabriolet,Blue,Occasion,,,Zuzwil,,Porsche,2009,0.0,,911,911 Turbo Cabrio,False,car,,12,l_km_consumption
+25,Coupé,Silver,Demonstration,,,Zuzwil,,BMW,2011,0.0,,Z4,Z4 M Coupé,False,car,,8,l_km_consumption
+26,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1969,0.0,,Alpine A110,1300S,False,car,,9,
+27,Coupé,Silver,Occasion,,,Zuzwil,,Maserati,2002,0.0,,COUPÉ GT,Coupé GT,False,car,,6,l_km_consumption
+28,Coupé,Silver,Restored,,,Zuzwil,,Renault,1976,0.0,,ALPINE,1600 VF,False,car,,8,
+29,Limousine,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,A8,A8 4.2 quattro,False,car,,8,l_km_consumption
+30,Coupé,Silver,Occasion,,,Zuzwil,,Chevrolet,2010,0.0,,CORVETTE,Corvette Z06,False,car,,3,l_km_consumption
+31,Coupé,Silver,Occasion,,,Zuzwil,,Toyota,1986,0.0,,COROLLA,Corolla 1600 GTi TC16,False,car,,12,
+32,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CLK 55 AMG,CLK 55 AMG Avantgarde,False,car,,6,l_km_consumption
+33,Limousine,Silver,Occasion,,,Zuzwil,,Audi,2014,0.0,,S7,S7 Sportback 4.0 TFSI V8 quattro,False,car,,3,l_km_consumption
+34,Limousine,Silver,Occasion,,,Basel,,Bentley,2006,0.0,,ARNAGE,Arnage T,False,car,,3,l_km_consumption
+35,Limousine,Blue,Occasion,,,Zuzwil,,Audi,2006,0.0,,RS4,RS4 4.2 V8 quattro,False,car,,5,l_km_consumption
+36,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,10,l_km_consumption
+37,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,5,l_km_consumption
+38,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2004,0.0,,645,645i,False,car,,1,l_km_consumption
+39,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 GT3,False,car,,1,l_km_consumption
+40,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,E 420,E 420 Avantgarde,False,car,,11,l_km_consumption
+41,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Carrera 4 S,False,car,,3,l_km_consumption
+42,Cabriolet,Silver,Occasion,,,Zuzwil,,Aston Martin,2013,0.0,,DB9,DB9 Volante,False,car,,5,l_km_consumption
+43,Limousine,Silver,Occasion,,,Zuzwil,,Triumph,1977,0.0,,Dolomite,Sprint,False,car,,7,
+44,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 500,SL 500,False,car,,6,l_km_consumption
+45,Cabriolet,Silver,Occasion,,,Zuzwil,,BMW,2007,0.0,,M6,M6,False,car,,2,l_km_consumption
+46,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2001,0.0,,RS4,RS4 Avant quattro,False,car,,7,l_km_consumption
+47,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 GT2,False,car,,11,l_km_consumption
+48,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1983,0.0,,ALPINE,Alpine A310 V6,False,car,,3,
+49,Coupé,Silver,Restored,,,Zuzwil,,Toyota,1981,0.0,,CELICA,1600 GT DOHC,False,car,,10,
+50,Limousine,Silver,Occasion,,,Zuzwil,,VW,2002,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,11,l_km_consumption
+51,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2008,0.0,,F430,F430 Scuderia,False,car,,3,l_km_consumption
+52,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,190,190 E 2.5-16 ABS,False,car,,4,
+53,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1997,0.0,,750,750i,False,car,,3,l_km_consumption
+54,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2005,0.0,,911,911 Carrera S,False,car,,8,l_km_consumption
+55,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,1992,0.0,,MONDIAL,Mondial 3.4 T,False,car,,5,
+56,SUV,Silver,Occasion,,,Zuzwil,,BMW,2002,0.0,,X5,X5 4.4i,False,car,,3,l_km_consumption
+57,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,2013,0.0,,F12,F12 Berlinetta,False,car,,1,l_km_consumption
+58,Coupé,Silver,Occasion,,,Zuzwil,,Ford,1978,0.0,,ESCORT,RS 2000,False,car,,3,
+59,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,SL 320,SL 320,False,car,,8,l_km_consumption
+60,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2006,0.0,,911,911 Carrera 4S,False,car,,2,l_km_consumption
+61,SUV,Silver,Occasion,,,Zuzwil,,Toyota,1982,0.0,,LAND CRUISER,FJ 40,False,car,,2,
+62,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 500,SL 500,False,car,,10,l_km_consumption
+63,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1970,0.0,,Alpine A110,1600S,False,car,,3,
+64,Coupé,Silver,Occasion,,,Zuzwil,,Datsun,1981,0.0,,280,ZX,False,car,,3,
+65,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 GT2,False,car,,9,l_km_consumption
+66,Coupé,Silver,Occasion,,,Porrentruy,,Lamborghini,2003,0.0,,MURCIÉLAGO,Murciélago 6.2 Coupé,False,car,,2,l_km_consumption
+67,SUV,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,ML 350,ML 350 Inspiration,False,car,,10,l_km_consumption
+68,Limousine,Blue,Occasion,,,Zuzwil,,Audi,2003,0.0,,A8,A8 4.2 quattro,False,car,,11,l_km_consumption
+69,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2003,0.0,,911,911 Turbo,False,car,,3,l_km_consumption
+70,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2003,0.0,,M3,M3 CSL,False,car,,11,l_km_consumption
+71,Limousine,Silver,Occasion,,,Zuzwil,,Mitsubishi,1999,0.0,,LANCER,EVO V,False,car,,1,
+72,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,null,6.7 BRABUS,False,car,,2,
+73,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Carrera 4,False,car,,11,l_km_consumption
+74,Cabriolet,Silver,Occasion,,,Zuzwil,,Audi,2005,0.0,,TT,TT Roadster 1.8 T,False,car,,3,l_km_consumption
+75,Limousine,Silver,Occasion,,,Zuzwil,,Audi,1999,0.0,,A8,A8 4.2 quattro,False,car,,10,l_km_consumption
+76,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1973,0.0,,Alpine A110,1300,False,car,,0,
+77,Limousine,Silver,Occasion,,,Zuzwil,,Maserati,2005,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,10,l_km_consumption
+78,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1995,0.0,,SL 500,SL 500,False,car,,1,
+79,Limousine,Blue,Occasion,,,Zuzwil,,Bentley,2000,0.0,,ARNAGE,Arnage Red Label,False,car,,5,l_km_consumption
+80,Coupé,Silver,Occasion,,,St. Gallen,,Bentley,2015,0.0,,CONTINENTAL,Continental GT Speed 6.0,False,car,,9,l_km_consumption
+81,Coupé,Violet,Occasion,,,Zuzwil,,Jaguar,1956,0.0,,null,D-Type XKD525,False,car,,7,
+82,Coupé,Violet,Occasion,,,Zuzwil,,Chevrolet,1967,0.0,,CORVETTE,C2,False,car,,6,
+83,Small Car,Violet,Occasion,,,Zuzwil,,Renault,1982,0.0,,R5,R5 1400 Alpine Turbo,False,car,,3,
+84,Limousine,Violet,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 50 AMG,E 50 AMG Avantgarde,False,car,,3,l_km_consumption
+85,Coupé,Violet,Occasion,,,Porrentruy,,Lamborghini,1999,0.0,,DIABLO,Diablo 5.7 SV,False,car,,1,l_km_consumption
+86,Limousine,Violet,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 500,S 500,False,car,,10,l_km_consumption
+87,Coupé,White,Occasion,,,Zuzwil,,Maserati,2002,0.0,,COUPÉ GT,Coupé GT,False,car,,7,l_km_consumption
+88,Cabriolet,White,Demonstration,,,Zuzwil,,Aston Martin,2010,0.0,,V8 Vantage,V8 Vantage 4.7,False,car,,7,l_km_consumption
+89,SUV,White,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,ML 400,ML 400 CDI,False,car,,2,l_km_consumption
+90,Station Wagon,Blue,New,,,Zuzwil,,Audi,2014,0.0,,RS6,RS6 Avant 4.0 TFSI V8 qu,False,car,,4,l_km_consumption
+91,Limousine,White,Occasion,,,Zuzwil,,Triumph,1977,0.0,,Dolomite,Sprint,False,car,,6,
+92,SUV,White,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne S,False,car,,3,l_km_consumption
+93,Cabriolet,White,Occasion,,,Zuzwil,,Maserati,2003,0.0,,SPYDER GT,Spyder GT,False,car,,5,l_km_consumption
+94,Limousine,White,Occasion,,,Zuzwil,,Audi,2004,0.0,,A4,A4 3.0 V6,False,car,,2,l_km_consumption
+95,Limousine,White,Occasion,,,Zuzwil,,Audi,2003,0.0,,A8,A8 4.2 quattro,False,car,,9,l_km_consumption
+96,Coupé,White,Restored,,,Zuzwil,,Renault,1979,0.0,,ALPINE,A310 2700 VA,False,car,,11,
+97,Coupé,White,Occasion,,,Zuzwil,,Ferrari,2007,0.0,,575M,575M,False,car,,5,l_km_consumption
+98,Cabriolet,White,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,1,l_km_consumption
+99,Coupé,White,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CLK 55 AMG,CLK 55 AMG Avantgarde,False,car,,11,l_km_consumption
+100,SUV,White,New,,,Zuzwil,,Porsche,2007,0.0,,CAYENNE,Cayenne Turbo,False,car,,1,l_km_consumption
+101,Coupé,Blue,Occasion,,,Zuzwil,,Maserati,2003,0.0,,COUPÉ GT,Coupé GT,False,car,,8,l_km_consumption
+102,Limousine,White,Occasion,,,Zuzwil,,BMW,2000,0.0,,330,330i,False,car,,9,l_km_consumption
+103,Coupé,White,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 600,CL 600,False,car,,11,l_km_consumption
+104,Limousine,White,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,3,l_km_consumption
+105,Cabriolet,White,Occasion,,,Zuzwil,,Porsche,2011,0.0,,911,911 Turbo S Cabrio,False,car,,7,l_km_consumption
+106,Coupé,White,Occasion,,,Zuzwil,,Mclaren,2012,0.0,,12C,MP4-12C Coupé 3.8 V8,False,car,,3,l_km_consumption
+107,Cabriolet,White,Occasion,,,Zuzwil,,Ferrari,2012,0.0,,458,458 Spider Italia 4.5 V8,False,car,,1,l_km_consumption
+108,Station Wagon,White,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,7,l_km_consumption
+109,Coupé,White,Occasion,,,Zuzwil,,Ferrari,2007,0.0,,599,599 GTB,False,car,,4,l_km_consumption
+110,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,S 63 AMG,S 63 AMG L,False,car,,4,l_km_consumption
+111,Cabriolet,White,Occasion,,,Zuzwil,,Chevrolet,1961,0.0,,CORVETTE,C1,False,car,,1,
+112,Coupé,Anthracite,Occasion,,,Zuzwil,,RUF,2007,0.0,,null,RT 12,False,car,,6,
+113,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,10,l_km_consumption
+114,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 500,S 500 4Matic,False,car,,11,l_km_consumption
+115,Limousine,White,Occasion,,,Zuzwil,,Bentley,2000,0.0,,ARNAGE,Arnage Green Label,False,car,,7,l_km_consumption
+116,Limousine,White,Occasion,,,Zuzwil,,BMW,1998,0.0,,740,740i,False,car,,4,l_km_consumption
+117,Limousine,White,Occasion,,,Zuzwil,,De Tomaso,1974,0.0,,PANTERA,null,False,car,,9,
+118,Limousine,White,Occasion,,,Zuzwil,,Jaguar,1996,0.0,,XJ,XJR 4.0 Supercharged,False,car,,1,l_km_consumption
+119,SUV,White,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,ML 500,ML 500 4Matic,False,car,,12,l_km_consumption
+120,Coupé,White,Occasion,,,Zuzwil,,Delorean,1981,0.0,,null,De Lorean DMC-12,False,car,,4,
+121,Limousine,White,Occasion,,,Zuzwil,,Porsche,2009,0.0,,PANAMERA,Panamera Turbo 4.8,False,car,,9,l_km_consumption
+122,Small Car,White,Occasion,,,Zuzwil,,Autobianchi,1974,0.0,,A112,Abarth Serie II,False,car,,6,
+123,Cabriolet,White,Restored,,,Zuzwil,,Alfa Romeo,1970,0.0,,SPIDER,1300 Junior,False,car,,3,
+124,Limousine,Blue,Occasion,,,Zuzwil,,VW,2003,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,1,l_km_consumption
+125,Pick-up,White,Occasion,,,Zuzwil,,Chevrolet,2007,0.0,,Silverado,2500HD 6.6l V8,False,car,,2,
+126,Coupé,White,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CL 600,CL 600,False,car,,1,l_km_consumption
+127,Limousine,White,Occasion,,,Zuzwil,,Bentley,2000,0.0,,ARNAGE,Red Label,False,car,,10,
+128,Coupé,White,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CL 600,CL 600,False,car,,9,l_km_consumption
+129,Coupé,White,Occasion,,,Zuzwil,,Renault,1988,0.0,,ALPINE,Alpine V6 Turbo,False,car,,4,
+130,Station Wagon,White,Occasion,,,Zuzwil,,Mercedes-Benz,2013,0.0,,CLS 500,CLS 500,False,car,,5,l_km_consumption
+131,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,CLS 63 AMG,CLS 63 AMG,False,car,,9,l_km_consumption
+132,SUV,White,Demonstration,,,Zuzwil,,Hummer,2008,0.0,,H3,H3 3.7 Adventure,False,car,,11,l_km_consumption
+133,Limousine,White,Occasion,,,Zuzwil,,Rolls-Royce,2004,0.0,,PHANTOM,Phantom 6.7 V12,False,car,,11,l_km_consumption
+134,Coupé,White,Occasion,,,Zuzwil,,Porsche,2008,0.0,,911,911 Turbo,False,car,,2,l_km_consumption
+135,SUV,Blue,Occasion,,,Zuzwil,,Ford ,1999,0.0,,EXPLORER,Explorer 4.0 Ltd. Edition,False,car,,9,l_km_consumption
+136,Coupé,White,Occasion,,,Zuzwil,,Renault,1971,0.0,,Alpine A110,1300 VC Gordini,False,car,,3,
+137,Coupé,White,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,10,l_km_consumption
+138,Station Wagon,White,Occasion,,,Zuzwil,,Audi,2010,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,1,l_km_consumption
+139,Coupé,White,Occasion,,,Zuzwil,,Bentley,2004,0.0,,CONTINENTAL,Continental GT 6.0,False,car,,7,l_km_consumption
+140,Coupé,White,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,575M,575M,False,car,,4,l_km_consumption
+141,Cabriolet,White,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,SL 500,SL 500,False,car,,1,
+142,Cabriolet,White,Occasion,,,Zuzwil,,Mazda,2007,0.0,,MX-5,MX-5 1.8i 16V Confort,False,car,,3,l_km_consumption
+143,Station Wagon,White,Occasion,,,Zuzwil,,Audi,2009,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,1,l_km_consumption
+144,Coupé,White,Occasion,,,Zuzwil,,Peugeot,1984,0.0,,205,Turbo 16V,False,car,,11,
+145,Limousine,White,Occasion,,,Zuzwil,,Audi,1996,0.0,,A8,A8 4.2 quattro,False,car,,3,l_km_consumption
+146,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,500,500 SE,False,car,,8,
+147,Limousine,White,Occasion,,,Zuzwil,,BMW,2009,0.0,,320,320d xDrive M-Sportpaket,False,car,,2,l_km_consumption
+148,Limousine,White,Occasion,,,Zuzwil,,BMW,1998,0.0,,728,728i,False,car,,11,l_km_consumption
+149,Coupé,White,Occasion,,,Zuzwil,,Jaguar,1996,0.0,,XJ 220,null,False,car,,5,
+150,SUV,White,Occasion,,,Zuzwil,,Porsche,2012,0.0,,CAYENNE,Cayenne S,False,car,,6,l_km_consumption
+151,Limousine,White,Occasion,,,Zuzwil,,Rolls-Royce,2004,0.0,,PHANTOM,Phantom 6.7 V12,False,car,,1,l_km_consumption
+152,Limousine,White,Occasion,,,Zuzwil,,Bentley,2006,0.0,,CONTINENTAL,Continental FlyingSpur6.0,False,car,,1,l_km_consumption
+153,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,CLS 63 AMG,CLS 63 AMG,False,car,,8,l_km_consumption
+154,Minivan,White,Occasion,,,Zuzwil,,Renault,2004,0.0,,ESPACE,Espace 2.0 T Privilège,False,car,,3,l_km_consumption
+155,Coupé,White,Occasion,,,Zuzwil,,Jaguar,1999,0.0,,XK,XKR S/C,False,car,,11,l_km_consumption
+156,Limousine,White,Restored,,,Safenwil,,Mini,1976,0.0,,MINI,1000,False,car,,7,
+157,SUV,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,ML 500,ML 500,False,car,,1,l_km_consumption
+158,Cabriolet,White,Occasion,,,Zuzwil,,Mclaren,2013,0.0,,12C,MP4-12C Cabriolet 3.8 V8,False,car,,3,l_km_consumption
+159,Cabriolet,White,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,SL 320,SL 320,False,car,,2,l_km_consumption
+160,Cabriolet,White,Occasion,,,Zuzwil,,AGM,2004,0.0,,null,WLR,False,car,,1,
+161,Cabriolet,White,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 55 AMG,SL 55 AMG,False,car,,1,l_km_consumption
+162,Cabriolet,White,Occasion,,,Zuzwil,,Porsche,2006,0.0,,911,911 Carrera S Cabrio,False,car,,8,l_km_consumption
+163,Cabriolet,White,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,SL 500,SL 500,False,car,,11,l_km_consumption
+164,Coupé,White,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,S 600,S 600,False,car,,8,
+165,Limousine,White,Occasion,,,Zuzwil,,VW,2005,0.0,,PHAETON,Phaeton 3.0 TDi V6 4M,False,car,,6,l_km_consumption
+166,Coupé,White,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,456,456M GT,False,car,,3,l_km_consumption
+167,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,S 65 AMG,S 65 AMG L,False,car,,3,l_km_consumption
+168,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SL 55 AMG,SL 55 AMG,False,car,,12,l_km_consumption
+169,Limousine,White,Occasion,,,Zuzwil,,BMW,1998,0.0,,M5,M5,False,car,,10,l_km_consumption
+170,Limousine,White,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,A 150,A 150 Classic,False,car,,10,l_km_consumption
+171,Coupé,White,Occasion,,,Porrentruy,,Lamborghini,2008,0.0,,null,Reventon Coupé,False,car,,4,
+172,Station Wagon,White,Occasion,,,Zuzwil,,Audi,2004,0.0,,RS6,RS6 Avant quattro,False,car,,3,l_km_consumption
+173,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,10,l_km_consumption
+174,Station Wagon,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,E 320,E 320 Avantgarde,False,car,,5,l_km_consumption
+175,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,null,CLK DTM AMG,False,car,,2,
+176,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,2009,0.0,,911,911 Turbo,False,car,,3,l_km_consumption
+177,SUV,Anthracite,Occasion,,,Zuzwil,,BMW,2002,0.0,,X5,X5 4.6is,False,car,,11,l_km_consumption
+178,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 600,SL 600,False,car,,4,l_km_consumption
+179,Limousine,Blue,Occasion,,,Zuzwil,,Bentley,1995,0.0,,BROOKLANDS,Brooklands,False,car,,3,
+180,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,C 320,C 320 Elégance,False,car,,5,l_km_consumption
+181,Limousine,Blue,Occasion,,,Zuzwil,,Bmw-Alpina,1986,0.0,,5 SERIES,B7 TURBO,False,car,,5,
+182,Coupé,Blue,Occasion,,,Porrentruy,,Ferrari,2003,0.0,,F360,F360 Modena Berlinetta,False,car,,11,l_km_consumption
+183,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,7,l_km_consumption
+184,Limousine,Blue,Occasion,,,Zuzwil,,BMW,1998,0.0,,728,728i,False,car,,5,l_km_consumption
+185,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,5,l_km_consumption
+186,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2013,0.0,,E 63 AMG,E 63 AMG S 4Matic,False,car,,7,l_km_consumption
+187,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,2007,0.0,,MURCIÉLAGO,Murciélago LP640-4 Cpé,False,car,,7,l_km_consumption
+188,Coupé,Anthracite,Occasion,,,Zuzwil,,Porsche,1980,0.0,,924,Turbo,False,car,,3,
+189,Coupé,Blue,Restored,,,Zuzwil,,MG,1957,0.0,,null,Roadster,False,car,,1,
+190,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 55 AMG,S 55 AMG,False,car,,2,l_km_consumption
+191,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,10,l_km_consumption
+192,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,E 240,E 240 Avantgarde,False,car,,3,l_km_consumption
+193,Cabriolet,Blue,Occasion,,,Zuzwil,,BMW,1990,0.0,,Z1,null,False,car,,2,
+194,Limousine,Blue,Occasion,,,Zuzwil,,Honda,2001,0.0,,LEGEND,Legend V6 3.5i,False,car,,3,l_km_consumption
+195,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Turbo,False,car,,3,l_km_consumption
+196,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,CLS 63 AMG,CLS 63 AMG,False,car,,5,l_km_consumption
+197,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,SL 320,SL 320,False,car,,4,l_km_consumption
+198,Limousine,Blue,Occasion,,,Zuzwil,,BMW,1995,0.0,,750,750i,False,car,,7,l_km_consumption
+199,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Audi,1996,0.0,,Cabriolet,Cabriolet 2.8 E,False,car,,7,l_km_consumption
+200,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,10,l_km_consumption
+201,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,C 230,C 230 Elégance,False,car,,2,l_km_consumption
+202,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,2011,0.0,,GALLARDO,Gallardo LP570-4 Coupé SL,False,car,,3,l_km_consumption
+203,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 65 AMG,S 65 AMG L,False,car,,8,l_km_consumption
+204,Coupé,Blue,Occasion,,,Zuzwil,,Renault,1977,0.0,,Alpine A110,A5 Motor,False,car,,5,
+205,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1990,0.0,,190,190 E 2.5-16 ABS,False,car,,10,
+206,Limousine,Blue,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,Turbo,False,car,,1,
+207,Coupé,Blue,Occasion,,,Zuzwil,,Ford ,2015,0.0,,MUSTANG,5.0 GT Premium 50 Years,False,car,,4,l_km_consumption
+208,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,2009,0.0,,GALLARDO,Gallardo LP550-2 Cpé V.B.,False,car,,9,l_km_consumption
+209,Cabriolet,Blue,Occasion,,,Porrentruy,,Ferrari,2007,0.0,,F430,F430 Spider,False,car,,6,l_km_consumption
+210,SUV,Anthracite,Occasion,,,Zuzwil,,Land Rover,2007,0.0,,RANGE ROVER,Range Rover 3.6 d HSE,False,car,,2,l_km_consumption
+211,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CL 500,CL 500,False,car,,12,l_km_consumption
+212,Limousine,Blue,Occasion,,,Zuzwil,,Maserati,2009,0.0,,QUATTROPORTE,Quattroporte 4.7 S,False,car,,2,l_km_consumption
+213,Station Wagon,Blue,Occasion,,,Zuzwil,,BMW,2004,0.0,,530,530d Touring,False,car,,11,l_km_consumption
+214,Cabriolet,Blue,Occasion,,,Zuzwil,,VW,2007,0.0,,EOS,Eos 2.0 FSI T,False,car,,9,l_km_consumption
+215,Limousine,Blue,Occasion,,,Zuzwil,,Audi,2004,0.0,,A6,A6 4.2 V8 quattro,False,car,,3,l_km_consumption
+216,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,2,l_km_consumption
+217,Cabriolet,Blue,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 Carrera Cabrio,False,car,,1,l_km_consumption
+218,SUV,Blue,Occasion,,,Zuzwil,,BMW,2004,0.0,,X3,X3 3.0i,False,car,,10,l_km_consumption
+219,Cabriolet,Blue,Occasion,,,Zuzwil,,Bmw-Alpina,2007,0.0,,6 SERIES,B6 4.4 V8 Cabrio,False,car,,4,l_km_consumption
+220,Limousine,Blue,Occasion,,,Zuzwil,,BMW,1998,0.0,,540,540i,False,car,,11,l_km_consumption
+221,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,6,l_km_consumption
+222,Cabriolet,Blue,Occasion,,,Zuzwil,,Porsche,2000,0.0,,BOXSTER,Boxster S 3.2,False,car,,4,l_km_consumption
+223,Coupé,Blue,New,,,Zuzwil,,Ferrari,2015,0.0,,458,458 Italia 4.5 V8 Speciale,False,car,,1,l_km_consumption
+224,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,E 420,E 420 Elégance,False,car,,6,l_km_consumption
+225,SUV,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2013,0.0,,ML 63 AMG,ML 63 AMG 4Matic,False,car,,1,l_km_consumption
+226,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,10,l_km_consumption
+227,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,S 600,S 600,False,car,,8,
+228,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,SLK 230,SLK 230 Kompressor,False,car,,7,l_km_consumption
+229,Coupé,Blue,Occasion,,,Zuzwil,,Lotus,2002,0.0,,ESPRIT,Esprit 3.5 V8 SE,False,car,,7,l_km_consumption
+230,Limousine,Blue,Occasion,,,Zuzwil,,Subaru,2006,0.0,,IMPREZA,Impreza 2.5T WRX,False,car,,4,l_km_consumption
+231,Coupé,Blue,Occasion,,,Zuzwil,,Aston Martin,1998,0.0,,DB7,DB7,False,car,,4,l_km_consumption
+232,SUV,Anthracite,Occasion,,,Zuzwil,,Land Rover,2012,0.0,,RANGE ROVER,Range Rover 4.4TD Vogue,False,car,,1,l_km_consumption
+233,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 500,S 500,False,car,,6,l_km_consumption
+234,Coupé,Blue,Occasion,,,Zuzwil,,Renault,1981,0.0,,ALPINE,Alpine A310 V6,False,car,,5,
+235,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,7,l_km_consumption
+236,Limousine,Blue,Occasion,,,Zuzwil,,Maserati,2004,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,6,l_km_consumption
+237,Limousine,Blue,Restored,,,Zuzwil,,Renault,1976,0.0,,ALPINE,A310 1600 VG,False,car,,6,
+238,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,8,l_km_consumption
+239,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,2005,0.0,,F360,F360 Modena Berlinetta,False,car,,3,l_km_consumption
+240,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 500,CL 500,False,car,,9,l_km_consumption
+241,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,2002,0.0,,575M,575M,False,car,,7,l_km_consumption
+242,Coupé,Blue,Occasion,,,Zuzwil,,Volvo,2001,0.0,,C70,C70 T5,False,car,,2,l_km_consumption
+243,Coupé,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,C 63 AMG,BLACK SERIES (Coupé),False,car,,8,
+244,SUV,Blue,Occasion,,,Zuzwil,,Land Rover,1998,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,5,l_km_consumption
+245,Coupé,Blue,Occasion,,,Zuzwil,,Toyota,1971,0.0,,CELICA,1600 GT,False,car,,8,
+246,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,F360,F360 Modena Berlinetta,False,car,,8,l_km_consumption
+247,Coupé,Blue,Occasion,,,Zuzwil,,Bmw-Alpina,1984,0.0,,7 SERIES,B7 Turbo Coupé,False,car,,4,
+248,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SLR,McLaren Roadster,False,car,,6,
+249,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,1985,0.0,,924,924,False,car,,5,
+250,Limousine,Blue,Occasion,,,Zuzwil,,Audi,2004,0.0,,A8,A8  6.0 quattro,False,car,,7,l_km_consumption
+251,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,7,l_km_consumption
+252,Coupé,Blue,Restored,,,Zuzwil,,Renault,1978,0.0,,ALPINE,Alpine A310 V6,False,car,,6,
+253,Cabriolet,Blue,Occasion,,,Zuzwil,,BMW,2002,0.0,,M3,M3,False,car,,3,l_km_consumption
+254,Limousine,Anthracite,Occasion,,,Zuzwil,,Bmw-Alpina,1999,0.0,,3 SERIES,B8,False,car,,1,
+255,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,5,l_km_consumption
+256,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2001,0.0,,RS4,RS4 Avant quattro,False,car,,2,l_km_consumption
+257,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,CLK 55 AMG,CLK 55 AMG Avantgarde,False,car,,6,l_km_consumption
+258,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SLK 230,SLK 230 Kompressor,False,car,,8,l_km_consumption
+259,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,1996,0.0,,911,911 Carrera 4S,False,car,,3,l_km_consumption
+260,Limousine,Bordeaux,Occasion,,,Zuzwil,,Mitsubishi,2003,0.0,,LANCER,Lancer Evo VII,False,car,,7,
+261,Limousine,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,S 320,S 320,False,car,,6,l_km_consumption
+262,Cabriolet,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 600,SL 600,False,car,,4,l_km_consumption
+263,Coupé,Bordeaux,Restored,,,Zuzwil,,Mercedes-Benz,1939,0.0,,null,170V B Cabrio 136,False,car,,7,
+264,Limousine,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,S 500,S 500,False,car,,11,l_km_consumption
+265,Station Wagon,Anthracite,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,7,l_km_consumption
+266,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,SL 55 AMG,SL 55 AMG,False,car,,3,l_km_consumption
+267,Cabriolet,Bordeaux,New,,,Zuzwil,,Porsche,2014,0.0,,911,911 Turbo S Cabrio,False,car,,5,l_km_consumption
+268,Cabriolet,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,SL 300,SL 300,False,car,,6,
+269,Limousine,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,S 500,S 500,False,car,,5,l_km_consumption
+270,Limousine,Bordeaux,Occasion,,,Zuzwil,,Audi,2004,0.0,,A8,A8 4.2 quattro,False,car,,4,l_km_consumption
+271,Coupé,Bordeaux,Occasion,,,Zuzwil,,Fiat,1970,0.0,,null,850 Spider,False,car,,8,
+272,Coupé,Bordeaux,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,F360,F360 Modena Berlinetta,False,car,,8,l_km_consumption
+273,Limousine,Bordeaux,Occasion,,,Zuzwil,,Bentley,1979,0.0,,null,T 2,False,car,,2,
+274,Limousine,Bordeaux,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,10,l_km_consumption
+275,Cabriolet,Bordeaux,Occasion,,,Zuzwil,,BMW,2001,0.0,,M3,M3,False,car,,3,l_km_consumption
+276,Station Wagon,Bordeaux,Occasion,,,Zuzwil,,Audi,1999,0.0,,A6,A6 Avant 2.7 T q.Ambiente,False,car,,9,l_km_consumption
+277,Station Wagon,Anthracite,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,7,l_km_consumption
+278,Coupé,Bordeaux,Occasion,,,Zuzwil,,Ferrari,2005,0.0,,F430,F430,False,car,,6,l_km_consumption
+279,Limousine,Brown,Occasion,,,Zuzwil,,Maserati,2008,0.0,,QUATTROPORTE,Quattroporte 4.2 Sport GT,False,car,,4,l_km_consumption
+280,Cabriolet,Brown,Occasion,,,Zuzwil,,BMW,2008,0.0,,Z4,Z4 2.5i Roadster,False,car,,9,l_km_consumption
+281,Limousine,Brown,Occasion,,,Zuzwil,,BMW,1998,0.0,,328,328i,False,car,,4,l_km_consumption
+282,Limousine,Yellow,Occasion,,,Zuzwil,,Bentley,2006,0.0,,CONTINENTAL,Continental FlyingSpur6.0,False,car,,3,l_km_consumption
+283,Cabriolet,Yellow,Occasion,,,Zuzwil,,Morgan,2006,0.0,,4/4,4/4 1.8,False,car,,6,l_km_consumption
+284,Cabriolet,Yellow,Occasion,,,Zuzwil,,Rolls-Royce,1987,0.0,,CORNICHE,Cabrio,False,car,,6,
+285,Coupé,Yellow,Occasion,,,Zuzwil,,Ferrari,1998,0.0,,F355,F355 Berlinetta,False,car,,3,l_km_consumption
+286,Limousine,Yellow,Occasion,,,Zuzwil,,BMW,2005,0.0,,M5,M5,False,car,,4,l_km_consumption
+287,Minivan,Yellow,Occasion,,,Zuzwil,,Daewoo,2003,0.0,,TACUMA,Tacuma 2000i CDX,False,car,,10,l_km_consumption
+288,Coupé,Anthracite,Occasion,,,Zuzwil,,Renault,1971,0.0,,Alpine A110,1600S Gruppe 5 look,False,car,,1,
+289,Cabriolet,Yellow,Occasion,,,Zuzwil,,Porsche,2011,0.0,,911,911 Turbo S Cabrio PDK,False,car,,4,l_km_consumption
+290,Cabriolet,Yellow,Occasion,,,Zuzwil,,Porsche,1971,0.0,,911,Targa,False,car,,11,
+291,Coupé,Yellow,Occasion,,,Zuzwil,,Maserati,2000,0.0,,3200 GT,3200 GT,False,car,,3,l_km_consumption
+292,Limousine,Yellow,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,S 400,S 400 CDI,False,car,,4,l_km_consumption
+293,Coupé,Yellow,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,456,456M GT,False,car,,5,l_km_consumption
+294,Limousine,Yellow,Occasion,,,Zuzwil,,Audi,2001,0.0,,S6,S6 quattro,False,car,,8,l_km_consumption
+295,Limousine,Yellow,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,190,190 E 2.5-16 Evo II ABS,False,car,,7,
+296,Limousine,Yellow,Occasion,,,Zuzwil,,Mazda,2001,0.0,,626,626 2.0i-16V HPV,False,car,,8,l_km_consumption
+297,Limousine,Yellow,Restored,,,Safenwil,,Toyota,1985,0.0,,CAMRY,2000 GLi Super Liftback,False,car,,5,
+298,SUV,Yellow,Occasion,,,Zuzwil,,Porsche,2006,0.0,,CAYENNE,Cayenne Turbo S,False,car,,9,l_km_consumption
+299,SUV,Anthracite,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,3,l_km_consumption
+300,Cabriolet,Yellow,Occasion,,,Zuzwil,,Chrysler,1993,0.0,,VIPER,Viper RT/10,False,car,,10,
+301,Limousine,Yellow,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 320,S 320,False,car,,4,l_km_consumption
+302,Coupé,Yellow,Occasion,,,Zuzwil,,Toyota,1990,0.0,,MR2,MR2 2.0,False,car,,12,
+303,Coupé,Yellow,Occasion,,,Zuzwil,,Ferrari,1989,0.0,,TESTAR./512,Testarossa,False,car,,1,
+304,Coupé,Gold,Occasion,,,Zuzwil,,Chevrolet,2010,0.0,,CORVETTE,Corvette ZR1,False,car,,2,l_km_consumption
+305,Cabriolet,Gold,Occasion,,,Zuzwil,,BMW,2008,0.0,,M3,M3,False,car,,7,l_km_consumption
+306,Coupé,Gold,Occasion,,,Zuzwil,,RUF,1990,0.0,,null,CTR,False,car,,1,
+307,Small Car,Gold,Occasion,,,Zuzwil,,Renault,1985,0.0,,R5,R5 Turbo 2,False,car,,5,
+308,Limousine,Gold,Occasion,,,Zuzwil,,Daimler,1996,0.0,,XJ,Six 4.0,False,car,,1,
+309,Cabriolet,Grey,Occasion,,,Zuzwil,,Mazda,1989,0.0,,RX-7,RX-7 2.6 Turbo II,False,car,,8,
+310,Coupé,Anthracite,Occasion,,,Sursee,,Bugatti,2008,0.0,,null,Veyron 16.4,False,car,,7,
+311,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,10,l_km_consumption
+312,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2005,0.0,,911,911 Carrera Cabrio,False,car,,6,l_km_consumption
+313,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,S 500,S 500 L 4Matic,False,car,,12,l_km_consumption
+314,Coupé,Grey,Occasion,,,Zuzwil,,Bugatti,1998,0.0,,EB,110 GT/SS,False,car,,8,
+315,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,10,l_km_consumption
+316,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,575M,575M,False,car,,12,l_km_consumption
+317,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,1,l_km_consumption
+318,Limousine,Grey,Occasion,,,Zuzwil,,Jaguar,2002,0.0,,S-TYPE,S-Type 4.2 V8 S/C R,False,car,,7,l_km_consumption
+319,Cabriolet,Grey,Occasion,,,Zuzwil,,Maserati,2002,0.0,,SPYDER GT,Spyder GT,False,car,,5,l_km_consumption
+320,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Carrera Targa,False,car,,5,l_km_consumption
+321,Station Wagon,Anthracite,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,6,l_km_consumption
+322,Cabriolet,Grey,Occasion,,,Zuzwil,,Ferrari,1997,0.0,,F355,F355 GTS,False,car,,10,l_km_consumption
+323,Limousine,Grey,Occasion,,,Zuzwil,,Maserati,2006,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,6,l_km_consumption
+324,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,E 320,E 320 Elégance 4-Matic,False,car,,3,l_km_consumption
+325,Cabriolet,Grey,Occasion,,,Zuzwil,,Jaguar,1998,0.0,,XK,XK8 Convertible,False,car,,7,l_km_consumption
+326,Coupé,Grey,Occasion,,,Zuzwil,,Chevrolet,1981,0.0,,CORVETTE,null,False,car,,1,
+327,Cabriolet,Grey,Occasion,,,Zuzwil,,Maserati,2002,0.0,,SPYDER GT,Spyder GT,False,car,,6,l_km_consumption
+328,Cabriolet,Grey,Occasion,,,Zuzwil,,Ferrari,2002,0.0,,F360,F360 Spider,False,car,,9,l_km_consumption
+329,Small Car,Grey,Restored,,,Zuzwil,,Renault,1982,0.0,,R5,R5 1400 Alpine Turbo,False,car,,7,
+330,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2006,0.0,,575M,575M,False,car,,12,l_km_consumption
+331,Limousine,Grey,Occasion,,,Zuzwil,,Lancia,1992,0.0,,DELTA,Delta HF Integrale Evo,False,car,,2,
+332,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,1994,0.0,,SL 600,SL 600,False,car,,7,
+333,Limousine,Grey,Occasion,,,Zuzwil,,Bentley,2005,0.0,,ARNAGE,Arnage R,False,car,,4,l_km_consumption
+334,Coupé,Grey,New,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CL 500,CL 500,False,car,,1,l_km_consumption
+335,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,3,l_km_consumption
+336,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,6,l_km_consumption
+337,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2008,0.0,,CAYENNE,Cayenne Turbo,False,car,,8,l_km_consumption
+338,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 600,SL 600,False,car,,3,l_km_consumption
+339,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro MTM,False,car,,9,l_km_consumption
+340,Cabriolet,Grey,Restored,,,Safenwil,,Austin-Healey,1959,0.0,,null,100/Six BN6 Roadster,False,car,,1,
+341,Coupé,Grey,Occasion,,,Zuzwil,,RUF,1997,0.0,,null,CTR 2 Sport,False,car,,10,
+342,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Turbo,False,car,,6,l_km_consumption
+343,Limousine,Anthracite,Occasion,,,Zuzwil,,Bentley,1990,0.0,,TURBO,Turbo R,False,car,,4,
+344,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2006,0.0,,911,911 Carrera S Cabrio,False,car,,3,l_km_consumption
+345,Station Wagon,Grey,Occasion,,,Zuzwil,,BMW,2011,0.0,,535,535i Touring,False,car,,7,l_km_consumption
+346,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2003,0.0,,911,911 Turbo,False,car,,9,l_km_consumption
+347,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2004,0.0,,CAYENNE,Cayenne Turbo,False,car,,9,l_km_consumption
+348,Coupé,Grey,Occasion,,,Zuzwil,,Toyota,1983,0.0,,CELICA,Celica 2800 i Supra,False,car,,3,
+349,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,1996,0.0,,911,911 Turbo,False,car,,5,l_km_consumption
+350,Coupé,Grey,Occasion,,,Zuzwil,,Renault,1977,0.0,,Alpine A110,1600 SX,False,car,,6,
+351,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 350,SL 350,False,car,,5,l_km_consumption
+352,SUV,Grey,Occasion,,,Zuzwil,,Land Rover,1996,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,12,l_km_consumption
+353,Limousine,Grey,Occasion,,,Zuzwil,,Porsche,2010,0.0,,PANAMERA,Panamera Turbo 4.8,False,car,,1,l_km_consumption
+354,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Porsche,1998,0.0,,911,911 Carrera,False,car,,7,l_km_consumption
+355,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2009,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,3,l_km_consumption
+356,Station Wagon,Grey,Occasion,,,Zuzwil,,BMW,1998,0.0,,540,540i Touring,False,car,,1,l_km_consumption
+357,Cabriolet,Grey,Occasion,,,Zuzwil,,Maserati,2003,0.0,,SPYDER GT,Spyder GT,False,car,,6,l_km_consumption
+358,Coupé,Grey,Occasion,,,Zuzwil,,Maserati,2002,0.0,,COUPÉ GT,Coupé GT,False,car,,6,l_km_consumption
+359,Coupé,Grey,New,,,Zuzwil,,Lamborghini,2015,0.0,,HURACAN,Huracan LP610-4 Coupé,False,car,,7,l_km_consumption
+360,Coupé,Grey,Occasion,,,Zuzwil,,Aston Martin,1991,0.0,,Virage,Virage,False,car,,4,
+361,Small Car,Grey,Occasion,,,Zuzwil,,Fiat,2004,0.0,,PUNTO,Punto 1.8 16V HGT,False,car,,5,l_km_consumption
+362,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,4,l_km_consumption
+363,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,8,l_km_consumption
+364,SUV,Grey,Occasion,,,Zuzwil,,BMW,2001,0.0,,X5,X5 4.4i,False,car,,1,l_km_consumption
+365,Camper Pick-up,Anthracite,Occasion,,,Zuzwil,,Giottiline,2014,0.0,,null,Therry T22,False,car,,4,
+366,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2008,0.0,,612,612,False,car,,2,l_km_consumption
+367,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,6,l_km_consumption
+368,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Turbo,False,car,,7,l_km_consumption
+369,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,S 55 AMG,S 55 AMG,False,car,,7,l_km_consumption
+370,Coupé,Grey,Occasion,,,Zuzwil,,Audi,2007,0.0,,R8,R8 Coupé 4.2,False,car,,6,l_km_consumption
+371,Coupé,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,CLK 63 AMG,CLK 63 AMG Black Series,False,car,,7,l_km_consumption
+372,Cabriolet,Grey,Occasion,,,Zuzwil,,Bentley,2007,0.0,,CONTINENTAL,Continental GTC 6.0,False,car,,2,l_km_consumption
+373,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2004,0.0,,RS6,RS6 Avant quattro,False,car,,1,l_km_consumption
+374,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,1997,0.0,,F550,F550 Maranello,False,car,,5,l_km_consumption
+375,Coupé,Grey,Occasion,,,Zuzwil,,Aston Martin,2012,0.0,,DBS,DBS Coupé,False,car,,4,l_km_consumption
+376,Station Wagon,Anthracite,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,10,l_km_consumption
+377,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,SL 500,SL 500,False,car,,4,l_km_consumption
+378,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 500,S 500,False,car,,9,l_km_consumption
+379,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1994,0.0,,E 500,E 500 Limited,False,car,,6,
+380,Coupé,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,CL 65 AMG,CL 65 AMG,False,car,,1,l_km_consumption
+381,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 500,SL 500 Special Edition,False,car,,4,
+382,Coupé,Grey,Occasion,,,Zuzwil,,Lamborghini,2009,0.0,,GALLARDO,Gallardo LP560-4 Coupé,False,car,,1,l_km_consumption
+383,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2007,0.0,,BOXSTER,Boxster S 3.4,False,car,,2,l_km_consumption
+384,Limousine,Grey,Occasion,,,Zuzwil,,VW,2003,0.0,,PHAETON,Phaeton 4.2 V8 4Motion,False,car,,11,l_km_consumption
+385,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,612,612,False,car,,7,l_km_consumption
+386,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,6,l_km_consumption
+387,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Carrera,False,car,,4,l_km_consumption
+388,Coupé,Anthracite,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,11,l_km_consumption
+389,Small Car,Grey,Restored,,,Zuzwil,,Renault,1969,0.0,,null,R8 Gordini,False,car,,4,
+390,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 500,S 500 L,False,car,,5,l_km_consumption
+391,Limousine,Grey,Occasion,,,Zuzwil,,BMW,1997,0.0,,323,323i Sport Edition,False,car,,7,l_km_consumption
+392,Coupé,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,CL 500,CL 500 4Matic,False,car,,1,l_km_consumption
+393,Limousine,Grey,Occasion,,,Zuzwil,,VW,2000,0.0,,BEETLE,New Beetle Cup,False,car,,9,
+394,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,4,l_km_consumption
+395,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,S 500,S 500 L,False,car,,6,l_km_consumption
+396,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,6,l_km_consumption
+397,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,11,l_km_consumption
+398,Coupé,Grey,Occasion,,,Zuzwil,,MG,1968,0.0,,MGC,GT,False,car,,8,
+399,Limousine,Anthracite,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,9,l_km_consumption
+400,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,1978,0.0,,924,null,False,car,,4,
+401,Coupé,Grey,Restored,,,Zuzwil,,Ford,1927,0.0,,null,T - Roadster,False,car,,1,
+402,Coupé,Grey,Demonstration,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CLK 430,CLK 430 Elégance,False,car,,1,l_km_consumption
+403,Limousine,Grey,Occasion,,,Zuzwil,,VW,2011,0.0,,GOLF,Golf 2.0 TSI R 4Motion,False,car,,3,l_km_consumption
+404,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,1996,0.0,,911,911 Carrera RS Clubsport/993 GT2,False,car,,4,
+405,Station Wagon,Grey,Occasion,,,Zuzwil,,Land Rover,2011,0.0,,DEFENDER,Defender 90 2.4Td4 SW,False,car,,2,l_km_consumption
+406,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 65 AMG,S 65 AMG L,False,car,,3,l_km_consumption
+407,SUV,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,ML 63 AMG,ML 63 AMG 4Matic,False,car,,3,l_km_consumption
+408,Limousine,Grey,Occasion,,,Zuzwil,,Audi,1998,0.0,,S6,S6 quattro 4.2,False,car,,5,l_km_consumption
+409,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,F360,F360 Modena Berlinetta,False,car,,4,l_km_consumption
+410,Coupé,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SLR,730PS,False,car,,6,
+411,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 55 AMG,SL 55 AMG,False,car,,4,l_km_consumption
+412,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Carrera Targa,False,car,,1,l_km_consumption
+413,Coupé,Grey,Restored,,,Zuzwil,,Renault,1972,0.0,,Alpine A110,1600S VC,False,car,,7,
+414,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,SL 600,SL 600,False,car,,2,
+415,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,8,l_km_consumption
+416,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,S-CLASS,S 55 L AMG,False,car,,2,l_km_consumption
+417,Cabriolet,Grey,Occasion,,,Zuzwil,,BMW,2002,0.0,,M3,M3,False,car,,6,l_km_consumption
+418,Limousine,Grey,Occasion,,,Zuzwil,,BMW,1995,0.0,,740,740i,False,car,,11,
+419,Cabriolet,Grey,Occasion,,,Zuzwil,,Lamborghini,2011,0.0,,GALLARDO,Gallardo LP560-4 Spyder,False,car,,4,l_km_consumption
+420,Cabriolet,Grey,Occasion,,,Zuzwil,,Dodge,1994,0.0,,VIPER,null,False,car,,4,
+421,Limousine,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 65 AMG,S 65 AMG L,False,car,,6,l_km_consumption
+422,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,E 500,E 500 Avantgarde,False,car,,5,l_km_consumption
+423,Limousine,Grey,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,1,l_km_consumption
+424,Cabriolet,Grey,Occasion,,,Zuzwil,,Porsche,2000,0.0,,BOXSTER,Boxster S 3.2,False,car,,7,l_km_consumption
+425,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,SL 500,SL 500,False,car,,6,l_km_consumption
+426,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,1997,0.0,,456,456 GTA,False,car,,11,l_km_consumption
+427,Limousine,Grey,Restored,,,Zuzwil,,Ford,1966,0.0,,CORTINA,Cortina Lotus,False,car,,4,
+428,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,SLK 200,SLK 200,False,car,,5,l_km_consumption
+429,SUV,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,ML 63 AMG,ML 63 AMG 4Matic,False,car,,6,l_km_consumption
+430,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,S 65 AMG,S 65 AMG L,False,car,,9,l_km_consumption
+431,Limousine,Grey,Occasion,,,Zuzwil,,BMW,1982,0.0,,323,323i,False,car,,4,
+432,Limousine,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CLS 500,CLS 500,False,car,,1,l_km_consumption
+433,SUV,Grey,Occasion,,,Zuzwil,,Land Rover,1998,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,6,l_km_consumption
+434,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 Carrera 4,False,car,,11,l_km_consumption
+435,Station Wagon,Grey,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,6,l_km_consumption
+436,Coupé,Grey,Occasion,,,Zuzwil,,Aston Martin,2003,0.0,,V12 Vanquish,Vanquish V12,False,car,,1,l_km_consumption
+437,Coupé,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CL 500,CL 500,False,car,,11,l_km_consumption
+438,Limousine,Grey,Occasion,,,Zuzwil,,BMW,2010,0.0,,530 Gran Turismo,530d GT,False,car,,1,l_km_consumption
+439,Coupé,Grey,Occasion,,,Zuzwil,,Porsche,2009,0.0,,911,911 GT2,False,car,,5,l_km_consumption
+440,Limousine,Grey,Occasion,,,Zuzwil,,BMW,1995,0.0,,740,740i,False,car,,7,
+441,Limousine,Grey,Restored,,,Zuzwil,,BMW,1975,0.0,,null,1602,False,car,,2,
+442,SUV,Grey,Occasion,,,Zuzwil,,Land Rover,1989,0.0,,RANGE ROVER,3.5,False,car,,3,
+443,Coupé,Anthracite,Occasion,,,Zuzwil,,Renault,1981,0.0,,ALPINE,Alpine A310 V6,False,car,,5,
+444,Coupé,Grey,Occasion,,,Zuzwil,,Talbot,1982,0.0,,MATRA,Murena 2.2,False,car,,4,
+445,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SLK 350,SLK 350,False,car,,3,l_km_consumption
+446,Cabriolet,Grey,Restored,,,Zuzwil,,Austin-Healey,1960,0.0,,null,BT7 3000 Mk I,False,car,,1,
+447,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2006,0.0,,CAYENNE,Cayenne Turbo S,False,car,,8,l_km_consumption
+448,Cabriolet,Grey,Occasion,,,Zuzwil,,Lotus,2002,0.0,,Super Seven,HKT,False,car,,9,
+449,SUV,Grey,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne S,False,car,,3,l_km_consumption
+450,Limousine,Grey,Occasion,,,Zuzwil,,Maserati,2010,0.0,,QUATTROPORTE,Quattroporte 4.7 S,False,car,,11,l_km_consumption
+451,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,S 250,S 250 CDI BlueEff SS,False,car,,9,l_km_consumption
+452,Limousine,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,S 320,S 320 CDI,False,car,,2,l_km_consumption
+453,Coupé,Grey,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,456,456M GTA,False,car,,5,l_km_consumption
+454,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Lamborghini,2006,0.0,,MURCIÉLAGO,Murciélago 6.2 Roadster,False,car,,1,l_km_consumption
+455,Cabriolet,Grey,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,2,l_km_consumption
+456,Limousine,Green,Occasion,,,Zuzwil,,BMW,2007,0.0,,730,730i,False,car,,9,l_km_consumption
+457,Limousine,Green,Occasion,,,Zuzwil,,BMW,1999,0.0,,M5,M5,False,car,,9,l_km_consumption
+458,Coupé,Green,Occasion,,,Zuzwil,,Simca,1976,0.0,,null,Rallye2,False,car,,11,
+459,Cabriolet,Green,Occasion,,,Zuzwil,,BMW,2002,0.0,,M3,M3,False,car,,12,l_km_consumption
+460,SUV,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,ML 63 AMG,ML 63 AMG 4Matic,False,car,,3,l_km_consumption
+461,Coupé,Green,Occasion,,,Zuzwil,,Audi,2007,0.0,,R8,R8 Coupé 4.2,False,car,,9,l_km_consumption
+462,Station Wagon,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 420,E 420 Elégance,False,car,,10,l_km_consumption
+463,Coupé,Green,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,456,456M GTA,False,car,,8,l_km_consumption
+464,Limousine,Green,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,10,l_km_consumption
+465,SUV,Anthracite,Occasion,,,Zuzwil,,Porsche,2007,0.0,,CAYENNE,Cayenne Turbo,False,car,,3,l_km_consumption
+466,Cabriolet,Green,Occasion,,,Zuzwil,,Mclaren,2013,0.0,,12C,MP4-12C Spider 3.8 V8,False,car,,5,l_km_consumption
+467,Limousine,Green,Occasion,,,Zuzwil,,BMW,1980,0.0,,323,323i,False,car,,10,l_km_consumption
+468,Limousine,Green,Occasion,,,Zuzwil,,BMW,1987,0.0,,M3,M3,False,car,,2,
+469,Cabriolet,Green,Occasion,,,Zuzwil,,BMW,2003,0.0,,Z4,Z4 2.5i Roadster,False,car,,3,l_km_consumption
+470,Limousine,Green,Occasion,,,Zuzwil,,Lancia,1984,0.0,,null,Rally 037 stradale,False,car,,4,
+471,Coupé,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,S 600,S 600,False,car,,3,
+472,Coupé,Green,Occasion,,,Zuzwil,,Ferrari,1994,0.0,,348,348 tb,False,car,,3,
+473,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SL 63 AMG,SL 63 AMG,False,car,,6,l_km_consumption
+474,Cabriolet,Green,Occasion,,,Zuzwil,,Porsche,2011,0.0,,911,911 Turbo S Cabrio SPEED ART 580PS,False,car,,4,l_km_consumption
+475,Limousine,Green,Occasion,,,Porrentruy,,Mercedes-Benz,2011,0.0,,S 500,S 500 L,False,car,,9,l_km_consumption
+476,Limousine,Beige,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,S 65 AMG,S 65 L / BRABUS T65 S,False,car,,2,l_km_consumption
+477,Limousine,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,null,E 60 Carlsson,False,car,,11,
+478,Coupé,Green,Occasion,,,Zuzwil,,Porsche,2003,0.0,,911,911 Turbo,False,car,,4,l_km_consumption
+479,Coupé,Green,Occasion,,,Porrentruy,,Lamborghini,1995,0.0,,DIABLO,Diablo SE 30,False,car,,9,
+480,Cabriolet,Green,Occasion,,,Zuzwil,,Aston Martin,2010,0.0,,DBS,DBS Volante,False,car,,4,l_km_consumption
+481,Cabriolet,Green,Occasion,,,Zuzwil,,Bentley,2010,0.0,,CONTINENTAL,Continental Supersports Conv.,False,car,,9,l_km_consumption
+482,Limousine,Green,Occasion,,,Zuzwil,,Lexus,2006,0.0,,GS,GS 450h,False,car,,7,l_km_consumption
+483,Coupé,Green,Occasion,,,Zuzwil,,Fiat,1972,0.0,,Dino,2400 Coupé,False,car,,10,
+484,Cabriolet,Green,Occasion,,,Zuzwil,,BMW,2000,0.0,,323,323Ci,False,car,,7,l_km_consumption
+485,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,SL 500,SL 500,False,car,,4,l_km_consumption
+486,Limousine,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,CLS 55 AMG,CLS 55 AMG,False,car,,2,l_km_consumption
+487,Coupé,Anthracite,Occasion,,,Zuzwil,,Chevrolet,2015,0.0,,CORVETTE,Corvette Z06,False,car,,6,l_km_consumption
+488,Limousine,Beige,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,6,l_km_consumption
+489,Limousine,Green,Restored,,,Zuzwil,,NSU,1972,0.0,,null,TT,False,car,,8,
+490,Coupé,Green,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Turbo,False,car,,2,l_km_consumption
+491,Station Wagon,Green,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,10,l_km_consumption
+492,Limousine,Green,Occasion,,,Zuzwil,,Audi,2010,0.0,,S3,S3 2.0 TFSI quattro,False,car,,4,l_km_consumption
+493,Coupé,Green,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,575M,NOVITEC,False,car,,6,
+494,Coupé,Green,Occasion,,,Zuzwil,,Ferrari,1992,0.0,,MONDIAL,Mondial 3.4 T,False,car,,5,
+495,Limousine,Green,Occasion,,,Zuzwil,,VW,2002,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,11,l_km_consumption
+496,Limousine,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,null,CLK DTM AMG,False,car,,8,
+497,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CLK 55 AMG,CLK 55 AMG Avantgarde,False,car,,12,l_km_consumption
+498,Limousine,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 430,E 430 Avantgarde,False,car,,2,l_km_consumption
+499,Limousine,Beige,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,CLS 63 AMG,CLS 63 AMG,False,car,,12,l_km_consumption
+500,Coupé,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CL 55 AMG,CL 55 AMG,False,car,,3,l_km_consumption
+501,Coupé,Green,Occasion,,,Zuzwil,,BMW,1982,0.0,,323,Alpina Look,False,car,,2,
+502,Coupé,Green,Occasion,,,Zuzwil,,Peugeot,2003,0.0,,406,406 Coupé 3.0 V6 Pack,False,car,,10,l_km_consumption
+503,Coupé,Green,Occasion,,,Zuzwil,,BMW,1977,0.0,,633,CSI A,False,car,,1,
+504,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,SLK 320,SLK 320,False,car,,5,l_km_consumption
+505,Station Wagon,Green,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,12,l_km_consumption
+506,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 500,SL 500,False,car,,5,l_km_consumption
+507,Coupé,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 600,CL 600,False,car,,5,l_km_consumption
+508,Limousine,Green,Occasion,,,Zuzwil,,Audi,1998,0.0,,A6,A6 2.8 Ambiente,False,car,,2,l_km_consumption
+509,SUV,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,ML 63 AMG,ML 63 AMG 4Matic,False,car,,1,l_km_consumption
+510,SUV,Beige,Occasion,,,Zuzwil,,BMW,2000,0.0,,X5,X5 4.4i,False,car,,11,l_km_consumption
+511,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 600,SL 600,False,car,,5,l_km_consumption
+512,Coupé,Green,Occasion,,,Zuzwil,,Porsche,2007,0.0,,911,Turbo,False,car,,2,
+513,SUV,Green,Occasion,,,Zuzwil,,Land Rover,1998,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,10,l_km_consumption
+514,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,5,l_km_consumption
+515,Limousine,Green,Occasion,,,Zuzwil,,Alfa Romeo,1981,0.0,,ALFASUD,Alfasud 1.5 ti,False,car,,8,
+516,Coupé,Green,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,S 600,S 600,False,car,,4,
+517,Cabriolet,Green,Occasion,,,Sursee,,Ferrari,1974,0.0,,Dino,246 GTS,False,car,,3,
+518,Limousine,Green,Occasion,,,Zuzwil,,Audi,1998,0.0,,S8,S8 4.2 quattro,False,car,,7,l_km_consumption
+519,Coupé,Green,Occasion,,,Zuzwil,,Chevrolet,2009,0.0,,CORVETTE,Corvette ZR1,False,car,,6,l_km_consumption
+520,Coupé,Green,Occasion,,,Zuzwil,,Porsche,2007,0.0,,911,911 GT2,False,car,,12,l_km_consumption
+521,Cabriolet,Beige,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 500,SL 500,False,car,,6,
+522,Cabriolet,Green,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,SL 63 AMG,SL 63 AMG,False,car,,1,l_km_consumption
+523,Coupé,Green,Occasion,,,Zuzwil,,Renault,1977,0.0,,Alpine A110,null,False,car,,7,
+524,Cabriolet,Green,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,F360,F360 Spider,False,car,,3,l_km_consumption
+525,Coupé,Green,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 Turbo,False,car,,1,l_km_consumption
+526,Limousine,Green,Occasion,,,Zuzwil,,BMW,2005,0.0,,M5,M5,False,car,,8,l_km_consumption
+527,Cabriolet,Green,Occasion,,,Zuzwil,,Saab,2003,0.0,,9-3,9-3 2.0i-16 T SE,False,car,,5,l_km_consumption
+528,Limousine,Orange,Occasion,,,Zuzwil,,Maserati,2006,0.0,,QUATTROPORTE,Quattroporte 4.2 Exec. GT,False,car,,3,l_km_consumption
+529,Coupé,Orange,Occasion,,,Zuzwil,,Alfa Romeo,1984,0.0,,GTV,6 2.5,False,car,,6,
+530,Cabriolet,Orange,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,null,SL 60,False,car,,12,
+531,Coupé,Orange,Occasion,,,Zuzwil,,Porsche,2007,0.0,,911,GT3 CUP Rennwagen,False,car,,1,
+532,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,10,l_km_consumption
+533,Coupé,Orange,Occasion,,,Porrentruy,,Lamborghini,1996,0.0,,DIABLO,SV-R Race,False,car,,0,
+534,Limousine,Red,Occasion,,,Zuzwil,,Bentley,1990,0.0,,TURBO,Turbo R,False,car,,5,
+535,Coupé,Red,Occasion,,,Zuzwil,,Porsche,2008,0.0,,911,911 Turbo,False,car,,7,l_km_consumption
+536,Coupé,Red,Occasion,,,Zuzwil,,Maserati,2005,0.0,,COUPÉ GT,Coupé GT,False,car,,3,l_km_consumption
+537,Station Wagon,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,E 350,E 350 Elégance 4Matic,False,car,,4,l_km_consumption
+538,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,SL 65 AMG,SL 65 AMG,False,car,,5,l_km_consumption
+539,Cabriolet,Red,Occasion,,,Zuzwil,,Ferrari,2001,0.0,,F360,F360 Spider,False,car,,5,l_km_consumption
+540,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 600,SL 600,False,car,,5,l_km_consumption
+541,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,5,l_km_consumption
+542,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro 730PS,False,car,,7,l_km_consumption
+543,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2000,0.0,,S4,S4 Avant quattro,False,car,,7,l_km_consumption
+544,Cabriolet,Red,Occasion,,,Zuzwil,,Porsche,1990,0.0,,944,944 S2 Cabriolet ABS,False,car,,4,
+545,Cabriolet,Red,Occasion,,,Zuzwil,,Dodge,2001,0.0,,VIPER,RT/10,False,car,,12,
+546,SUV,Red,Occasion,,,Zuzwil,,Land Rover,2003,0.0,,RANGE ROVER,Range Rover 4.4 V8 HSE,False,car,,12,l_km_consumption
+547,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,9,l_km_consumption
+548,Cabriolet,Red,Occasion,,,Zuzwil,,Ferrari,1998,0.0,,F355,F355 Spider,False,car,,10,l_km_consumption
+549,SUV,Red,Occasion,,,Zuzwil,,Porsche,2007,0.0,,CAYENNE,Cayenne S,False,car,,9,l_km_consumption
+550,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2013,0.0,,S 63 AMG,S 63 AMG,False,car,,10,l_km_consumption
+551,Coupé,Red,Occasion,,,Zuzwil,,Porsche,1998,0.0,,911,911 Carrera,False,car,,1,l_km_consumption
+552,Cabriolet,Red,Occasion,,,Zuzwil,,Aston Martin,2006,0.0,,DB9,DB9 Volante,False,car,,5,l_km_consumption
+553,Cabriolet,Red,Occasion,,,Zuzwil,,Opel,2003,0.0,,SPEEDSTER,Speedster 2.0 16V Turbo,False,car,,6,l_km_consumption
+554,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,2002,0.0,,MURCIÉLAGO,Murciélago 6.2 Coupé,False,car,,5,l_km_consumption
+555,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2009,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,3,l_km_consumption
+556,Cabriolet,Red,Occasion,,,Zuzwil,,Porsche,2014,0.0,,911,911 Turbo S Cabrio,False,car,,4,l_km_consumption
+557,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,E 63 AMG,E 63 AMG CGI,False,car,,1,l_km_consumption
+558,Limousine,Red,Occasion,,,Zuzwil,,BMW,1998,0.0,,740,740i,False,car,,2,l_km_consumption
+559,SUV,Red,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,3,l_km_consumption
+560,Coupé,Red,Occasion,,,Zuzwil,,Ferrari,2007,0.0,,F430,F430,False,car,,3,l_km_consumption
+561,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,6,l_km_consumption
+562,Coupé,Red,Occasion,,,Zuzwil,,Porsche,1995,0.0,,911,911 Carrera 4 Ruf Turbo BTR 2 420 PS,False,car,,4,
+563,Coupé,Red,Occasion,,,Zuzwil,,Mitsubishi,1983,0.0,,STARION,Starion 2000 Turbo,False,car,,4,
+564,Cabriolet,Red,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 Turbo Cabrio,False,car,,1,l_km_consumption
+565,Coupé,Blue,Occasion,,,Zuzwil,,BMW,2002,0.0,,330,330Ci,False,car,,3,l_km_consumption
+566,Limousine,Red,Occasion,,,Zuzwil,,Bentley,1986,0.0,,Mulsanne,Turbo,False,car,,9,
+567,Station Wagon,Red,Occasion,,,Zuzwil,,Chrysler,2007,0.0,,300C,300C T 5.7 HEMI V8,False,car,,1,l_km_consumption
+568,Limousine,Red,Occasion,,,Zuzwil,,Saab,2005,0.0,,9-3,9-3 2.0T Performance,False,car,,4,l_km_consumption
+569,Station Wagon,Red,Occasion,,,Zuzwil,,Volvo,2002,0.0,,V70,V70 2.4T,False,car,,4,l_km_consumption
+570,Limousine,Red,Occasion,,,Zuzwil,,VW,2008,0.0,,PHAETON,Phaeton 3.0 TDi V6 4M,False,car,,7,l_km_consumption
+571,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,C 350,C 350 Elégance 4Matic,False,car,,11,l_km_consumption
+572,Limousine,Red,Occasion,,,Zuzwil,,BMW,1999,0.0,,M5,M5,False,car,,4,l_km_consumption
+573,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,SL 600,SL 600,False,car,,5,
+574,Cabriolet,Red,Occasion,,,Zuzwil,,Porsche,1998,0.0,,BOXSTER,Boxster 2.5,False,car,,3,l_km_consumption
+575,Coupé,Red,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,CL 600,CL 600,False,car,,1,l_km_consumption
+576,Cabriolet,Blue,Occasion,,,Zuzwil,,Triumph,1974,0.0,,Spitfire,MK IV,False,car,,3,
+577,Limousine,Red,Occasion,,,Zuzwil,,Rolls-Royce,1978,0.0,,Silver Shadow,II,False,car,,6,
+578,Limousine,Red,Occasion,,,Zuzwil,,Jaguar,2001,0.0,,XJ,XJR 4.0 V8 S/C,False,car,,1,l_km_consumption
+579,Limousine,Red,Occasion,,,Zuzwil,,Bentley,2002,0.0,,ARNAGE,Arnage T,False,car,,5,l_km_consumption
+580,Coupé,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,CL 600,CL 600,False,car,,4,l_km_consumption
+581,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,E 63 AMG,E 63 AMG,False,car,,1,l_km_consumption
+582,Coupé,Red,Restored,,,Zuzwil,,Marcos,1968,0.0,,null,1600 GT,False,car,,4,
+583,Cabriolet,Red,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,SL 500,SL 500,False,car,,4,
+584,Limousine,Red,Occasion,,,Zuzwil,,Renault,2000,0.0,,CLIO,Rennwagen,False,car,,2,
+585,Coupé,Red,Occasion,,,Zuzwil,,Renault,1982,0.0,,ALPINE,V6,False,car,,11,
+586,Coupé,Red,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,GT3 CS,False,car,,1,
+587,SUV,Blue,Occasion,,,Zuzwil,,Lincoln,2003,0.0,,Navigator,32 V,False,car,,3,
+588,Coupé,Red,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,575M,575M,False,car,,1,l_km_consumption
+589,Coupé,Red,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,SL 65 AMG,BLACK SERIES,False,car,,4,
+590,Coupé,Red,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 Turbo,False,car,,1,l_km_consumption
+591,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,E 420,E 420 Avantgarde,False,car,,5,l_km_consumption
+592,Limousine,Red,Occasion,,,Zuzwil,,Audi,1999,0.0,,A8,A8 4.2 quattro,False,car,,1,l_km_consumption
+593,Coupé,Red,Occasion,,,Zuzwil,,Ferrari,2006,0.0,,F430,F430,False,car,,3,l_km_consumption
+594,Minivan,Red,Occasion,,,Zuzwil,,Dodge,1979,0.0,,null,B 200,False,car,,7,
+595,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2010,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,9,l_km_consumption
+596,Coupé,Red,Occasion,,,Zuzwil,,BMW,2001,0.0,,M3,M3,False,car,,9,l_km_consumption
+597,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2000,0.0,,A6,A6 Avant 2.7 T Ambition,False,car,,9,l_km_consumption
+598,SUV,Anthracite,Occasion,,,Zuzwil,,Porsche,2010,0.0,,CAYENNE,Cayenne Turbo Techart Magnum Kit,False,car,,1,l_km_consumption
+599,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,5,l_km_consumption
+600,Limousine,Red,Occasion,,,Zuzwil,,Jaguar,2000,0.0,,S-TYPE,S-Type 4.0 V8,False,car,,1,l_km_consumption
+601,Coupé,Red,New,,,Zuzwil,,Porsche,2015,0.0,,911,911 Turbo S,False,car,,1,l_km_consumption
+602,Limousine,Red,Occasion,,,Zuzwil,,Toyota,1977,0.0,,null,1000 / Publica,False,car,,5,
+603,Limousine,Red,Occasion,,,Zuzwil,,Audi,1997,0.0,,A8,A8 4.2 quattro,False,car,,9,l_km_consumption
+604,Cabriolet,Red,Occasion,,,Zuzwil,,Jaguar,2002,0.0,,XK,XKR S/C Convertible,False,car,,4,l_km_consumption
+605,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,1998,0.0,,A4,A4 Avant 2.8 q.Ambition,False,car,,4,l_km_consumption
+606,Limousine,Red,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,E 50 AMG,E 50 AMG Avantgarde,False,car,,11,l_km_consumption
+607,SUV,Red,Occasion,,,Zuzwil,,BMW,2004,0.0,,X5,X5 4.8is,False,car,,8,l_km_consumption
+608,Station Wagon,Red,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,9,l_km_consumption
+609,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2008,0.0,,135,135i,False,car,,10,l_km_consumption
+610,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,456,456M GT,False,car,,3,l_km_consumption
+611,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CLK 55 AMG,CLK 55 AMG Avantgarde,False,car,,2,l_km_consumption
+612,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 55 AMG,SL 55 AMG,False,car,,7,l_km_consumption
+613,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1995,0.0,,S 600,S 600,False,car,,6,
+614,Coupé,Black,Occasion,,,Zuzwil,,Renault,1979,0.0,,ALPINE,2700VA,False,car,,8,
+615,Limousine,Black,Occasion,,,Zuzwil,,Nissan,1992,0.0,,SUNNY,2.0 16V GTI-R Rallye,False,car,,1,
+616,Coupé,Black,Occasion,,,Zuzwil,,Alfa Romeo,1972,0.0,,GTV,2000 Bertone,False,car,,2,
+617,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,SL 500,SL 500,False,car,,9,
+618,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2011,0.0,,GALLARDO,Gallardo LP570-4 Coupé SL,False,car,,1,l_km_consumption
+619,Small Car,Black,Occasion,,,Zuzwil,,Seat,2005,0.0,,IBIZA,Ibiza 1.9 TDI FR,False,car,,8,l_km_consumption
+620,Limousine,Black,Occasion,,,Zuzwil,,Volvo,1999,0.0,,S40,S40 2.0 T,False,car,,5,l_km_consumption
+621,Limousine,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,CLS 500,CLS 500,False,car,,12,l_km_consumption
+622,Cabriolet,Black,Occasion,,,Zuzwil,,Audi,2010,0.0,,R8,R8 Spyder 5.2,False,car,,4,l_km_consumption
+623,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,500,500 SE,False,car,,7,
+624,SUV,Black,Occasion,,,Zuzwil,,Jeep,1995,0.0,,Grand Cherokee,Grand Cherokee 5.2 Ltd.,False,car,,2,
+625,Cabriolet,Black,Occasion,,,Zuzwil,,Ferrari,1998,0.0,,F355,F355 Spider,False,car,,7,l_km_consumption
+626,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,1997,0.0,,S6,S6 Avant quattro 4.2,False,car,,6,l_km_consumption
+627,Limousine,Black,Occasion,,,Zuzwil,,BMW,2013,0.0,,M5,M5,False,car,,9,l_km_consumption
+628,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2008,0.0,,GALLARDO,Gallardo LP560-4 Coupé,False,car,,6,l_km_consumption
+629,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,6,l_km_consumption
+630,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,C 180,C 180 Esprit,False,car,,11,l_km_consumption
+631,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2005,0.0,,MURCIÉLAGO,Murciélago 6.2 Coupé,False,car,,7,l_km_consumption
+632,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1967,0.0,,null,SL 250 Pagode,False,car,,1,
+633,Coupé,Black,Occasion,,,Porrentruy,,Lamborghini,2011,0.0,,MURCIÉLAGO,Murciélago LP640-4 Cpé,False,car,,4,l_km_consumption
+634,SUV,Black,Occasion,,,Zuzwil,,BMW,2003,0.0,,X5,X5 4.4i,False,car,,5,l_km_consumption
+635,Limousine,Black,Occasion,,,Zuzwil,,Audi,2001,0.0,,S8,S8 4.2 quattro,False,car,,3,l_km_consumption
+636,Station Wagon,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,E 500,E 500 Avantgarde,False,car,,4,l_km_consumption
+637,Limousine,Black,Occasion,,,Zuzwil,,BMW,1995,0.0,,750,750iL,False,car,,1,l_km_consumption
+638,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2001,0.0,,330,330Ci,False,car,,5,l_km_consumption
+639,Station Wagon,Black,Occasion,,,Zuzwil,,BMW,1996,0.0,,320,320i Touring,False,car,,1,l_km_consumption
+640,Limousine,Black,Occasion,,,Zuzwil,,Renault,1960,0.0,,null,DAUPHINE GORDINI,False,car,,7,
+641,Limousine,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,525,525xi,False,car,,1,l_km_consumption
+642,Coupé,Black,Restored,,,Basel,,Rolls-Royce,1980,0.0,,CORNICHE,II Coupé,False,car,,7,
+643,SUV,Blue,Occasion,,,Zuzwil,,Land Rover,2006,0.0,,RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,False,car,,6,l_km_consumption
+644,Coupé,Black,Occasion,,,Sursee,,Ferrari,1989,0.0,,F40 / F50,null,False,car,,2,
+645,Coupé,Black,Occasion,,,Zuzwil,,Renault,1972,0.0,,Alpine A110,1600 S,False,car,,2,
+646,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,CLS 63 AMG,CLS 63 AMG,False,car,,9,l_km_consumption
+647,Limousine,Black,Occasion,,,Zuzwil,,BMW,1987,0.0,,M3,M3,False,car,,10,
+648,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CL 600,CL 600,False,car,,11,l_km_consumption
+649,Limousine,Black,Occasion,,,Zuzwil,,Daimler,1998,0.0,,V8,V8 4.0,False,car,,5,l_km_consumption
+650,Station Wagon,Black,Occasion,,,Zuzwil,,BMW,2001,0.0,,530,530i Touring,False,car,,5,l_km_consumption
+651,Station Wagon,Black,Occasion,,,Zuzwil,,BMW,1997,0.0,,528,528i Touring,False,car,,4,l_km_consumption
+652,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,456,456M GTA,False,car,,12,l_km_consumption
+653,Coupé,Black,Occasion,,,Zuzwil,,Bentley,1994,0.0,,CONTINENTAL,Continental R Coupé,False,car,,1,
+654,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,2007,0.0,,MURCIÉLAGO,Murciélago LP640-4 Cpé,False,car,,3,l_km_consumption
+655,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,SL 500,SL 500,False,car,,2,
+656,Coupé,Black,Occasion,,,Zuzwil,,Renault,1983,0.0,,ALPINE,V6,False,car,,8,
+657,Limousine,Black,Occasion,,,Zuzwil,,Ford,1990,0.0,,SIERRA,Sierra 2.0i Cosworth 4x4,False,car,,9,
+658,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2006,0.0,,RS4,RS4 Avant 4.2 V8 quattro,False,car,,8,l_km_consumption
+659,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 Carrera Jubilé 40,False,car,,3,l_km_consumption
+660,Limousine,Black,Occasion,,,Zuzwil,,VW,2002,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,11,l_km_consumption
+661,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,SL 320,SL 320,False,car,,1,l_km_consumption
+662,Coupé,Black,Occasion,,,Sursee,,Porsche,2011,0.0,,911,911 GT3 RS,False,car,,11,l_km_consumption
+663,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,E 63 AMG,E 63 AMG,False,car,,3,l_km_consumption
+664,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 Carrera 4,False,car,,5,l_km_consumption
+665,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2001,0.0,,RS4,RS4 Avant quattro,False,car,,3,l_km_consumption
+666,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1995,0.0,,SL 600,SL 600,False,car,,9,
+667,Limousine,Black,Occasion,,,Zuzwil,,BMW,1998,0.0,,540,540i,False,car,,11,l_km_consumption
+668,Limousine,Black,Occasion,,,Zuzwil,,Trabant,2009,0.0,,null,1300S Trabusa,False,car,,1,
+669,Limousine,Black,Occasion,,,Zuzwil,,Seat,2009,0.0,,LEON,Leon 2.0 TSI FR,False,car,,1,l_km_consumption
+670,Cabriolet,Black,Occasion,,,Zuzwil,,Jaguar,1974,0.0,,E,E-Type III,False,car,,3,
+671,Cabriolet,Black,New,,,Zuzwil,,Lamborghini,2015,0.0,,AVENTADOR,Aventador LP700-4 Rds,False,car,,3,l_km_consumption
+672,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,S 55 AMG,S 55 AMG,False,car,,3,l_km_consumption
+673,SUV,Black,Occasion,,,Zuzwil,,BMW,2000,0.0,,X5,X5 4.4i,False,car,,12,l_km_consumption
+674,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2004,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,7,l_km_consumption
+675,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,10,l_km_consumption
+676,Coupé,Blue,Occasion,,,Zuzwil,,Renault,1980,0.0,,ALPINE,Alpine A310 V6,False,car,,4,
+677,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2009,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,3,l_km_consumption
+678,SUV,Black,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,8,l_km_consumption
+679,Limousine,Black,Occasion,,,Zuzwil,,BMW,2003,0.0,,760,760i L,False,car,,1,l_km_consumption
+680,Minivan,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,B 200,B 200 T Sailing Edition,False,car,,8,l_km_consumption
+681,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2006,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,12,l_km_consumption
+682,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,335,335i,False,car,,7,l_km_consumption
+683,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,SLK 55 AMG,SLK 55 AMG,False,car,,4,l_km_consumption
+684,SUV,Black,Occasion,,,Zuzwil,,Porsche,2005,0.0,,CAYENNE,Cayenne Turbo,False,car,,10,l_km_consumption
+685,Limousine,Black,Occasion,,,Zuzwil,,Bentley,2000,0.0,,ARNAGE,Arnage Red Label,False,car,,2,l_km_consumption
+686,Coupé,Black,Occasion,,,Zuzwil,,Audi,2008,0.0,,TT,TTS Cpé 2.0 TFSI quattro,False,car,,8,l_km_consumption
+687,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,6,l_km_consumption
+688,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 600,CL 600,False,car,,6,l_km_consumption
+689,Small Car,Black,Occasion,,,Zuzwil,,Renault,1983,0.0,,R5,R5 1400 Alpine Turbo,False,car,,12,
+690,SUV,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,ML 500,ML 500,False,car,,2,l_km_consumption
+691,Coupé,Black,Occasion,,,Zuzwil,,Ford,1973,0.0,,CAPRI,RS 2600,False,car,,3,
+692,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 50 AMG,E 50 AMG Avantgarde,False,car,,3,l_km_consumption
+693,Limousine,Black,Occasion,,,Zuzwil,,BMW,2005,0.0,,M5,M5,False,car,,5,l_km_consumption
+694,Limousine,Black,Occasion,,,Zuzwil,,Bmw-Alpina,1998,0.0,,5 SERIES,B10 4.6 S.Tronic,False,car,,10,l_km_consumption
+695,Limousine,Black,Occasion,,,Zuzwil,,Ford,1994,0.0,,ESCORT,Escort 2.0i RS Cosworth,False,car,,4,
+696,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,2,l_km_consumption
+697,Limousine,Black,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,Turbo,False,car,,7,
+698,Limousine,Blue,Occasion,,,Zuzwil,,BMW,1998,0.0,,750,750i,False,car,,3,l_km_consumption
+699,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2006,0.0,,QUATTROPORTE,Quattroporte 4.2 Sport GT,False,car,,10,l_km_consumption
+700,Station Wagon,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,C 63 AMG,C 63 AMG Avantgarde,False,car,,1,l_km_consumption
+701,Limousine,Black,Occasion,,,Zuzwil,,Bentley,1995,0.0,,BROOKLANDS,Brooklands,False,car,,12,
+702,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2008,0.0,,QUATTROPORTE,Quattroporte 4.2 Sport GT,False,car,,4,l_km_consumption
+703,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,E 63 AMG,E 63 AMG,False,car,,6,l_km_consumption
+704,Coupé,Black,Occasion,,,Zuzwil,,Aston Martin,2007,0.0,,V8 Vantage,V8 Vantage 4.3,False,car,,2,l_km_consumption
+705,Limousine,Black,Occasion,,,Zuzwil,,Bmw-Alpina,2012,0.0,,5 SERIES,B5 BiTurbo 4.4 V8,False,car,,6,l_km_consumption
+706,SUV,Black,Occasion,,,Zuzwil,,Porsche,2011,0.0,,CAYENNE,Cayenne Turbo,False,car,,1,l_km_consumption
+707,Coupé,Black,Occasion,,,Zuzwil,,Jaguar,1999,0.0,,XK,XKR S/C,False,car,,5,l_km_consumption
+708,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,SL 55 AMG,SL 55 AMG,False,car,,3,l_km_consumption
+709,Coupé,Anthracite,Occasion,,,Zuzwil,,Ford ,2012,0.0,,MUSTANG,Shelby GT500,False,car,,3,
+710,Coupé,Blue,Occasion,,,Porrentruy,,Lamborghini,1993,0.0,,DIABLO,Diablo 5.7,False,car,,4,
+711,SUV,Black,Occasion,,,Zuzwil,,Opel,2001,0.0,,FRONTERA,Frontera 3.2i V6 Limited,False,car,,5,l_km_consumption
+712,Coupé,Black,Occasion,,,Zuzwil,,Aston Martin,2007,0.0,,V8 Vantage,V8 Vantage 4.3,False,car,,7,l_km_consumption
+713,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,SLK 55 AMG,Black Series,False,car,,10,
+714,Cabriolet,Black,Occasion,,,Zuzwil,,Chevrolet,1994,0.0,,CORVETTE,Corvette 5.7 LT1 Convert.,False,car,,7,l_km_consumption
+715,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1971,0.0,,300,SEL 3.5,False,car,,5,l_km_consumption
+716,Cabriolet,Black,Occasion,,,Zuzwil,,Alfa Romeo,1988,0.0,,SPIDER,Spider 2.0,False,car,,4,
+717,Coupé,Black,Occasion,,,Zuzwil,,Aston Martin,2006,0.0,,V8 Vantage,V8 Vantage 4.3,False,car,,1,l_km_consumption
+718,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SLK 230,SLK 230 Kompressor,False,car,,5,l_km_consumption
+719,Limousine,Black,Occasion,,,Zuzwil,,Saab,2001,0.0,,9-3,9-3 2.0i-16 TS Aero,False,car,,9,l_km_consumption
+720,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,1996,0.0,,911,911 Carrera Cabrio,False,car,,8,l_km_consumption
+721,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 55 AMG,SL 55 AMG,False,car,,2,l_km_consumption
+722,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,2,l_km_consumption
+723,Coupé,Black,Occasion,,,Zuzwil,,Lotus,1969,0.0,,EUROPA,null,False,car,,3,
+724,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,CL 500,CL 500,False,car,,1,l_km_consumption
+725,Limousine,Black,Occasion,,,Zuzwil,,BMW,2000,0.0,,M5,M5,False,car,,1,l_km_consumption
+726,Limousine,Black,Occasion,,,Zuzwil,,VW,2002,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,10,l_km_consumption
+727,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2000,0.0,,DIABLO,Diablo 5.7,False,car,,12,
+728,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,SL 600,SL 600,False,car,,9,
+729,Coupé,Black,Occasion,,,Zuzwil,,Opel,1982,0.0,,MANTA,400 Breitbau,False,car,,7,
+730,Limousine,Black,Occasion,,,Zuzwil,,BMW,2009,0.0,,750,750i xDrive,False,car,,10,l_km_consumption
+731,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 GT2,False,car,,3,l_km_consumption
+732,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 GT2,False,car,,12,l_km_consumption
+733,Limousine,Black,Occasion,,,Zuzwil,,Opel,2006,0.0,,VECTRA,Vectra 2.8 T V6 Cosmo,False,car,,5,l_km_consumption
+734,SUV,Black,Occasion,,,Zuzwil,,BMW,2001,0.0,,X5,X5 4.4i,False,car,,6,l_km_consumption
+735,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1985,0.0,,SL-CLASS,500 SL,False,car,,5,
+736,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,S 500,S 500,False,car,,11,l_km_consumption
+737,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CLS 500,CLS 500,False,car,,1,l_km_consumption
+738,SUV,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2013,0.0,,G 63 AMG,G 63 AMG,False,car,,4,l_km_consumption
+739,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,S 63 AMG,S 63 AMG L,False,car,,8,l_km_consumption
+740,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,1997,0.0,,911,911 Targa,False,car,,5,l_km_consumption
+741,SUV,Black,Occasion,,,Zuzwil,,Nissan,2005,0.0,,MURANO,Murano 3.5 V6,False,car,,10,l_km_consumption
+742,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,1998,0.0,,F355,F355 Berlinetta,False,car,,3,l_km_consumption
+743,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,8,l_km_consumption
+744,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2007,0.0,,GALLARDO,Gallardo Superleggera,False,car,,6,l_km_consumption
+745,Coupé,Black,New,,,Zuzwil,,Audi,2007,0.0,,R8,R8 Coupé 4.2,False,car,,10,l_km_consumption
+746,Cabriolet,Black,Occasion,,,Zuzwil,,Bentley,2011,0.0,,CONTINENTAL,Continental Supersports Conv.,False,car,,1,l_km_consumption
+747,Coupé,Black,Occasion,,,Zuzwil,,BMW,2005,0.0,,M6,M6,False,car,,4,l_km_consumption
+748,Coupé,Black,Occasion,,,Zuzwil,,Toyota,1983,0.0,,CELICA,Celica 2800 i Supra,False,car,,3,
+749,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2000,0.0,,323,323Ci,False,car,,6,l_km_consumption
+750,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2004,0.0,,A4,A4 Avant 3.0 V6 quattro,False,car,,7,l_km_consumption
+751,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CLS 500,CLS 500,False,car,,3,l_km_consumption
+752,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1995,0.0,,SL 500,SL 500,False,car,,1,
+753,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,4,l_km_consumption
+754,SUV,Blue,Occasion,,,Zuzwil,,Hummer,2006,0.0,,H3,H3 3.5 Luxury,False,car,,1,l_km_consumption
+755,Cabriolet,Black,Occasion,,,Zuzwil,,Bentley,2007,0.0,,CONTINENTAL,Continental GTC 6.0,False,car,,7,l_km_consumption
+756,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,5,l_km_consumption
+757,Limousine,Black,Occasion,,,Zuzwil,,BMW,1995,0.0,,740,740i,False,car,,7,
+758,Coupé,Black,Occasion,,,Zuzwil,,BMW,2001,0.0,,330,330Ci,False,car,,3,l_km_consumption
+759,Coupé,Black,Occasion,,,Zuzwil,,MG,1986,0.0,,METRO,6R4 Gruppe B,False,car,,2,
+760,Limousine,Black,Occasion,,,Zuzwil,,BMW,1996,0.0,,535,535i,False,car,,6,l_km_consumption
+761,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1990,0.0,,SL 500,SL 500,False,car,,7,
+762,SUV,Black,Occasion,,,Zuzwil,,Porsche,2004,0.0,,CAYENNE,Cayenne Turbo,False,car,,11,l_km_consumption
+763,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,M6,M6,False,car,,4,l_km_consumption
+764,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2007,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,10,l_km_consumption
+765,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CL 600,CL 600,False,car,,12,l_km_consumption
+766,Station Wagon,Black,Demonstration,,,Zuzwil,,Audi,2004,0.0,,RS6,RS6 Avant quattro,False,car,,12,l_km_consumption
+767,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SL 600,SL 600,False,car,,1,l_km_consumption
+768,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,1984,0.0,,911,911 Carrera Cabrio,False,car,,12,
+769,Cabriolet,Black,Occasion,,,Porrentruy,,Lamborghini,1998,0.0,,DIABLO,Diablo 5.7 VT Roadster,False,car,,5,l_km_consumption
+770,SUV,Black,Occasion,,,Zuzwil,,Jeep,1997,0.0,,Grand Cherokee,Grand Cherokee 5.2 Ltd.,False,car,,6,l_km_consumption
+771,Limousine,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,730,730d,False,car,,11,l_km_consumption
+772,Limousine,Black,Restored,,,Zuzwil,,Mercedes-Benz,1973,0.0,,450,SLC,False,car,,8,
+773,Coupé,Black,Occasion,,,Zuzwil,,Renault,1973,0.0,,Alpine A110,1300,False,car,,7,
+774,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 GT3,False,car,,8,l_km_consumption
+775,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 600,SL 600,False,car,,5,l_km_consumption
+776,Station Wagon,Blue,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,3,l_km_consumption
+777,Limousine,Black,Occasion,,,Zuzwil,,Audi,2002,0.0,,A8,A8 4.2 quattro,False,car,,12,l_km_consumption
+778,Cabriolet,Black,Occasion,,,Zuzwil,,Yes!,2007,0.0,,null,Roadster 3.2,False,car,,9,
+779,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1984,0.0,,911,911 Carrera,False,car,,2,
+780,Limousine,Black,Occasion,,,Zuzwil,,VW,2002,0.0,,PHAETON,Phaeton 6.0 W12 4Motion,False,car,,11,l_km_consumption
+781,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,F360,F360 Modena Berlinetta,False,car,,10,l_km_consumption
+782,Coupé,Black,Occasion,,,Zuzwil,,Audi,2008,0.0,,S5,S5 Coupé 4.2 FSI quattro,False,car,,5,l_km_consumption
+783,Station Wagon,Black,Occasion,,,Safenwil,,Aston Martin,1987,0.0,,LAGONDA,Shooting Brake,False,car,,3,
+784,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,SL 500,SL 500,False,car,,11,l_km_consumption
+785,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,7,l_km_consumption
+786,Cabriolet,Black,Occasion,,,Porrentruy,,Lamborghini,2014,0.0,,AVENTADOR,Aventador LP700-4 Rds,False,car,,3,l_km_consumption
+787,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,1981,0.0,,924,Turbo,False,car,,9,
+788,Limousine,Black,Occasion,,,Zuzwil,,Bentley,2007,0.0,,CONTINENTAL,Continental FlyingSpur6.0,False,car,,2,l_km_consumption
+789,Limousine,Black,Occasion,,,Zuzwil,,Rolls-Royce,1983,0.0,,Silver Spirit,Mk. I,False,car,,4,
+790,Coupé,Black,New,,,Zuzwil,,Mclaren,2012,0.0,,12C,MP4-12C 3.8 V8,False,car,,6,l_km_consumption
+791,SUV,Black,Occasion,,,Zuzwil,,Porsche,2008,0.0,,CAYENNE,Cayenne Turbo,False,car,,4,l_km_consumption
+792,SUV,Black,Occasion,,,Zuzwil,,Land Rover,2010,0.0,,RANGE ROVER SPORT,Range Rover Sport 5.0 V8 SC,False,car,,9,l_km_consumption
+793,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 500,S 500,False,car,,10,l_km_consumption
+794,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,8,l_km_consumption
+795,Limousine,Black,Occasion,,,Zuzwil,,Audi,1999,0.0,,A8,A8 3.7,False,car,,6,l_km_consumption
+796,Truck,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,600-SERIES,611 DS,False,truck,,4,
+797,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2013,0.0,,RS4,RS4 Avant 4.2 FSI quattro,False,car,,3,l_km_consumption
+798,Coupé,Blue,Occasion,,,Zuzwil,,Renault,1976,0.0,,Alpine A110,1600 SX,False,car,,7,
+799,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,CL 63 AMG,CL 63 AMG FAB DESIGN,False,car,,8,l_km_consumption
+800,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2001,0.0,,RS4,RS4 Avant quattro,False,car,,2,l_km_consumption
+801,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,4,l_km_consumption
+802,Coupé,Black,New,,,Zuzwil,,Lotus,2002,0.0,,ESPRIT,Esprit 3.5 V8 SE,False,car,,6,l_km_consumption
+803,SUV,Black,Occasion,,,Zuzwil,,Porsche,2008,0.0,,CAYENNE,Cayenne Turbo,False,car,,5,l_km_consumption
+804,Limousine,Black,Occasion,,,Zuzwil,,Renault,1972,0.0,,R12,Gordini,False,car,,4,
+805,Pick-up,Black,Occasion,,,Zuzwil,,Toyota,1981,0.0,,DYNA,Bergungsfahrzeug,False,car,,1,
+806,Coupé,Black,Occasion,,,St. Gallen,,Lamborghini,2014,0.0,,GALLARDO,GallardoLP570-4CpéTecnica,False,car,,9,l_km_consumption
+807,SUV,Black,Occasion,,,Zuzwil,,VW,2008,0.0,,TOUAREG,Touareg R50 V10,False,car,,4,l_km_consumption
+808,Cabriolet,Black,Demonstration,,,Zuzwil,,Mercedes-Benz,2007,0.0,,SLK 200,SLK 200 Kompressor,False,car,,10,l_km_consumption
+809,Limousine,Blue,Occasion,,,Zuzwil,,Bentley,1999,0.0,,ARNAGE,Arnage Green Label,False,car,,2,l_km_consumption
+810,Limousine,Black,Occasion,,,Zuzwil,,Audi,2002,0.0,,S3,S3 quattro,False,car,,3,l_km_consumption
+811,Cabriolet,Black,Occasion,,,Zuzwil,,Chrysler,1996,0.0,,VIPER,Viper RT/10,False,car,,4,
+812,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,SLK 55 AMG,SLK 55 AMG,False,car,,9,l_km_consumption
+813,Coupé,Black,Occasion,,,Zuzwil,,Bentley,2005,0.0,,CONTINENTAL,Continental GT 6.0,False,car,,1,l_km_consumption
+814,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,SL 500,SL 500,False,car,,7,
+815,Cabriolet,Black,Occasion,,,Zuzwil,,Lotus,2001,0.0,,ELISE,Elise,False,car,,6,l_km_consumption
+816,Limousine,Black,Occasion,,,Zuzwil,,Maserati,2006,0.0,,QUATTROPORTE,Quattroporte 4.2,False,car,,5,l_km_consumption
+817,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1992,0.0,,SL 600,SL 600,False,car,,9,
+818,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,SL 500,SL 500 Edition,False,car,,4,l_km_consumption
+819,Coupé,Black,Occasion,,,Zuzwil,,Hyundai,2007,0.0,,COUPÉ,Coupé 2.7 24V FX,False,car,,4,l_km_consumption
+820,Limousine,Anthracite,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,CLS 500,CLS 500,False,car,,11,l_km_consumption
+821,Cabriolet,Blue,Occasion,,,Zuzwil,,Opel,2004,0.0,,SPEEDSTER,Speedster 2.2 16V,False,car,,6,l_km_consumption
+822,SUV,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2001,0.0,,ML 430,ML 430,False,car,,4,l_km_consumption
+823,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,SL 65 AMG,SL 65 AMG,False,car,,3,l_km_consumption
+824,Coupé,Black,New,,,Zuzwil,,Porsche,2014,0.0,,911,911 GT3,False,car,,7,l_km_consumption
+825,Coupé,Black,Occasion,,,Zuzwil,,Nissan,2002,0.0,,Skyline,Rennwagen,False,car,,1,
+826,Coupé,Black,Occasion,,,Zuzwil,,Bentley,2008,0.0,,CONTINENTAL,Continental GT Speed 6.0,False,car,,5,l_km_consumption
+827,SUV,Black,New,,,Zuzwil,,Mercedes-Benz,2007,0.0,,ML 500,ML 500 4Matic,False,car,,3,l_km_consumption
+828,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,575M,575M,False,car,,1,l_km_consumption
+829,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,E 63 AMG,E 63 AMG Avantgarde,False,car,,7,l_km_consumption
+830,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,CL 65 AMG,CL 65 AMG,False,car,,2,l_km_consumption
+831,Coupé,Black,Occasion,,,Zuzwil,,Bentley,2005,0.0,,CONTINENTAL,Continental GT 6.0,False,car,,5,l_km_consumption
+832,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,SLR,McLaren Coupé,False,car,,1,
+833,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1994,0.0,,911,911 Turbo,False,car,,4,
+834,Cabriolet,Black,Occasion,,,Zuzwil,,Audi,2006,0.0,,RS4,RS4 Cabriolet 4.2 quattro,False,car,,6,l_km_consumption
+835,Limousine,Black,Occasion,,,Zuzwil,,Alfa Romeo,1999,0.0,,166,166 3.0 V6 24V Super,False,car,,2,l_km_consumption
+836,Coupé,Black,Occasion,,,Zuzwil,,Bmw-Alpina,1997,0.0,,3 SERIES,B3 3.2 Coupé S.Tronic,False,car,,2,l_km_consumption
+837,Coupé,Black,Occasion,,,Zuzwil,,Renault,1978,0.0,,ALPINE,Alpine A310 V6,False,car,,7,
+838,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2003,0.0,,911,911 Turbo,False,car,,6,l_km_consumption
+839,Limousine,Black,Occasion,,,Zuzwil,,BMW,1996,0.0,,540,540i,False,car,,7,l_km_consumption
+840,Coupé,Black,Occasion,,,Zuzwil,,Matra,1979,0.0,,null,SIMCA Bagheera Serie II,False,car,,2,
+841,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,1996,0.0,,456,456 GTA,False,car,,12,
+842,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2003,0.0,,MURCIÉLAGO,Murciélago 6.2 Coupé,False,car,,6,l_km_consumption
+843,Coupé,Blue,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,11,l_km_consumption
+844,Coupé,Black,Occasion,,,Zuzwil,,Renault,1973,0.0,,Alpine A110,1600 SC,False,car,,8,
+845,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,1,l_km_consumption
+846,Station Wagon,Black,Demonstration,,,Zuzwil,,BMW,1997,0.0,,523,523i Touring,False,car,,9,l_km_consumption
+847,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2008,0.0,,F430,Challenge GT3 LOOK,False,car,,6,
+848,Limousine,Black,Occasion,,,Zuzwil,,BMW,1996,0.0,,740,740i,False,car,,12,l_km_consumption
+849,Coupé,Black,Occasion,,,Zuzwil,,BMW,2012,0.0,,M6,M6,False,car,,10,
+850,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,2008,0.0,,911,911 Turbo Cabrio,False,car,,4,l_km_consumption
+851,Station Wagon,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,550,550i Touring,False,car,,4,l_km_consumption
+852,Limousine,Black,Occasion,,,Zuzwil,,Bentley,2001,0.0,,ARNAGE,Arnage Red Label,False,car,,7,l_km_consumption
+853,SUV,Black,Occasion,,,Zuzwil,,Jeep,1996,0.0,,Grand Cherokee,Grand Cherokee 4.0 Ltd.,False,car,,12,l_km_consumption
+854,Limousine,Blue,Occasion,,,Zuzwil,,Jaguar,2007,0.0,,XJ,XJ8 4.2 V8 Sovereign,False,car,,11,l_km_consumption
+855,Cabriolet,Black,Occasion,,,Zuzwil,,Rolls-Royce,1990,0.0,,CORNICHE,III,False,car,,6,
+856,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2011,0.0,,SLS 63,SLS 63 AMG,False,car,,7,l_km_consumption
+857,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,SL 320,SL 320,False,car,,4,l_km_consumption
+858,Pick-up,Black,Occasion,,,Zuzwil,,Dodge,2006,0.0,,Ram,SRT-10,False,car,,3,
+859,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2000,0.0,,RS4,RS4 Avant quattro,False,car,,11,l_km_consumption
+860,SUV,Black,Occasion,,,Zuzwil,,BMW,2003,0.0,,X5,X5 4.6is,False,car,,6,l_km_consumption
+861,Coupé,Black,Occasion,,,Porrentruy,,Lamborghini,1999,0.0,,DIABLO,Diablo 5.7 SV,False,car,,7,l_km_consumption
+862,Coupé,Black,Occasion,,,Zuzwil,,Fiat,1978,0.0,,SPIDER,CSA,False,car,,7,
+863,Limousine,Black,Occasion,,,Zuzwil,,BMW,2012,0.0,,M5,M5,False,car,,1,l_km_consumption
+864,Cabriolet,Black,Occasion,,,Zuzwil,,Bentley,2009,0.0,,CONTINENTAL,Continental GTC 6.0,False,car,,6,l_km_consumption
+865,Coupé,Blue,Occasion,,,Zuzwil,,Lamborghini,1993,0.0,,DIABLO,Diablo 5.7,False,car,,3,
+866,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,null,CLK DTM AMG Cabriolet,False,car,,6,
+867,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,S 63 AMG,S 63 AMG,False,car,,6,l_km_consumption
+868,Coupé,Black,Occasion,,,Zuzwil,,Maserati,2009,0.0,,GRANTURISMO,GranTurismo S,False,car,,7,l_km_consumption
+869,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2009,0.0,,MURCIÉLAGO,Murciélago LP670-4 SV Cpé,False,car,,7,l_km_consumption
+870,Cabriolet,Black,Occasion,,,Zuzwil,,Jaguar,2000,0.0,,XK,XKR S/C Convertible,False,car,,4,l_km_consumption
+871,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2004,0.0,,GALLARDO,Gallardo 5.0 V10 Coupé,False,car,,7,l_km_consumption
+872,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,null,CL 5.8 BRABUS,False,car,,1,
+873,SUV,Black,Occasion,,,Zuzwil,,BMW,2002,0.0,,X5,X5 4.6is,False,car,,8,l_km_consumption
+874,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 65 AMG,SL 65 AMG,False,car,,9,l_km_consumption
+875,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2013,0.0,,RS6,RS6 Avant 4.0 TFSI V8 qu,False,car,,3,l_km_consumption
+876,Coupé,Blue,Occasion,,,Zuzwil,,Alfa Romeo,1984,0.0,,GTV,GTV 6 2.5,False,car,,8,
+877,SUV,Black,Occasion,,,Zuzwil,,Land Rover,1995,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,12,l_km_consumption
+878,Limousine,Black,Occasion,,,Zuzwil,,Bentley,2002,0.0,,ARNAGE,Arnage T,False,car,,6,l_km_consumption
+879,Station Wagon,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,C 43 AMG,C 43 AMG Sport,False,car,,1,l_km_consumption
+880,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,1,l_km_consumption
+881,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1998,0.0,,911,911 Carrera,False,car,,5,l_km_consumption
+882,Limousine,Black,Occasion,,,Zuzwil,,Fiat,1980,0.0,,131,Racing / Sport,False,car,,5,
+883,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,2006,0.0,,911,911 Carrera 4S Cabrio,False,car,,5,l_km_consumption
+884,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 55 AMG,SL 55 AMG,False,car,,1,l_km_consumption
+885,Coupé,Black,Occasion,,,Zuzwil,,Renault,1978,0.0,,Alpine A110,Modell 1400 FASA,False,car,,7,
+886,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,GTR (GT3),False,car,,4,
+887,Cabriolet,Blue,Occasion,,,Zuzwil,,Porsche,1996,0.0,,911,911 Carrera Cabrio,False,car,,1,l_km_consumption
+888,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,F360,F360 Challenge stradale,False,car,,3,l_km_consumption
+889,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CLS 55 AMG,CLS 55 AMG,False,car,,6,l_km_consumption
+890,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,E 240,E 240 Elégance,False,car,,4,l_km_consumption
+891,Coupé,Black,Occasion,,,Zuzwil,,BMW,1982,0.0,,323,E21,False,car,,9,l_km_consumption
+892,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 Carrera 4 S Cabrio,False,car,,3,l_km_consumption
+893,Cabriolet,Black,Occasion,,,Zuzwil,,Porsche,2007,0.0,,911,911 Turbo Cabrio,False,car,,9,l_km_consumption
+894,SUV,Black,Occasion,,,Zuzwil,,Land Rover,1995,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,11,l_km_consumption
+895,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SLK 32 AMG,SLK 32 AMG,False,car,,8,l_km_consumption
+896,Limousine,Black,Occasion,,,Zuzwil,,Bmw-Alpina,2012,0.0,,5 SERIES,B5 BiTurbo 4.4 V8,False,car,,5,l_km_consumption
+897,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,1997,0.0,,DIABLO,Diablo 5.7,False,car,,4,
+898,Limousine,Blue,Occasion,,,Zuzwil,,Porsche,2010,0.0,,PANAMERA,Panamera Turbo 4.8,False,car,,1,l_km_consumption
+899,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,7,l_km_consumption
+900,Station Wagon,Black,Occasion,,,Zuzwil,,BMW,2007,0.0,,320,320d Touring,False,car,,8,l_km_consumption
+901,Limousine,Black,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,Turbo,False,car,,7,
+902,Coupé,Black,Occasion,,,Zuzwil,,Renault,1983,0.0,,ALPINE,Alpine A310 V6,False,car,,9,
+903,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,SL 500,SL 500,False,car,,2,l_km_consumption
+904,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Carrera,False,car,,9,l_km_consumption
+905,SUV,Black,Occasion,,,Zuzwil,,BMW,2002,0.0,,X5,X5 4.6is,False,car,,2,l_km_consumption
+906,Limousine,Black,Occasion,,,Zuzwil,,BMW,2013,0.0,,M5,M5,False,car,,3,l_km_consumption
+907,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,11,l_km_consumption
+908,Coupé,Black,Occasion,,,Zuzwil,,Maserati,2002,0.0,,COUPÉ GT,Coupé GT,False,car,,10,l_km_consumption
+909,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,SL 63 AMG,SL 63 AMG,False,car,,3,l_km_consumption
+910,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,6,l_km_consumption
+911,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,SL 55 AMG,SL 55 AMG,False,car,,2,l_km_consumption
+912,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,S 350,S 350 L 4Matic,False,car,,1,l_km_consumption
+913,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2002,0.0,,A4,A4 Avant 3.0 V6,False,car,,8,l_km_consumption
+914,Minivan,Black,Occasion,,,Zuzwil,,VW,2008,0.0,,TOURAN,Touran 1.4 TSI Trend,False,car,,3,l_km_consumption
+915,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,S 600,S 600 L,False,car,,1,l_km_consumption
+916,Limousine,Black,Occasion,,,Zuzwil,,BMW,1973,0.0,,3.0,CSL,False,car,,1,
+917,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2005,0.0,,612,612,False,car,,4,l_km_consumption
+918,SUV,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,G 55 AMG,G 55 AMG,False,car,,1,l_km_consumption
+919,SUV,Black,Occasion,,,Zuzwil,,Kaiser,1966,0.0,,null,CJ-5 12V ARMEEFAHRZEUG,False,car,,9,
+920,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1993,0.0,,SL 600,SL 600,False,car,,3,
+921,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1999,0.0,,S 320,S 320,False,car,,3,l_km_consumption
+922,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,SL 500,SL 500,False,car,,8,l_km_consumption
+923,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,SL 500,SL 500,False,car,,4,l_km_consumption
+924,Cabriolet,Black,Occasion,,,Zuzwil,,Lotus,2005,0.0,,null,HKT Seven GTS,False,car,,5,
+925,Coupé,Black,Occasion,,,Zuzwil,,Talbot,1982,0.0,,null,Sunbeam Lotus,False,car,,3,
+926,Station Wagon,Black,Occasion,,,Zuzwil,,Saab,2002,0.0,,9-5,9-5 2.3T Aero,False,car,,7,l_km_consumption
+927,Coupé,Black,Occasion,,,Zuzwil,,Audi,2009,0.0,,R8,R8 Coupé 5.2,False,car,,7,l_km_consumption
+928,Limousine,Black,Occasion,,,Zuzwil,,Lincoln,2002,0.0,,Continental,null,False,car,,2,
+929,Coupé,Black,Occasion,,,Zuzwil,,Maserati,1996,0.0,,GHIBLI,Ghibli 2.8 GT,False,car,,3,
+930,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,S 500,S 500 L,False,car,,5,l_km_consumption
+931,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Aston Martin,2005,0.0,,DB9,DB9 Volante,False,car,,11,l_km_consumption
+932,Limousine,Blue,Occasion,,,Zuzwil,,Lancia,1995,0.0,,DELTA,Integrale EVO,False,car,,2,
+933,Limousine,Black,Occasion,,,Zuzwil,,BMW,2002,0.0,,525,525i,False,car,,2,l_km_consumption
+934,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,2012,0.0,,M6,M6,False,car,,6,l_km_consumption
+935,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,CLK 63 AMG,CLK 63 AMG Black Series,False,car,,6,l_km_consumption
+936,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1993,0.0,,911,Turbo ll 3.6,False,car,,10,
+937,Limousine,Black,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,S 320,S 320,False,car,,8,l_km_consumption
+938,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1984,0.0,,911,911 Turbo,False,car,,3,
+939,Coupé,Black,Occasion,,,Zuzwil,,Honda,1998,0.0,,ACCORD,Accord Coupé V6 3.0i VTEC,False,car,,7,l_km_consumption
+940,Coupé,Black,Occasion,,,Zuzwil,,Audi,2011,0.0,,RS5,RS5 Coupé 4.2FSI quattro,False,car,,1,l_km_consumption
+941,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2010,0.0,,458,458 Italia 4.5 V8,False,car,,10,l_km_consumption
+942,Limousine,Black,Occasion,,,Zuzwil,,Rolls-Royce,1988,0.0,,Silver Spur,null,False,car,,9,
+943,Limousine,Blue,Occasion,,,Zuzwil,,NSU,1971,0.0,,null,TTS,False,car,,7,
+944,Cabriolet,Black,Occasion,,,Zuzwil,,Jaguar,2009,0.0,,XK,XKR 5.0 V8 SC,False,car,,3,l_km_consumption
+945,Limousine,Black,Occasion,,,Zuzwil,,BMW,2012,0.0,,535,535d xDrive,False,car,,4,l_km_consumption
+946,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2002,0.0,,911,911 GT2,False,car,,5,l_km_consumption
+947,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,SL 500,SL 500,False,car,,5,l_km_consumption
+948,Coupé,Black,Occasion,,,Zuzwil,,Lamborghini,2016,0.0,,HURACAN,Huracan LP610-4 Coupé,False,car,,1,l_km_consumption
+949,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2012,0.0,,C 63 AMG,BLACK SERIES,False,car,,3,
+950,Limousine,Black,Occasion,,,Zuzwil,,BMW,1999,0.0,,740,740iL,False,car,,5,l_km_consumption
+951,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,GT3 CUP,False,car,,5,
+952,Coupé,Black,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,612,612,False,car,,7,l_km_consumption
+953,Cabriolet,Black,Occasion,,,Zuzwil,,BMW,1995,0.0,,328,328i A Cabrio,False,car,,8,l_km_consumption
+954,Coupé,Blue,Occasion,,,Zuzwil,,Toyota,1976,0.0,,CELICA,2000GT,False,car,,11,
+955,Coupé,Black,Occasion,,,Zuzwil,,Porsche,1995,0.0,,911,911 Carrera 4,False,car,,2,
+956,Limousine,Black,Occasion,,,Zuzwil,,Lancia,1993,0.0,,DELTA,Delta HF Integrale Evo 4V,False,car,,12,
+957,SUV,Black,Occasion,,,Zuzwil,,Toyota,1979,0.0,,LAND CRUISER,BJ 40 LT,False,car,,7,
+958,Coupé,Black,Occasion,,,Zuzwil,,Maserati,2006,0.0,,COUPÉ GT,Coupé GT,False,car,,9,l_km_consumption
+959,null,Black,Occasion,,,Zuzwil,,Harley-Davidson,2006,0.0,,null,HPU Hurricane TC,False,car,,4,
+960,SUV,Black,Occasion,,,Zuzwil,,Land Rover,1994,0.0,,RANGE ROVER,Range Rover 4.6 HSE,False,car,,11,l_km_consumption
+961,Coupé,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,CL 65 AMG,CL 65 AMG,False,car,,5,l_km_consumption
+962,Cabriolet,Black,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 600,SL 600,False,car,,3,l_km_consumption
+963,Coupé,Black,Occasion,,,Zuzwil,,BMW,1979,0.0,,null,323 i E21,False,car,,5,
+964,Coupé,Black,Occasion,,,Zuzwil,,Maserati,2009,0.0,,GRANTURISMO,GranTurismo,False,car,,12,l_km_consumption
+965,Coupé,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,CL 500,CL 500,False,car,,9,l_km_consumption
+966,Cabriolet,Black,Occasion,,,Zuzwil,,Smart,2003,0.0,,FORTWO,Fortwo passion,False,car,,7,l_km_consumption
+967,Station Wagon,Black,Occasion,,,Zuzwil,,Audi,2000,0.0,,S6,S6 Avant quattro,False,car,,10,l_km_consumption
+968,Coupé,Black,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Turbo,False,car,,10,l_km_consumption
+969,Station Wagon,Black,New,,,Zuzwil,,Mercedes-Benz,2006,0.0,,R 500,R 500 4Matic,False,car,,1,l_km_consumption
+970,Cabriolet,Black,Restored,,,Basel,,Rolls-Royce,1982,0.0,,CORNICHE,Convertible,False,car,,1,
+971,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 Carrera 4,False,car,,4,l_km_consumption
+972,Limousine,Silver,Occasion,,,Zuzwil,,Lancia,1994,0.0,,DELTA,Delta HF Integrale Evo 4V,False,car,,1,
+973,Limousine,Silver,Occasion,,,Zuzwil,,Alfa Romeo,1972,0.0,,GT,1300 Junior,False,car,,6,
+974,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2010,0.0,,599,599 GTB HGTE,False,car,,4,l_km_consumption
+975,Coupé,Silver,Restored,,,Sursee,,Ferrari,1970,0.0,,365,Daytona Plexiglas,False,car,,9,
+976,Coupé,Blue,Occasion,,,Zuzwil,,Ferrari,1995,0.0,,F355,F355 Berlinetta,False,car,,5,l_km_consumption
+977,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1984,0.0,,ALPINE,Alpine A310 V6 VFA-2700 VAA,False,car,,5,
+978,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,E 55 AMG,E 55 AMG Avantgarde,False,car,,2,l_km_consumption
+979,Station Wagon,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,C 280,C 280 Elégance,False,car,,6,l_km_consumption
+980,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,2,l_km_consumption
+981,Limousine,Silver,Occasion,,,Zuzwil,,Audi,1998,0.0,,S8,S8 4.2 quattro,False,car,,1,l_km_consumption
+982,SUV,Silver,Occasion,,,Zuzwil,,VW,2003,0.0,,TOUAREG,Touareg 5.0 TDI V10,False,car,,11,l_km_consumption
+983,Coupé,Silver,Occasion,,,Zuzwil,,Nissan,1990,0.0,,200 SX,200 SX 1.8 16V Turbo,False,car,,6,
+984,Coupé,Silver,Demonstration,,,Zuzwil,,Ferrari,2008,0.0,,599,599 GTB,False,car,,4,l_km_consumption
+985,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1991,0.0,,911,911 Turbo II,False,car,,8,
+986,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,SL 65 AMG,BLACK SERIES,False,car,,7,
+987,Cabriolet,Blue,Occasion,,,Zuzwil,,BMW,2002,0.0,,M3,M3,False,car,,5,l_km_consumption
+988,Limousine,Silver,Occasion,,,Zuzwil,,Audi,2011,0.0,,RS4,RS4 4.2 V8 quattro,False,car,,0,l_km_consumption
+989,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 600,CL 600,False,car,,2,l_km_consumption
+990,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1999,0.0,,911,911 GT3,False,car,,10,l_km_consumption
+991,SUV,Silver,Occasion,,,Zuzwil,,VW,2006,0.0,,TOUAREG,Touareg 5.0 TDI V10,False,car,,9,l_km_consumption
+992,Coupé,Silver,Occasion,,,Zuzwil,,Aston Martin,2005,0.0,,DB9,DB9,False,car,,1,l_km_consumption
+993,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1994,0.0,,SL 500,SL 500,False,car,,3,
+994,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,CL 600,CL 600,False,car,,7,l_km_consumption
+995,Cabriolet,Silver,Occasion,,,Sursee,,Ford ,1968,0.0,,MUSTANG,null,False,car,,3,
+996,Coupé,Silver,Occasion,,,Zuzwil,,Chevrolet,2009,0.0,,CORVETTE,Corvette ZR1,False,car,,7,l_km_consumption
+997,Cabriolet,Silver,Occasion,,,Zuzwil,,Ferrari,2003,0.0,,F360,F360 Spider,False,car,,2,l_km_consumption
+998,Small Car,Blue,Occasion,,,Zuzwil,,Daihatsu,1985,0.0,,CHARADE,Charade 1.0 Turbo,False,car,,9,
+999,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2003,0.0,,545,545i,False,car,,9,l_km_consumption
+1000,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,C 240,C 240 Elégance,False,car,,7,l_km_consumption
+1001,Coupé,Silver,Occasion,,,Zuzwil,,Maserati,2005,0.0,,GRANSPORT,Coupé GranSport,False,car,,1,l_km_consumption
+1002,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SL 65 AMG,SL 65 AMG,False,car,,7,l_km_consumption
+1003,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,2,l_km_consumption
+1004,Limousine,Silver,Occasion,,,Zuzwil,,NSU,1972,0.0,,null,TT,False,car,,4,
+1005,Coupé,Silver,Occasion,,,Zuzwil,,Mclaren,2012,0.0,,12C,MP4-12C Coupé 3.8 V8,False,car,,3,l_km_consumption
+1006,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1999,0.0,,735,735i,False,car,,8,l_km_consumption
+1007,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,E 250,E 250 CGI BlueEff Avgarde,False,car,,6,l_km_consumption
+1008,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1982,0.0,,ALPINE,Alpine A310 V6,False,car,,10,
+1009,Limousine,Blue,Occasion,,,Zuzwil,,Citroen,2001,0.0,,C5,C5 3.0 V6 Exclusive,False,car,,6,l_km_consumption
+1010,Station Wagon,Silver,Occasion,,,Zuzwil,,Toyota,2004,0.0,,COROLLA,Corolla 2.0 D4D L.Terra,False,car,,6,l_km_consumption
+1011,Limousine,Silver,Occasion,,,Zuzwil,,Bentley,2000,0.0,,ARNAGE,Arnage Green Label,False,car,,4,l_km_consumption
+1012,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2005,0.0,,M6,M6,False,car,,7,l_km_consumption
+1013,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Turbo,False,car,,12,l_km_consumption
+1014,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2005,0.0,,575M,575M,False,car,,3,l_km_consumption
+1015,SUV,Silver,Occasion,,,Zuzwil,,BMW,2012,0.0,,X1,X1 xDrive 25d Sport Line,False,car,,9,l_km_consumption
+1016,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,S 65 AMG,S 65 L AMG 650PS,False,car,,8,l_km_consumption
+1017,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,456,456M GT,False,car,,3,l_km_consumption
+1018,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2009,0.0,,S 500,S 500,False,car,,2,l_km_consumption
+1019,Limousine,Silver,Occasion,,,Zuzwil,,VW,2007,0.0,,GOLF,Golf R32 4Motion,False,car,,2,l_km_consumption
+1020,Coupé,Blue,Occasion,,,Zuzwil,,Ford,1971,0.0,,CAPRI,RS 2600,False,car,,5,
+1021,Cabriolet,Silver,Occasion,,,Zuzwil,,Renault,2000,0.0,,SPORT SPIDER,Windschutzscheibe,False,car,,9,
+1022,Small Car,Silver,Occasion,,,Zuzwil,,Renault,1981,0.0,,R5,Alpine,False,car,,7,
+1023,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,S 65 AMG,S 65 AMG L,False,car,,6,l_km_consumption
+1024,Cabriolet,Silver,Occasion,,,Zuzwil,,Renault,1997,0.0,,SPORT SPIDER,Spider 2.0 16V TURBO,False,car,,6,l_km_consumption
+1025,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2006,0.0,,M6,M6,False,car,,11,l_km_consumption
+1026,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2006,0.0,,CL 500,CL 500 Prime Edition,False,car,,10,l_km_consumption
+1027,SUV,Silver,Occasion,,,Zuzwil,,Land Rover,2010,0.0,,RANGE ROVER,Range Rover 5.0 V8 SC,False,car,,10,l_km_consumption
+1028,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1999,0.0,,M5,M5,False,car,,1,l_km_consumption
+1029,Coupé,Silver,Restored,,,Zuzwil,,MG,1930,0.0,,null,M Roadster,False,car,,6,
+1030,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,S 600,S 600 L,False,car,,1,l_km_consumption
+1031,Limousine,Blue,Occasion,,,Zuzwil,,Jaguar,1999,0.0,,S-TYPE,S-Type 4.0 V8,False,car,,5,l_km_consumption
+1032,Cabriolet,Silver,Occasion,,,Zuzwil,,Fiat,1974,0.0,,SPIDER,CSA Abarth,False,car,,7,
+1033,Cabriolet,Silver,Occasion,,,Zuzwil,,Ferrari,2001,0.0,,F360,F360 Spider,False,car,,5,l_km_consumption
+1034,Limousine,Silver,Occasion,,,Zuzwil,,Bmw-Alpina,1985,0.0,,5 SERIES,B7 (E28),False,car,,7,
+1035,Cabriolet,Silver,Occasion,,,Zuzwil,,Rolls-Royce,2001,0.0,,CORNICHE,Corniche,False,car,,7,l_km_consumption
+1036,Coupé,Silver,Occasion,,,Zuzwil,,Nissan,2007,0.0,,Skyline,R34 GTR,False,car,,1,
+1037,Coupé,Silver,Occasion,,,Zuzwil,,Audi,1990,0.0,,QUATTRO,quattro Turbo 20V,False,car,,1,
+1038,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2008,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,6,l_km_consumption
+1039,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1992,0.0,,ALPINE,Alpine A610 Turbo,False,car,,6,
+1040,Cabriolet,Silver,Occasion,,,Zuzwil,,Audi,2012,0.0,,R8,R8 GT Spyder 5.2,False,car,,6,l_km_consumption
+1041,Cabriolet,Silver,Occasion,,,Zuzwil,,Maserati,1995,0.0,,BITURBO,Biturbo Spyder E,False,car,,3,
+1042,Cabriolet,Anthracite,Occasion,,,Zuzwil,,Lotus,2003,0.0,,ELISE,Elise,False,car,,10,l_km_consumption
+1043,Cabriolet,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,2008,0.0,,SLK 350,SLK 350,False,car,,5,l_km_consumption
+1044,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,CLK 320,CLK 320 Sport,False,car,,6,l_km_consumption
+1045,Small Car,Silver,Occasion,,,Zuzwil,,Citroen,1986,0.0,,2CV,2CV6 Charleston,False,car,,7,
+1046,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1998,0.0,,E 430,E 430 Avantgarde,False,car,,6,l_km_consumption
+1047,Small Car,Silver,Occasion,,,Zuzwil,,Renault,2004,0.0,,CLIO,Clio 3.0 Sport V6,False,car,,11,l_km_consumption
+1048,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1981,0.0,,ALPINE,Alpine A310 V6,False,car,,12,
+1049,Coupé,Silver,Occasion,,,Zuzwil,,Mclaren,2012,0.0,,12C,MP4-12C Coupé 3.8 V8,False,car,,4,l_km_consumption
+1050,Cabriolet,Silver,Restored,,,Safenwil,,Triumph,1957,0.0,,TR3,null,False,car,,1,
+1051,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,CL 55 AMG,CL 55 AMG,False,car,,11,l_km_consumption
+1052,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,S 320,S 320,False,car,,3,l_km_consumption
+1053,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1994,0.0,,SL 500,SL 500,False,car,,3,
+1054,Limousine,Blue,Occasion,,,Zuzwil,,Bentley,2012,0.0,,CONTINENTAL,Continental FlyingSpur6.0,False,car,,5,l_km_consumption
+1055,Cabriolet,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Carrera Cabrio,False,car,,2,l_km_consumption
+1056,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 GT3,False,car,,3,l_km_consumption
+1057,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2006,0.0,,535,535d,False,car,,1,l_km_consumption
+1058,Cabriolet,Silver,Occasion,,,Zuzwil,,Rolls-Royce,2002,0.0,,CORNICHE,Corniche,False,car,,6,l_km_consumption
+1059,Cabriolet,Silver,Occasion,,,Zuzwil,,Aston Martin,2004,0.0,,DB7,DB7 Vantage Volante,False,car,,4,l_km_consumption
+1060,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,SL 500,SL 500,False,car,,10,l_km_consumption
+1061,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,tii,False,car,,4,
+1062,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1997,0.0,,750,750iL,False,car,,6,l_km_consumption
+1063,Limousine,Silver,Occasion,,,Zuzwil,,Bentley,1999,0.0,,ARNAGE,Arnage Green Label,False,car,,6,l_km_consumption
+1064,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2005,0.0,,M5,M5,False,car,,4,l_km_consumption
+1065,Small Car,Blue,Occasion,,,Zuzwil,,Renault,2008,0.0,,CLIO,Clio 2.0 16V Sport,False,car,,2,l_km_consumption
+1066,Cabriolet,Silver,New,,,Zuzwil,,Mercedes-Benz,2009,0.0,,SLK 200,SLK 200 Kompressor,False,car,,7,l_km_consumption
+1067,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2004,0.0,,M3,M3 CSL,False,car,,7,l_km_consumption
+1068,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,5,l_km_consumption
+1069,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2005,0.0,,M5,M5,False,car,,4,l_km_consumption
+1070,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,6,l_km_consumption
+1071,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,CL 600,CL 600,False,car,,2,l_km_consumption
+1072,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1991,0.0,,SL 500,6.0 AMG,False,car,,3,
+1073,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,S 65 AMG,S 65 AMG L,False,car,,1,l_km_consumption
+1074,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2003,0.0,,RS6,RS6 Avant quattro,False,car,,3,l_km_consumption
+1075,SUV,Silver,Occasion,,,Zuzwil,,Land Rover,1998,0.0,,DISCOVERY,Discovery 3.9,False,car,,7,l_km_consumption
+1076,Cabriolet,Blue,Occasion,,,Sursee,,Chevrolet,1969,0.0,,CAMARO,null,False,car,,3,
+1077,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2006,0.0,,M5,M5,False,car,,6,l_km_consumption
+1078,Coupé,Silver,Occasion,,,Sursee,,Mercedes-Benz,1955,0.0,,300,300SL W198,False,car,,5,
+1079,Limousine,Silver,Occasion,,,Zuzwil,,Fiat,2006,0.0,,STILO,Stilo 1.8 16V Swiss,False,car,,8,l_km_consumption
+1080,Limousine,Silver,Occasion,,,Zuzwil,,Lancia,1978,0.0,,null,Monte Carlo 137 AS,False,car,,7,
+1081,Limousine,Silver,Restored,,,Zuzwil,,Toyota,1972,0.0,,CARINA,Deluxe,False,car,,11,
+1082,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1996,0.0,,E 320,E 320 Elégance,False,car,,12,l_km_consumption
+1083,SUV,Silver,New,,,Zuzwil,,Porsche,2009,0.0,,CAYENNE,Cayenne S,False,car,,9,l_km_consumption
+1084,Cabriolet,Silver,Occasion,,,Zuzwil,,BMW,2002,0.0,,M3,M3,False,car,,11,l_km_consumption
+1085,Cabriolet,Silver,Occasion,,,Zuzwil,,BMW,2013,0.0,,650,650i xDrive,False,car,,1,l_km_consumption
+1086,Coupé,Silver,Occasion,,,Zuzwil,,Chevrolet,2008,0.0,,CORVETTE,Corvette 6.2,False,car,,3,l_km_consumption
+1087,Coupé,Blue,Occasion,,,Zuzwil,,Maserati,2002,0.0,,COUPÉ GT,Coupé GT,False,car,,6,l_km_consumption
+1088,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,F360,F360 Modena Berlinetta,False,car,,5,l_km_consumption
+1089,Coupé,Silver,Occasion,,,Zuzwil,,BMW,1996,0.0,,328,328i Coupé,False,car,,8,l_km_consumption
+1090,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,S 65 AMG,S 65 AMG L,False,car,,1,l_km_consumption
+1091,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,9,l_km_consumption
+1092,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,F355,F355 Berlinetta,False,car,,5,l_km_consumption
+1093,Limousine,Silver,Occasion,,,Zuzwil,,Volvo,2001,0.0,,S60,S60 2.4T,False,car,,4,l_km_consumption
+1094,Coupé,Silver,Occasion,,,Zuzwil,,Chrysler,2000,0.0,,VIPER,Viper GTS,False,car,,12,l_km_consumption
+1095,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2000,0.0,,911,911 Turbo,False,car,,6,l_km_consumption
+1096,SUV,Silver,Occasion,,,Zuzwil,,Porsche,2003,0.0,,CAYENNE,Cayenne Turbo,False,car,,1,l_km_consumption
+1097,Coupé,Silver,Occasion,,,Zuzwil,,Ford,1986,0.0,,null,RS200 EVO Gruppe B,False,car,,8,
+1098,Limousine,Blue,Occasion,,,Zuzwil,,Audi,2003,0.0,,A8,A8 4.2 quattro,False,car,,1,l_km_consumption
+1099,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2010,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,3,l_km_consumption
+1100,Limousine,Silver,Occasion,,,Zuzwil,,Porsche,2010,0.0,,PANAMERA,Panamera 4S 4.8,False,car,,11,l_km_consumption
+1101,SUV,Silver,Occasion,,,Zuzwil,,BMW,2005,0.0,,X5,X5 4.4i,False,car,,8,l_km_consumption
+1102,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2004,0.0,,SL 55 AMG,SL 55 AMG,False,car,,4,l_km_consumption
+1103,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,10,l_km_consumption
+1104,Limousine,Silver,Demonstration,,,Zuzwil,,Mercedes-Benz,2007,0.0,,E 320,E 320 CDI Avantgarde,False,car,,6,l_km_consumption
+1105,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2000,0.0,,F360,F360 Modena Berlinetta,False,car,,11,l_km_consumption
+1106,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,4,l_km_consumption
+1107,Coupé,Silver,Occasion,,,Zuzwil,,Lamborghini,2010,0.0,,MURCIÉLAGO,Murciélago LP670-4 SV Cpé,False,car,,5,l_km_consumption
+1108,Limousine,Silver,Occasion,,,Zuzwil,,Porsche,2010,0.0,,PANAMERA,Panamera 4S 4.8,False,car,,5,l_km_consumption
+1109,Limousine,Blue,Occasion,,,Zuzwil,,Jaguar,1997,0.0,,XJ,XJ 4.0 Sovereign,False,car,,3,l_km_consumption
+1110,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2003,0.0,,S 600,S 600 L,False,car,,6,l_km_consumption
+1111,SUV,Silver,Occasion,,,Zuzwil,,BMW,2001,0.0,,X5,X5 4.4i,False,car,,12,l_km_consumption
+1112,SUV,Silver,Occasion,,,Zuzwil,,Land Rover,2006,0.0,,RANGE ROVER SPORT,Range Rover Sport 4.2 V8 SC,False,car,,5,l_km_consumption
+1113,SUV,Silver,New,,,Zuzwil,,Porsche,2007,0.0,,CAYENNE,Cayenne Turbo S,False,car,,5,l_km_consumption
+1114,SUV,Silver,Occasion,,,Zuzwil,,Porsche,2008,0.0,,CAYENNE,Cayenne Turbo,False,car,,4,l_km_consumption
+1115,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2012,0.0,,M5,M5,False,car,,3,l_km_consumption
+1116,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1999,0.0,,328,328i,False,car,,8,l_km_consumption
+1117,Limousine,Silver,Occasion,,,Zuzwil,,BMW,2001,0.0,,330,330xi,False,car,,11,l_km_consumption
+1118,SUV,Silver,Occasion,,,Zuzwil,,BMW,2000,0.0,,X5,X5 4.4i,False,car,,11,l_km_consumption
+1119,Limousine,Silver,Restored,,,Zuzwil,,Bmw-Alpina,1980,0.0,,7 SERIES,B7 Turbo Limousine,False,car,,3,
+1120,Cabriolet,Blue,Occasion,,,Zuzwil,,Maserati,2003,0.0,,SPYDER GT,Spyder GT,False,car,,3,l_km_consumption
+1121,Cabriolet,Silver,Occasion,,,Zuzwil,,Porsche,2006,0.0,,CARRERA GT,Carrera GT,False,car,,12,l_km_consumption
+1122,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,RS6,RS6 Avant quattro,False,car,,8,l_km_consumption
+1123,Limousine,Silver,Occasion,,,Zuzwil,,Nissan,1992,0.0,,SUNNY,Sunny 2.0 16V GTI-R,False,car,,2,
+1124,Limousine,Silver,Occasion,,,Zuzwil,,Bmw-Alpina,2003,0.0,,3 SERIES,B3 3.3 S,False,car,,2,l_km_consumption
+1125,Limousine,Silver,Occasion,,,Zuzwil,,Bentley,2003,0.0,,ARNAGE,Arnage T,False,car,,12,
+1126,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,1999,0.0,,F355,F355 Berlinetta,False,car,,7,l_km_consumption
+1127,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2007,0.0,,SLR,McLaren,False,car,,10,
+1128,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 50 AMG,E 50 AMG Avantgarde,False,car,,2,l_km_consumption
+1129,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1995,0.0,,911,911 Turbo,False,car,,4,l_km_consumption
+1130,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,2001,0.0,,911,911 Turbo,False,car,,6,l_km_consumption
+1131,Station Wagon,Blue,Occasion,,,Zuzwil,,Mercedes-Benz,1997,0.0,,E 230,E 230 Elégance,False,car,,5,l_km_consumption
+1132,Cabriolet,Silver,Occasion,,,Zuzwil,,Porsche,2004,0.0,,911,911 Turbo Cabrio,False,car,,9,l_km_consumption
+1133,Limousine,Silver,Occasion,,,Zuzwil,,Audi,2006,0.0,,RS4,RS4 4.2 V8 quattro,False,car,,1,l_km_consumption
+1134,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,1998,0.0,,F355,F355 Berlinetta,False,car,,7,l_km_consumption
+1135,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2005,0.0,,CLS 500,CLS 500,False,car,,4,l_km_consumption
+1136,Coupé,Silver,Occasion,,,Zuzwil,,Porsche,1983,0.0,,911,SC 3.0,False,car,,4,
+1137,Coupé,Silver,Occasion,,,Zuzwil,,BMW,2005,0.0,,M6,M6,False,car,,7,l_km_consumption
+1138,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 500,SL 500,False,car,,3,l_km_consumption
+1139,Coupé,Silver,Occasion,,,Zuzwil,,Bentley,1995,0.0,,TURBO,null,False,car,,1,
+1140,Cabriolet,Silver,Occasion,,,Zuzwil,,PGO,2008,0.0,,null,Cevennes,False,car,,5,
+1141,Coupé,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2000,0.0,,CL 500,CL 500,False,car,,1,l_km_consumption
+1142,Limousine,Blue,Occasion,,,Zuzwil,,BMW,2000,0.0,,M5,M5,False,car,,8,l_km_consumption
+1143,Cabriolet,Silver,Occasion,,,Sursee,,Lamborghini,2014,0.0,,AVENTADOR,Aventador LP700-4 Rds,False,car,,1,l_km_consumption
+1144,Cabriolet,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2002,0.0,,SL 55 AMG,SL 55 AMG,False,car,,3,l_km_consumption
+1145,Coupé,Silver,Occasion,,,Zuzwil,,Renault,1984,0.0,,R5,Alpine Turbo,False,car,,8,
+1146,Limousine,Silver,Occasion,,,Zuzwil,,Audi,2002,0.0,,A6,A6 2.4,False,car,,7,l_km_consumption
+1147,Limousine,Silver,Occasion,,,Zuzwil,,BMW,1974,0.0,,2002,Turbo,False,car,,6,
+1148,Limousine,Silver,Occasion,,,Zuzwil,,Mercedes-Benz,2010,0.0,,CLS 350,CLS 350 CGI,False,car,,1,l_km_consumption
+1149,Coupé,Silver,Occasion,,,Zuzwil,,Lamborghini,1993,0.0,,DIABLO,Diablo 5.7 VT,False,car,,6,
+1150,Station Wagon,Silver,Occasion,,,Zuzwil,,Audi,2009,0.0,,RS6,RS6 Avant 5.0 V10 quattro,False,car,,2,l_km_consumption
+1151,Coupé,Silver,Occasion,,,Zuzwil,,Ferrari,2004,0.0,,612,612,False,car,,10,l_km_consumption
+1152,SUV,Silver,Occasion,,,Zuzwil,,Porsche,2005,0.0,,CAYENNE,Cayenne Turbo,False,car,,12,l_km_consumption
