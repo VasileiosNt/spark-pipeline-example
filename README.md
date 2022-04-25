@@ -19,11 +19,11 @@ A simple spark pipeline that transforms supplier's data (source) into a target d
 # Get Started 
 
 To run the pipeline run the following under the `app` folder:
- - make spark-run (Initializes the spark cluster)
- - make poetry (installs the poetry package manager)
- - make install (installs the dependencies)
- - make run-job (start the spark pipeline)
- - make tests (runs the tests)
+ - `make spark-run` (Initializes the spark cluster)
+ - `make poetry` (installs the poetry package manager)
+ - `make install` (installs the dependencies)
+ - `make run-job` (start the spark pipeline)
+ - `make tests` (runs the tests)
 
 
 #### Notes
