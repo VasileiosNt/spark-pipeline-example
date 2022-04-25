@@ -13,12 +13,12 @@ A simple spark pipeline that transforms supplier's data (source) into a target d
 - The unit of the consumption from the supplier attribute “ConsumptionTotalText” into an attribute called: “ex-tracted-unit-ConsumptionTotalText”
 
 ##### Integration
-- Integrate source to target verifiying the identical schemas
+- Integrate source to target.
 
 
 # Get Started 
 
-To run the pipeline run the following:
+To run the pipeline run the following under the `app` folder:
  - make spark-run (Initializes the spark cluster)
  - make poetry (installs the poetry package manager)
  - make install (installs the dependencies)
