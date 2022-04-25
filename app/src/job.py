@@ -162,7 +162,6 @@ def main():
         "fuel_consumption_unit",
     )
     # I had to switch to pandas and recreate the dataframe with the target schema,
-    # pyspark's casting methods for some reason did not work.
     pd_integrated_df = integrated_df.toPandas()
     integrated_df : Final = ss.createDataFrame(pd_integrated_df, schema=tf.target_schema)
 
